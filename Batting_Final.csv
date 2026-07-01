@@ -1,0 +1,677 @@
+﻿Match_ID,Team,Batter,Player_ID,Batting_Hand,Bowling_Style,Runs,Balls,4s,6s,SR,Dismissal,Dismissal_Type,Bowler,Fielder
+1,Parsi Gymkhana U14,Shardul,27144244.0,RHB,Right-arm medium,47,56,10,0,83.93,c  Amogh Atpadkar b Daksh Khobragade,Caught,Daksh Khobragade,Amogh Atpadkar
+1,Parsi Gymkhana U14,Nirav S,14637714.0,LHB,Right-arm Leg Break,5,13,1,0,38.46,c  Amogh Atpadkar b Satyajeet Bhumkar,Caught,Satyajeet Bhumkar,Amogh Atpadkar
+1,Parsi Gymkhana U14,Sanmit Shetane,14597849.0,RHB,Right-arm fast,0,1,0,0,0.0,run out Aahan Thanekar /   Amogh Atpadkar,Run Out,,"Aahan Thanekar, Amogh Atpadkar"
+1,Parsi Gymkhana U14,Avaneesh Suradkar,17162652.0,RHB,Right-arm medium,9,18,2,0,50.0,b Satyajeet Bhumkar,Bowled,Satyajeet Bhumkar,
+1,Parsi Gymkhana U14,Shreyan Ranaware,10551642.0,RHB,Right-arm Off Break,15,40,3,0,37.5,c Shivraj Sarde b Omaansh Bora,Caught,Omaansh Bora,Shivraj Sarde
+1,Parsi Gymkhana U14,Sairaj Chaudhari,20916579.0,RHB,Right-arm Off Break,48,90,7,0,53.33,b Arnav Rishikesh Gawade,Bowled,Arnav Rishikesh Gawade,
+1,Parsi Gymkhana U14,Aarman Khan,7145288.0,RHB,Right-arm Leg Break,45,117,2,0,38.46,lbw b Rishabh Jha,LBW,Rishabh Jha,
+1,Parsi Gymkhana U14,Vicky,23911259.0,RHB,Right-arm Leg Break,72,66,13,0,109.09,retired hurt,Retired Hurt,,
+1,Parsi Gymkhana U14,Viraj Kadam,4230817.0,RHB,Right-arm Off Break,17,38,3,0,44.74,c  Amogh Atpadkar b Satyajeet Bhumkar,Caught,Satyajeet Bhumkar,Amogh Atpadkar
+1,Parsi Gymkhana U14,Anirudh Nair,13439065.0,RHB,Right-arm fast,13,44,1,0,29.55,not out,Not Out,,
+1,Parsi Gymkhana U14,Sambhuraj Bhosale,34691992.0,RHB,Right-arm medium,20,27,3,0,74.07,c Advit Suhas Wagh b Yugveer,Caught,Yugveer,Advit Suhas Wagh
+1,Parsi Gymkhana U14,Hridaan Singh3,8287267.0,RHB,Right-arm medium,19,32,3,0,59.38,not out,Not Out,,
+1,Vijay Cricket Club U14,Shivraj Sarde,24199085.0,RHB,Right-arm Off Break,56,63,10,1,88.89,c Avaneesh Suradkar b Saptjeet Prashant Jawalkar,Caught,Saptjeet Prashant Jawalkar,Avaneesh Suradkar
+1,Vijay Cricket Club U14,Amogh Atpadkar,10605543.0,RHB,Right-arm medium,15,22,2,0,68.18,b Devansh Tumkar,Bowled,Devansh Tumkar,
+1,Vijay Cricket Club U14,Vihan Yevankar,14154348.0,RHB,Right-arm Off Break,19,40,3,0,47.5,c  Sanmit Shetane b Saptjeet Prashant Jawalkar,Caught,Saptjeet Prashant Jawalkar,Sanmit Shetane
+1,Vijay Cricket Club U14,Anargh Jain,11573993.0,RHB,Right-arm fast,3,16,0,0,18.75,c  Sanmit Shetane b Anshuman Sharma,Caught,Anshuman Sharma,Sanmit Shetane
+1,Vijay Cricket Club U14,Atharv Jadhavar,24593178.0,RHB,Right-arm Off Break,81,103,14,0,78.64,c Aarman Khan b Vicky,Caught,Vicky,Aarman Khan
+1,Vijay Cricket Club U14,Advit Suhas Wagh,17284581.0,RHB,Right-arm medium,25,29,3,1,86.21,b ATHARAV RAKHAPASARE,Bowled,ATHARAV RAKHAPASARE,
+1,Vijay Cricket Club U14,Maanvendra Singh Sengar,17734094.0,RHB,,5,38,0,0,13.16,b Aarman Khan,Bowled,Aarman Khan,
+1,Vijay Cricket Club U14,Samanyu Pal,32380655.0,RHB,Right-arm medium,15,35,2,0,42.86,c Hridaan Singh3 b Vicky,Caught,Vicky,Hridaan Singh3
+1,Vijay Cricket Club U14,Samanyu Pal,49813905.0,LHB,11,15,35,2,0,42.86,c Hridaan Singh3 b Vicky,Caught,Vicky,Hridaan Singh3
+1,Vijay Cricket Club U14,Samanyu Pal,52162896.0,RHB,Right-arm medium,15,35,2,0,42.86,c Hridaan Singh3 b Vicky,Caught,Vicky,Hridaan Singh3
+1,Vijay Cricket Club U14,Sarthak Mane,15877706.0,RHB,Right-arm Leg Break,6,10,1,0,60.0,run out Aayush Bugade / Sanmit Shetane,Run Out,,"Aayush Bugade, Sanmit Shetane"
+1,Vijay Cricket Club U14,Rishabh Jha,31921229.0,RHB,Right-arm medium,9,25,2,0,36.0,not out,Not Out,,
+1,Vijay Cricket Club U14,Aahan Thanekar,3873563.0,LHB,Slow left-arm orthodox,0,6,0,0,0.0,b Vicky,Bowled,Vicky,
+1,Vijay Cricket Club U14,Jiyansh H Shah,15670361.0,RHB,Right-arm medium,35,20,7,0,175.0,c Shlok Gour b Vicky,Caught,Vicky,Shlok Gour
+2,Vijay Cricket Club U14,Atharv Jadhavar,24593178.0,RHB,Right-arm Off Break,5,11,1,0,45.45,lbw b Rugved Potdar,LBW,Rugved Potdar,
+2,Vijay Cricket Club U14,Darshil A Kukadiya,11422052.0,RHB,Right-arm Off Break,10,40,1,0,25.0,c Adharit Parab b Sohail Shaikh,Caught,Sohail Shaikh,Adharit Parab
+2,Vijay Cricket Club U14,Anargh Jain,11573993.0,RHB,Right-arm fast,30,30,7,0,100.0,b Sohail Shaikh,Bowled,Sohail Shaikh,
+2,Vijay Cricket Club U14,Amogh Atpadkar,10605543.0,RHB,Right-arm medium,43,38,8,0,113.16,c Pruthviraj  b Yadnyesh Potdar,Caught,Yadnyesh Potdar,Pruthviraj
+2,Vijay Cricket Club U14,Ranvijay A Patil,33003301.0,RHB,Right-arm fast,16,35,1,0,45.71,lbw b Yadnyesh Potdar,LBW,Yadnyesh Potdar,
+2,Vijay Cricket Club U14,Advit Suhas Wagh,17284581.0,RHB,Right-arm medium,0,3,0,0,0.0,c Pruthviraj  b Shaakya Patankar,Caught,Shaakya Patankar,Pruthviraj
+2,Vijay Cricket Club U14,Maanvendra Singh Sengar,17734094.0,RHB,,11,25,1,0,44.0,c&b Kartavya Rathod,Other,,
+2,Vijay Cricket Club U14,Sarthak Mane,15877706.0,RHB,Right-arm Leg Break,1,5,0,0,20.0,st  Arnav Waghchaure b Shaakya Patankar,Stumped,Shaakya Patankar,Arnav Waghchaure
+2,Vijay Cricket Club U14,Mitesh Nilesh Shinde,26872914.0,RHB,Right-arm medium,7,25,0,0,28.0,not out,Not Out,,
+2,Vijay Cricket Club U14,Satyajeet Bhumkar,28995986.0,LHB,Right-arm medium,0,1,0,0,0.0,c Sohail Shaikh b Kartavya Rathod,Caught,Kartavya Rathod,Sohail Shaikh
+2,Vijay Cricket Club U14,Rishabh Jha,31921229.0,RHB,Right-arm medium,1,15,0,0,6.67,c Shree Rajguru b Kartavya Rathod,Caught,Kartavya Rathod,Shree Rajguru
+2,Metro Cricket Club,Aadyansh Mishra,17232168.0,RHB,Right-arm fast,28,57,3,0,49.12,c Sarthak Mane b Aahan Thanekar,Caught,Aahan Thanekar,Sarthak Mane
+2,Metro Cricket Club,Swaraj Vijay Shirke,16599472.0,RHB,Right-arm Off Break,27,41,5,0,65.85,c Sarthak Mane b Shrey Joshi,Caught,Shrey Joshi,Sarthak Mane
+2,Metro Cricket Club,Adharit Parab,16722173.0,RHB,Right-arm Off Break,0,2,0,0,0.0,b Aahan Thanekar,Bowled,Aahan Thanekar,
+2,Metro Cricket Club,Aadi Soman,31008644.0,RHB,Right-arm fast,0,3,0,0,0.0,b Aahan Thanekar,Bowled,Aahan Thanekar,
+2,Metro Cricket Club,Vivek Pujari,33006188.0,RHB,Right-arm Leg Break,52,55,7,0,94.55,not out,Not Out,,
+2,Metro Cricket Club,Arnav Waghchaure,24176526.0,RHB,Right-arm Off Break,0,5,0,0,0.0,lbw b Aahan Thanekar,LBW,Aahan Thanekar,
+2,Metro Cricket Club,Shree Rajguru,21398678.0,RHB,Right-arm fast,3,7,0,0,42.86,run out Maanvendra Singh Sengar / Shrey Joshi,Run Out,,"Maanvendra Singh Sengar, Shrey Joshi"
+2,Metro Cricket Club,Shaakya Patankar,25158077.0,RHB,Right-arm Off Break,3,23,0,0,13.04,c Advit Suhas Wagh b Aahan Thanekar,Caught,Aahan Thanekar,Advit Suhas Wagh
+2,Metro Cricket Club,Sohail Shaikh,33816593.0,RHB,Right-arm Off Break,17,12,2,1,141.67,not out,Not Out,,
+3,Chhatrapati Cricket Academy,Shubham Jaid,4668958.0,LHB,Right-arm medium,7,13,1,0,53.85,c  Sarthak Mane b Satyajeet Bhumkar,Caught,Satyajeet Bhumkar,Sarthak Mane
+3,Chhatrapati Cricket Academy,SHRIVARDHAN GIRHE,21726482.0,LHB,Slow left-arm chinaman,40,67,3,0,59.7,lbw b Sanskar Warate,LBW,Sanskar Warate,
+3,Chhatrapati Cricket Academy,Ishaan patil,43266112.0,RHB,Right-arm medium,47,64,8,0,73.44,lbw b Sanskar Warate,LBW,Sanskar Warate,
+3,Chhatrapati Cricket Academy,Vedant Mavaskar,12473527.0,RHB,Right-arm fast,57,82,2,0,69.51,not out,Not Out,,
+3,Chhatrapati Cricket Academy,Aadyansh Mishra,17232168.0,RHB,Right-arm fast,7,37,0,0,18.92,c Swarm Dhananjay Bhole b Sanskar Warate,Caught,Sanskar Warate,Swarm Dhananjay Bhole
+3,Chhatrapati Cricket Academy,Arnav J.,17401073.0,RHB,Right-arm medium,37,46,1,0,80.43,not out,Not Out,,
+3,Mavericks,Advit Suhas Wagh,17284581.0,RHB,Right-arm medium,49,77,9,0,63.64,b Shriraj M jadhav,Bowled,Shriraj M jadhav,
+3,Mavericks,Sarthak Mane,15877706.0,RHB,Right-arm Leg Break,5,6,1,0,83.33,c Aprameya Sakle b Devansh Harish Gunjal,Caught,Devansh Harish Gunjal,Aprameya Sakle
+3,Mavericks,Atharv Jadhavar,24593178.0,RHB,Right-arm Off Break,43,67,6,1,64.18,run out Aprameya Sakle /   Vedant Mavaskar,Run Out,,"Aprameya Sakle, Vedant Mavaskar"
+3,Mavericks,Ranvijay A Patil,33003301.0,RHB,Right-arm fast,9,23,0,0,39.13,c Aprameya Sakle b Aadyansh Mishra,Caught,Aadyansh Mishra,Aprameya Sakle
+3,Mavericks,Naitik Dighe,21928960.0,LHB,Left-arm fast,7,6,0,1,116.67,b NEEL BHORDE,Bowled,NEEL BHORDE,
+3,Mavericks,Ayush Kamble,33108843.0,RHB,Right-arm fast,25,32,4,0,78.12,c Shriraj M jadhav b NEEL BHORDE,Caught,NEEL BHORDE,Shriraj M jadhav
+3,Mavericks,Ayush Kamble,33145142.0,RHB,Right-arm fast,25,32,4,0,78.12,c Shriraj M jadhav b NEEL BHORDE,Caught,NEEL BHORDE,Shriraj M jadhav
+3,Mavericks,Samanyu Pal,32380655.0,RHB,Right-arm medium,0,1,0,0,0.0,st  Vedant Mavaskar b Aadyansh Mishra,Stumped,Aadyansh Mishra,Vedant Mavaskar
+3,Mavericks,Samanyu Pal,49813905.0,LHB,11,0,1,0,0,0.0,st  Vedant Mavaskar b Aadyansh Mishra,Stumped,Aadyansh Mishra,Vedant Mavaskar
+3,Mavericks,Samanyu Pal,52162896.0,RHB,Right-arm medium,0,1,0,0,0.0,st  Vedant Mavaskar b Aadyansh Mishra,Stumped,Aadyansh Mishra,Vedant Mavaskar
+3,Mavericks,Maanvendra Singh Sengar,17734094.0,RHB,,13,17,2,0,76.47,run out Devansh Harish Gunjal,Run Out,,Devansh Harish Gunjal
+3,Mavericks,Swarm Dhananjay Bhole,40845835.0,RHB,Right-arm Leg Break,4,3,1,0,133.33,c Arnav J. b NEEL BHORDE,Caught,NEEL BHORDE,Arnav J.
+3,Mavericks,Satyajeet Bhumkar,28995986.0,LHB,Right-arm medium,4,7,1,0,57.14,c&b Shriraj M jadhav,Other,,
+3,Mavericks,Mitesh Nilesh Shinde,26872914.0,RHB,Right-arm medium,1,1,0,0,100.0,not out,Not Out,,
+4,HKCA,Arnav Kulkarni,17173368.0,RHB,Right-arm Leg Break,5,3,1,0,166.67,run out Omaansh Bora,Run Out,,Omaansh Bora
+4,HKCA,Hrishikesh Deshmukh,8683196.0,RHB,Right-arm medium,21,23,4,0,91.3,c Anargh Jain b Pranav Galande,Caught,Pranav Galande,Anargh Jain
+4,HKCA,SANKET THOMBARE,39410508.0,RHB,Right-arm medium,17,17,4,0,100.0,lbw b Pranav Galande,LBW,Pranav Galande,
+4,HKCA,Varad Shirke,46917012.0,RHB,Right-arm medium,32,63,5,0,50.79,c Advik  Shrirao b Sachi Adawade,Caught,Sachi Adawade,Advik Shrirao
+4,HKCA,Yash Darade,21093754.0,RHB,Right-arm medium,4,7,1,0,57.14,c Arnav Rishikesh Gawade b Arush Dinde,Caught,Arush Dinde,Arnav Rishikesh Gawade
+4,HKCA,Kovid Parashar,14315713.0,RHB,Right-arm fast,38,60,5,0,63.33,c Shivraj Sarde b Arush Dinde,Caught,Arush Dinde,Shivraj Sarde
+4,HKCA,Shubham Panse,14315281.0,LHB,Slow left-arm orthodox,5,15,0,0,33.33,b Arush Dinde,Bowled,Arush Dinde,
+4,HKCA,Pratham Devi,24272047.0,RHB,Right-arm fast,3,18,0,0,16.67,b Arush Dinde,Bowled,Arush Dinde,
+4,HKCA,Arjun Shekhar Mazire,22348404.0,RHB,Right-arm fast,0,1,0,0,0.0,lbw b Arush Dinde,LBW,Arush Dinde,
+4,HKCA,Arsh Chavan,11032288.0,LHB,Slow left-arm orthodox,3,9,0,0,33.33,c Shivraj Sarde b Omaansh Bora,Caught,Omaansh Bora,Shivraj Sarde
+4,HKCA,Priyesh Lavalekar,12988654.0,RHB,Left-arm medium,0,2,0,0,0.0,not out,Not Out,,
+4,Mavericks Cricket Academy,Shivraj Sarde,24199085.0,RHB,Right-arm Off Break,8,3,2,0,266.67,c Arnav Kulkarni b Pratham Devi,Caught,Pratham Devi,Arnav Kulkarni
+4,Mavericks Cricket Academy,Anargh Jain,11573993.0,RHB,Right-arm fast,42,29,10,0,144.83,lbw b Arjun Shekhar Mazire,LBW,Arjun Shekhar Mazire,
+4,Mavericks Cricket Academy,Atharv Jadhavar,24593178.0,RHB,Right-arm Off Break,0,6,0,0,0.0,b Kovid Parashar,Bowled,Kovid Parashar,
+4,Mavericks Cricket Academy,Sachi Adawade,3328285.0,RHB,Right-arm Leg Break,18,32,2,0,56.25,c  Varad Shirke b Hitanshu More,Caught,Hitanshu More,Varad Shirke
+4,Mavericks Cricket Academy,Ranvijay A Patil,33003301.0,RHB,Right-arm fast,18,30,2,0,60.0,run out Arnav Kulkarni / Priyesh Lavalekar,Run Out,,"Arnav Kulkarni, Priyesh Lavalekar"
+4,Mavericks Cricket Academy,Advik Shrirao,16963474.0,RHB,Right-arm fast,20,24,3,0,83.33,c Shubham Panse b Yash Darade,Caught,Yash Darade,Shubham Panse
+4,Mavericks Cricket Academy,Maanvendra Singh Sengar,17734094.0,RHB,,15,53,2,0,28.3,not out,Not Out,,
+4,Mavericks Cricket Academy,Advay Newase,28106291.0,RHB,Right-arm Off Break,3,8,0,0,37.5,b Yash Darade,Bowled,Yash Darade,
+4,Mavericks Cricket Academy,Pranav Galande,26291744.0,RHB,Right-arm medium,0,7,0,0,0.0,b Shubham Panse,Bowled,Shubham Panse,
+4,Mavericks Cricket Academy,Aahan Thanekar,3873563.0,LHB,Slow left-arm orthodox,5,20,1,0,25.0,not out,Not Out,,
+5,Lesalt Cricket Academy,Shivendra Dhumal,41729574.0,RHB,Right-arm medium,1,8,0,0,12.5,c  Maanvendra Singh Sengar b Arush Dinde,Caught,Arush Dinde,Maanvendra Singh Sengar
+5,Lesalt Cricket Academy,Archit Bachute,42848934.0,LHB,Right-arm medium,18,31,4,0,58.06,lbw b Samarth Kapshikar,LBW,Samarth Kapshikar,
+5,Lesalt Cricket Academy,Vansh Vishal Ruikar,32508031.0,RHB,Right-arm Leg Break,4,5,1,0,80.0,c Atharv Jadhavar b Arush Dinde,Caught,Arush Dinde,Atharv Jadhavar
+5,Lesalt Cricket Academy,Kriyansh Patel,23231325.0,LHB,Right-arm Off Break,18,27,4,0,66.67,b Samarth Kapshikar,Bowled,Samarth Kapshikar,
+5,Lesalt Cricket Academy,Ishan Gaikwad,34392715.0,RHB,Right-arm medium,0,2,0,0,0.0,c Maanvendra Singh Sengar b Advit Suhas Wagh,Caught,Advit Suhas Wagh,Maanvendra Singh Sengar
+5,Lesalt Cricket Academy,Reyansh Chaudhari,50235527.0,RHB,3,3,12,0,0,25.0,b Swara  Kulkarni,Bowled,Swara Kulkarni,
+5,Lesalt Cricket Academy,Arjun Chavan,22028583.0,RHB,Right-arm medium,17,38,3,0,44.74,c Samarth Kapshikar b Yugveer,Caught,Yugveer,Samarth Kapshikar
+5,Lesalt Cricket Academy,Saarth Gupta,34531421.0,RHB,Right-arm Off Break,8,6,2,0,133.33,c Ranvijay A Patil b Swara  Kulkarni,Caught,Swara Kulkarni,Ranvijay A Patil
+5,Lesalt Cricket Academy,Jyotirmay M Zapugade,46754670.0,RHB,Slow left-arm orthodox,2,29,0,0,6.9,not out,Not Out,,
+5,Lesalt Cricket Academy,Shivam Jagtap,42116216.0,RHB,Right-arm medium,0,8,0,0,0.0,c&b Arush Dinde,Other,,
+5,Lesalt Cricket Academy,Shlok Jadhav,42742764.0,RHB,Right-arm medium,2,3,0,0,66.67,c Aahan Thanekar b Arush Dinde,Caught,Arush Dinde,Aahan Thanekar
+5,Mavericks Cricket Academy,Anargh Jain,11573993.0,RHB,Right-arm fast,21,9,5,0,233.33,run out Shivam Jagtap / Shivendra Dhumal,Run Out,,"Shivam Jagtap, Shivendra Dhumal"
+5,Mavericks Cricket Academy,Maanvendra Singh Sengar,17734094.0,RHB,,6,20,1,0,30.0,st  Kriyansh Patel b Shivam Jagtap,Stumped,Shivam Jagtap,Kriyansh Patel
+5,Mavericks Cricket Academy,Ranvijay A Patil,33003301.0,RHB,Right-arm fast,39,33,5,0,118.18,c Vansh Vishal Ruikar b Shlok Jadhav,Caught,Shlok Jadhav,Vansh Vishal Ruikar
+5,Mavericks Cricket Academy,Darshil A Kukadiya,11422052.0,RHB,Right-arm Off Break,1,1,0,0,100.0,run out Shivendra Dhumal / Shivam Jagtap,Run Out,,"Shivendra Dhumal, Shivam Jagtap"
+5,Mavericks Cricket Academy,Ayush Kamble,33108843.0,RHB,Right-arm fast,28,20,5,0,140.0,run out Saarth Gupta /   Kriyansh Patel,Run Out,,"Saarth Gupta, Kriyansh Patel"
+5,Mavericks Cricket Academy,Ayush Kamble,33145142.0,RHB,Right-arm fast,28,20,5,0,140.0,run out Saarth Gupta /   Kriyansh Patel,Run Out,,"Saarth Gupta, Kriyansh Patel"
+5,Mavericks Cricket Academy,Samarth Kapshikar,30686786.0,RHB,Right-arm Leg Break,20,20,4,0,100.0,b Shlok Jadhav,Bowled,Shlok Jadhav,
+5,Mavericks Cricket Academy,Atharv Jadhavar,24593178.0,RHB,Right-arm Off Break,6,5,1,0,120.0,not out,Not Out,,
+5,Mavericks Cricket Academy,Sachi Adawade,3328285.0,RHB,Right-arm Leg Break,4,4,1,0,100.0,not out,Not Out,,
+6,Mavericks A,Advit Suhas Wagh,17284581.0,RHB,Right-arm medium,79,76,15,0,103.95,b Ryan,Bowled,Ryan,
+6,Mavericks A,Atharv Jadhavar,24593178.0,RHB,Right-arm Off Break,101,107,12,0,94.39,retired hurt,Retired Hurt,,
+6,Mavericks A,Sarthak Mane,15877706.0,RHB,Right-arm Leg Break,25,29,4,0,86.21,c&b Yugveer,Other,,
+6,Mavericks A,Samanyu Pal,32380655.0,RHB,Right-arm medium,45,47,7,0,95.74,c Vighnesh Pota b Abir  Vaidya,Caught,Abir Vaidya,Vighnesh Pota
+6,Mavericks A,Samanyu Pal,49813905.0,LHB,11,45,47,7,0,95.74,c Vighnesh Pota b Abir  Vaidya,Caught,Abir Vaidya,Vighnesh Pota
+6,Mavericks A,Samanyu Pal,52162896.0,RHB,Right-arm medium,45,47,7,0,95.74,c Vighnesh Pota b Abir  Vaidya,Caught,Abir Vaidya,Vighnesh Pota
+6,Mavericks A,Mitesh Nilesh Shinde,26872914.0,RHB,Right-arm medium,22,13,4,0,169.23,c Anargh Jain b Abir  Vaidya,Caught,Abir Vaidya,Anargh Jain
+6,Mavericks A,Aahan Thanekar,3873563.0,LHB,Slow left-arm orthodox,0,1,0,0,0.0,c Anargh Jain b Abir  Vaidya,Caught,Abir Vaidya,Anargh Jain
+6,Mavericks A,Advay Newase,28106291.0,RHB,Right-arm Off Break,2,9,0,0,22.22,c Ryan b Ayush Kamble,Caught,Ayush Kamble,Ryan
+6,Mavericks A,Rajveer Mehra,14026290.0,RHB,Right-arm medium,3,3,0,0,100.0,b Ayush Kamble,Bowled,Ayush Kamble,
+6,Mavericks A,Satyajeet Bhumkar,28995986.0,LHB,Right-arm medium,18,13,1,0,138.46,not out,Not Out,,
+6,Mavericks A,Omaansh Bora,24235651.0,RHB,Left-arm fast,1,9,0,0,11.11,not out,Not Out,,
+6,Mavericks B,Ranvijay A Patil,33003301.0,RHB,Right-arm fast,45,39,7,0,115.38,lbw b Rajveer Mehra,LBW,Rajveer Mehra,
+6,Mavericks B,Anargh Jain,11573993.0,RHB,Right-arm fast,20,30,4,0,66.67,c  Sarthak Mane b Rajveer Mehra,Caught,Rajveer Mehra,Sarthak Mane
+6,Mavericks B,Maanvendra Singh Sengar,17734094.0,RHB,,4,9,0,0,44.44,lbw b Advay Newase,LBW,Advay Newase,
+6,Mavericks B,Vighnesh Pota,22145188.0,RHB,Right-arm Leg Break,2,4,0,0,50.0,lbw b Rajveer Mehra,LBW,Rajveer Mehra,
+6,Mavericks B,Ayush Kamble,33108843.0,RHB,Right-arm fast,1,3,0,0,33.33,run out Rajveer Mehra /   Sarthak Mane,Run Out,,"Rajveer Mehra, Sarthak Mane"
+6,Mavericks B,Ayush Kamble,33145142.0,RHB,Right-arm fast,1,3,0,0,33.33,run out Rajveer Mehra /   Sarthak Mane,Run Out,,"Rajveer Mehra, Sarthak Mane"
+6,Mavericks B,Ryan,16296325.0,RHB,Right-arm Off Break,17,16,3,0,106.25,st  Sarthak Mane b Aahan Thanekar,Stumped,Aahan Thanekar,Sarthak Mane
+6,Mavericks B,Abir Vaidya,24328201.0,RHB,Slow left-arm chinaman,9,5,2,0,180.0,b Aahan Thanekar,Bowled,Aahan Thanekar,
+6,Mavericks B,Ayush Kamble,33108843.0,RHB,Right-arm fast,0,4,0,0,0.0,b Aahan Thanekar,Bowled,Aahan Thanekar,
+6,Mavericks B,Ayush Kamble,33145142.0,RHB,Right-arm fast,0,4,0,0,0.0,b Aahan Thanekar,Bowled,Aahan Thanekar,
+6,Mavericks B,Rishabh Jha,31921229.0,RHB,Right-arm medium,5,11,1,0,45.45,c Aahan Thanekar b Mitesh Nilesh Shinde,Caught,Mitesh Nilesh Shinde,Aahan Thanekar
+6,Mavericks B,Yugveer,43046148.0,RHB,Right-arm medium,0,2,0,0,0.0,not out,Not Out,,
+7,Mavericks Crciket Club (U12-2026),Advik Shrirao,16963474.0,RHB,Right-arm fast,30,56,5,0,53.57,st  Shreeansh Dhamal b Mayank Angchekar,Stumped,Mayank Angchekar,Shreeansh Dhamal
+7,Mavericks Crciket Club (U12-2026),Atharv Jadhavar,24593178.0,RHB,Right-arm Off Break,33,58,5,0,56.9,run out Rajvardhan  Pandagle / Shreeansh Dhamal,Run Out,,"Rajvardhan Pandagle, Shreeansh Dhamal"
+7,Mavericks Crciket Club (U12-2026),Vihaan Joshi,43057865.0,RHB,Left-arm fast,12,27,1,0,44.44,c Mayank Angchekar b Rajvardhan  Pandagle,Caught,Rajvardhan Pandagle,Mayank Angchekar
+7,Mavericks Crciket Club (U12-2026),Paritosh Gujar,32587658.0,RHB,Right-arm fast,0,1,0,0,0.0,run out Rajvardhan  Pandagle /   Shreeansh Dhamal,Run Out,,"Rajvardhan Pandagle, Shreeansh Dhamal"
+7,Mavericks Crciket Club (U12-2026),Ayush Kamble,33108843.0,RHB,Right-arm fast,4,19,0,0,21.05,c Avishkar Kale b Rajvardhan  Pandagle,Caught,Rajvardhan Pandagle,Avishkar Kale
+7,Mavericks Crciket Club (U12-2026),Ayush Kamble,33145142.0,RHB,Right-arm fast,4,19,0,0,21.05,c Avishkar Kale b Rajvardhan  Pandagle,Caught,Rajvardhan Pandagle,Avishkar Kale
+7,Mavericks Crciket Club (U12-2026),Maanvendra Singh Sengar,17734094.0,RHB,,1,3,0,0,33.33,run out Athrav Sathe / Mayank Angchekar,Run Out,,"Athrav Sathe, Mayank Angchekar"
+7,Mavericks Crciket Club (U12-2026),Mitesh Nilesh Shinde,26872914.0,RHB,Right-arm medium,0,0,0,0,0.0,run out Rohit Bohara / Shreeansh Dhamal,Run Out,,"Rohit Bohara, Shreeansh Dhamal"
+7,Mavericks Crciket Club (U12-2026),Advay Newase,28106291.0,RHB,Right-arm Off Break,6,9,0,0,66.67,not out,Not Out,,
+7,Mavericks Crciket Club (U12-2026),Aahan Thanekar,3873563.0,LHB,Slow left-arm orthodox,7,6,1,0,116.67,c Avishkar Kale b Tanishq Koli,Caught,Tanishq Koli,Avishkar Kale
+7,Mavericks Crciket Club (U12-2026),Shrey Joshi,24235650.0,RHB,Right-arm Leg Break,0,2,0,0,0.0,not out,Not Out,,
+7,"Vrindavan cricket acadmy, Punavale",Shreeansh Dhamal,30973129.0,RHB,Right-arm medium,44,42,10,0,104.76,lbw b Shrey Joshi,LBW,Shrey Joshi,
+7,"Vrindavan cricket acadmy, Punavale",Vihan S Wankhede,39989410.0,RHB,Right-arm medium,26,21,4,1,123.81,b Shrey Joshi,Bowled,Shrey Joshi,
+7,"Vrindavan cricket acadmy, Punavale",Videet Mane,27295145.0,RHB,Right-arm medium,53,72,9,0,73.61,not out,Not Out,,
+7,"Vrindavan cricket acadmy, Punavale",Tanmay Prajapati,43749052.0,RHB,Right-arm medium,1,13,0,0,7.69,st  Maanvendra Singh Sengar b Shrey Joshi,Stumped,Shrey Joshi,Maanvendra Singh Sengar
+7,"Vrindavan cricket acadmy, Punavale",Athrav Sathe,41003941.0,RHB,Right-arm medium,14,24,1,1,58.33,b Paritosh Gujar,Bowled,Paritosh Gujar,
+7,"Vrindavan cricket acadmy, Punavale",Mayank Angchekar,22141405.0,RHB,Right-arm medium,7,12,0,0,58.33,not out,Not Out,,
+8,Mavericks Cricket Academy,Sachi Adawade,3328285.0,RHB,Right-arm Leg Break,33,35,6,0,94.29,st  Parth Kadulkar b Amogh Kadu,Stumped,Amogh Kadu,Parth Kadulkar
+8,Mavericks Cricket Academy,Atharv Jadhavar,24593178.0,RHB,Right-arm Off Break,15,11,3,0,136.36,b Aradhya Rajendraprasad Singh,Bowled,Aradhya Rajendraprasad Singh,
+8,Mavericks Cricket Academy,Shivraj Sarde,24199085.0,RHB,Right-arm Off Break,101,46,16,4,219.57,retired hurt,Retired Hurt,,
+8,Mavericks Cricket Academy,Darshil A Kukadiya,11422052.0,RHB,Right-arm Off Break,8,9,1,0,88.89,run out Shreyash Kapnure,Run Out,,Shreyash Kapnure
+8,Mavericks Cricket Academy,Advik Shrirao,16963474.0,RHB,Right-arm fast,78,52,11,1,150.0,b Ishaan Deshmukh,Bowled,Ishaan Deshmukh,
+8,Mavericks Cricket Academy,Ranvijay A Patil,33003301.0,RHB,Right-arm fast,65,42,9,0,154.76,c&b Shreyansh Gijjre,Other,,
+8,Mavericks Cricket Academy,Anargh Jain,11573993.0,RHB,Right-arm fast,63,33,11,0,190.91,b Aradhya Rajendraprasad Singh,Bowled,Aradhya Rajendraprasad Singh,
+8,Mavericks Cricket Academy,Maanvendra Singh Sengar,17734094.0,RHB,,13,11,2,0,118.18,lbw b Aradhya Rajendraprasad Singh,LBW,Aradhya Rajendraprasad Singh,
+8,Mavericks Cricket Academy,Aahan Thanekar,3873563.0,LHB,Slow left-arm orthodox,17,12,1,0,141.67,not out,Not Out,,
+8,Amrit Sports,Anay Chaware,46886581.0,RHB,Right-arm Off Break,4,3,1,0,133.33,b Mitesh Nilesh Shinde,Bowled,Mitesh Nilesh Shinde,
+8,Amrit Sports,Dhiraj Ghodke,48942874.0,RHB,Right-arm Off Break,4,11,1,0,36.36,run out Advik  Shrirao /   Maanvendra Singh Sengar,Run Out,,"Advik Shrirao, Maanvendra Singh Sengar"
+8,Amrit Sports,Parth Kadulkar,21874756.0,RHB,Right-arm medium,4,10,1,0,40.0,b Rajveer Mehra,Bowled,Rajveer Mehra,
+8,Amrit Sports,Advay Chavan,25816200.0,RHB,Right-arm medium,4,17,1,0,23.53,lbw b Arush Dinde,LBW,Arush Dinde,
+8,Amrit Sports,Shreyansh Gijjre,25971167.0,RHB,Right-arm Off Break,4,8,1,0,50.0,b Swara  Kulkarni,Bowled,Swara Kulkarni,
+8,Amrit Sports,Ishaan Deshmukh,10064874.0,RHB,Right-arm fast,51,40,12,0,127.5,not out,Not Out,,
+8,Amrit Sports,Aradhya Rajendraprasad Singh,30354810.0,RHB,Left-arm fast,0,4,0,0,0.0,b Arush Dinde,Bowled,Arush Dinde,
+8,Amrit Sports,Janmesh Nimbhore,19799416.0,RHB,Right-arm medium,0,2,0,0,0.0,lbw b Shrey Joshi,LBW,Shrey Joshi,
+8,Amrit Sports,Amogh Kadu,47213191.0,RHB,Right-arm medium,2,19,0,0,10.53,c  Maanvendra Singh Sengar b Rajveer Mehra,Caught,Rajveer Mehra,Maanvendra Singh Sengar
+8,Amrit Sports,Srujan Paithankar,51413806.0,RHB,1,0,5,0,0,0.0,b Aahan Thanekar,Bowled,Aahan Thanekar,
+8,Amrit Sports,Rahul Sonkamble,51413816.0,RHB,2,0,2,0,0,0.0,c Anargh Jain b Arush Dinde,Caught,Arush Dinde,Anargh Jain
+9,Mavericks Cricket Academy,Advit Suhas Wagh,17284581.0,RHB,Right-arm medium,0,2,0,0,0.0,c vighnesh Kate b Pratyush Sandeep Rai,Caught,Pratyush Sandeep Rai,vighnesh Kate
+9,Mavericks Cricket Academy,Anargh Jain,11573993.0,RHB,Right-arm fast,17,33,1,1,51.52,c Aarav Somnath Kamble b NEEL RAJGURU,Caught,NEEL RAJGURU,Aarav Somnath Kamble
+9,Mavericks Cricket Academy,Darshil A Kukadiya,11422052.0,RHB,Right-arm Off Break,1,11,0,0,9.09,c vighnesh Kate b Sarvesh Lande,Caught,Sarvesh Lande,vighnesh Kate
+9,Mavericks Cricket Academy,Atharv Jadhavar,24593178.0,RHB,Right-arm Off Break,5,11,0,0,45.45,c Rajveer Kate b vighnesh Kate,Caught,vighnesh Kate,Rajveer Kate
+9,Mavericks Cricket Academy,Ranvijay A Patil,33003301.0,RHB,Right-arm fast,5,15,0,0,33.33,c Pratik Nagavi b NEEL RAJGURU,Caught,NEEL RAJGURU,Pratik Nagavi
+9,Mavericks Cricket Academy,Maanvendra Singh Sengar,17734094.0,RHB,,9,17,1,0,52.94,st  Rajveer Kate b Aarav Somnath Kamble,Stumped,Aarav Somnath Kamble,Rajveer Kate
+9,Mavericks Cricket Academy,Naitik Dighe,21928960.0,LHB,Left-arm fast,19,14,3,1,135.71,c Aarav Somnath Kamble b vighnesh Kate,Caught,vighnesh Kate,Aarav Somnath Kamble
+9,Mavericks Cricket Academy,Ryan,16296325.0,RHB,Right-arm Off Break,0,3,0,0,0.0,c vighnesh Kate b Aarav Somnath Kamble,Caught,Aarav Somnath Kamble,vighnesh Kate
+9,Mavericks Cricket Academy,Aahan Thanekar,3873563.0,LHB,Slow left-arm orthodox,10,27,2,0,37.04,not out,Not Out,,
+9,Mavericks Cricket Academy,Advay Newase,28106291.0,RHB,Right-arm Off Break,2,8,0,0,25.0,run out Pratyush Sandeep Rai,Run Out,,Pratyush Sandeep Rai
+9,Mavericks Cricket Academy,Adhrit Raj,25897936.0,RHB,Right-arm fast,0,13,0,0,0.0,b NEEL RAJGURU,Bowled,NEEL RAJGURU,
+9,Siddharth cricket academy,Shashank Birelly,16295045.0,RHB,Right-arm medium,0,1,0,0,0.0,c Ryan b Yugveer,Caught,Yugveer,Ryan
+9,Siddharth cricket academy,Amita Arya,19870192.0,RHB,Right-arm medium,3,11,0,0,27.27,b Yugveer,Bowled,Yugveer,
+9,Siddharth cricket academy,NEEL RAJGURU,30566653.0,RHB,Right-arm Leg Break,32,34,6,0,94.12,c Naitik Dighe b Ryan,Caught,Ryan,Naitik Dighe
+9,Siddharth cricket academy,Shriraj M jadhav,5275131.0,RHB,Right-arm Leg Break,18,19,3,0,94.74,lbw b Naitik Dighe,LBW,Naitik Dighe,
+9,Siddharth cricket academy,Pratyush Sandeep Rai,16136726.0,RHB,Right-arm Off Break,25,20,5,0,125.0,not out,Not Out,,
+9,Siddharth cricket academy,Saashrit Mahajan,18350431.0,RHB,Right-arm Leg Break,0,4,0,0,0.0,not out,Not Out,,
+10,Mavericks Crciket Club (U12-2026),Advik Shrirao,16963474.0,RHB,Right-arm fast,30,56,5,0,53.57,st  Shreeansh Dhamal b Mayank Angchekar,Stumped,Mayank Angchekar,Shreeansh Dhamal
+10,Mavericks Crciket Club (U12-2026),Atharv Jadhavar,24593178.0,RHB,Right-arm Off Break,33,58,5,0,56.9,run out Rajvardhan  Pandagle / Shreeansh Dhamal,Run Out,,"Rajvardhan Pandagle, Shreeansh Dhamal"
+10,Mavericks Crciket Club (U12-2026),Vihaan Joshi,43057865.0,RHB,Left-arm fast,12,27,1,0,44.44,c Mayank Angchekar b Rajvardhan  Pandagle,Caught,Rajvardhan Pandagle,Mayank Angchekar
+10,Mavericks Crciket Club (U12-2026),Paritosh Gujar,32587658.0,RHB,Right-arm fast,0,1,0,0,0.0,run out Rajvardhan  Pandagle /   Shreeansh Dhamal,Run Out,,"Rajvardhan Pandagle, Shreeansh Dhamal"
+10,Mavericks Crciket Club (U12-2026),Ayush Kamble,33108843.0,RHB,Right-arm fast,4,19,0,0,21.05,c Avishkar Kale b Rajvardhan  Pandagle,Caught,Rajvardhan Pandagle,Avishkar Kale
+10,Mavericks Crciket Club (U12-2026),Ayush Kamble,33145142.0,RHB,Right-arm fast,4,19,0,0,21.05,c Avishkar Kale b Rajvardhan  Pandagle,Caught,Rajvardhan Pandagle,Avishkar Kale
+10,Mavericks Crciket Club (U12-2026),Maanvendra Singh Sengar,17734094.0,RHB,,1,3,0,0,33.33,run out Athrav Sathe / Mayank Angchekar,Run Out,,"Athrav Sathe, Mayank Angchekar"
+10,Mavericks Crciket Club (U12-2026),Mitesh Nilesh Shinde,26872914.0,RHB,Right-arm medium,0,0,0,0,0.0,run out Rohit Bohara / Shreeansh Dhamal,Run Out,,"Rohit Bohara, Shreeansh Dhamal"
+10,Mavericks Crciket Club (U12-2026),Advay Newase,28106291.0,RHB,Right-arm Off Break,6,9,0,0,66.67,not out,Not Out,,
+10,Mavericks Crciket Club (U12-2026),Aahan Thanekar,3873563.0,LHB,Slow left-arm orthodox,7,6,1,0,116.67,c Avishkar Kale b Tanishq Koli,Caught,Tanishq Koli,Avishkar Kale
+10,Mavericks Crciket Club (U12-2026),Shrey Joshi,24235650.0,RHB,Right-arm Leg Break,0,2,0,0,0.0,not out,Not Out,,
+10,"Vrindavan cricket acadmy, Punavale",Shreeansh Dhamal,30973129.0,RHB,Right-arm medium,44,42,10,0,104.76,lbw b Shrey Joshi,LBW,Shrey Joshi,
+10,"Vrindavan cricket acadmy, Punavale",Vihan S Wankhede,39989410.0,RHB,Right-arm medium,26,21,4,1,123.81,b Shrey Joshi,Bowled,Shrey Joshi,
+10,"Vrindavan cricket acadmy, Punavale",Videet Mane,27295145.0,RHB,Right-arm medium,53,72,9,0,73.61,not out,Not Out,,
+10,"Vrindavan cricket acadmy, Punavale",Tanmay Prajapati,43749052.0,RHB,Right-arm medium,1,13,0,0,7.69,st  Maanvendra Singh Sengar b Shrey Joshi,Stumped,Shrey Joshi,Maanvendra Singh Sengar
+10,"Vrindavan cricket acadmy, Punavale",Athrav Sathe,41003941.0,RHB,Right-arm medium,14,24,1,1,58.33,b Paritosh Gujar,Bowled,Paritosh Gujar,
+10,"Vrindavan cricket acadmy, Punavale",Mayank Angchekar,22141405.0,RHB,Right-arm medium,7,12,0,0,58.33,not out,Not Out,,
+11,Mavericks U 14,Anargh Jain,11573993.0,RHB,Right-arm fast,1,7,0,0,14.29,c Sourish Kore b Soham Devkate,Caught,Soham Devkate,Sourish Kore
+11,Mavericks U 14,NEEL BHORDE,21865302.0,RHB,Right-arm Off Break,7,12,1,0,58.33,lbw b Soham Devkate,LBW,Soham Devkate,
+11,Mavericks U 14,Shree Shinde,8775913.0,RHB,Right-arm medium,1,2,0,0,50.0,c  Vihan b Arnav Mahajan,Caught,Arnav Mahajan,Vihan
+11,Mavericks U 14,Atharv Jadhavar,24593178.0,RHB,Right-arm Off Break,66,108,7,0,61.11,lbw b Pradnyesh Chaudhari,LBW,Pradnyesh Chaudhari,
+11,Mavericks U 14,Ishan Porlekar,19163041.0,RHB,Right-arm Off Break,7,47,0,0,14.89,b Aaradhy Karpe,Bowled,Aaradhy Karpe,
+11,Mavericks U 14,Karan R,22161106.0,RHB,Right-arm medium,0,4,0,0,0.0,b Rajveer Kalbhor,Bowled,Rajveer Kalbhor,
+11,Mavericks U 14,Ayush Kamble,33108843.0,RHB,Right-arm fast,6,10,1,0,60.0,b Swaraj Kalel,Bowled,Swaraj Kalel,
+11,Mavericks U 14,Ayush Kamble,33145142.0,RHB,Right-arm fast,6,10,1,0,60.0,b Swaraj Kalel,Bowled,Swaraj Kalel,
+11,Mavericks U 14,Sangram s,27201657.0,RHB,Slow left-arm orthodox,11,15,2,0,73.33,run out VIRAJ KHADE /   Vihan,Run Out,,"VIRAJ KHADE, Vihan"
+11,Mavericks U 14,Viraj,21707006.0,RHB,Right-arm Off Break,4,5,1,0,80.0,b Swaraj Kalel,Bowled,Swaraj Kalel,
+11,Mavericks U 14,Ranvijay A Patil,33003301.0,RHB,Right-arm fast,21,21,3,0,100.0,st  Vihan b Swaraj Kalel,Stumped,Swaraj Kalel,Vihan
+11,Mavericks U 14,Shivraj Sarde,24199085.0,RHB,Right-arm Off Break,0,3,0,0,0.0,lbw b Swaraj Kalel,LBW,Swaraj Kalel,
+11,Mavericks U 14,Kiyaansh Patel,37555255.0,RHB,Right-arm medium,0,5,0,0,0.0,run out Sourish Kore /   Vihan,Run Out,,"Sourish Kore, Vihan"
+11,Mavericks U 14,RITESH YADAV 104,14975447.0,RHB,Right-arm fast,4,15,0,0,26.67,b Rajveer Kalbhor,Bowled,Rajveer Kalbhor,
+11,Mavericks U 14,Varad Kotade,14458101.0,RHB,Right-arm fast,12,13,1,0,92.31,not out,Not Out,,
+11,Mavericks U 14,Satyajeet Bhumkar,28995986.0,LHB,Right-arm medium,1,1,0,0,100.0,not out,Not Out,,
+11,Vedic Fit Cricket Club,Arnav Mahajan,12322056.0,RHB,Right-arm fast,20,33,4,0,60.61,run out Ranvijay A Patil / Varad Kotade,Run Out,,"Ranvijay A Patil, Varad Kotade"
+11,Vedic Fit Cricket Club,Eeshan Sriju,37281311.0,RHB,Right-arm Leg Break,6,23,1,0,26.09,lbw b Varad Kotade,LBW,Varad Kotade,
+11,Vedic Fit Cricket Club,VIRAJ KHADE,29612682.0,RHB,Right-arm medium,6,7,1,0,85.71,run out Anargh Jain / Varad Kotade,Run Out,,"Anargh Jain, Varad Kotade"
+11,Vedic Fit Cricket Club,Sourish Kore,17675138.0,RHB,Right-arm fast,13,14,3,0,92.86,b Ranvijay A Patil,Bowled,Ranvijay A Patil,
+11,Vedic Fit Cricket Club,Vihan,14596396.0,RHB,Right-arm medium,69,52,14,0,132.69,b Atharv Jadhavar,Bowled,Atharv Jadhavar,
+11,Vedic Fit Cricket Club,Parth Vichare,35204050.0,RHB,Right-arm Off Break,2,5,0,0,40.0,c NEEL BHORDE b Viraj,Caught,Viraj,NEEL BHORDE
+11,Vedic Fit Cricket Club,Rajveer Kalbhor,35204637.0,RHB,Right-arm Off Break,11,10,2,0,110.0,c  Shivraj Sarde b Ayush Kamble,Caught,Ayush Kamble,Shivraj Sarde
+11,Vedic Fit Cricket Club,Janith Jain,35967628.0,RHB,Right-arm Off Break,32,55,4,0,58.18,not out,Not Out,,
+11,Vedic Fit Cricket Club,Swaraj Kalel,17937141.0,LHB,Slow left-arm orthodox,3,9,0,0,33.33,c  Shivraj Sarde b Anargh Jain,Caught,Anargh Jain,Shivraj Sarde
+11,Vedic Fit Cricket Club,Pradnyesh Chaudhari,32603798.0,RHB,Right-arm Off Break,2,9,0,0,22.22,b Anargh Jain,Bowled,Anargh Jain,
+11,Vedic Fit Cricket Club,Ishan Rajimwale,16210439.0,RHB,Right-arm Leg Break,4,8,1,0,50.0,not out,Not Out,,
+12,MV Team A,Advik Shrirao,16963474.0,RHB,Right-arm fast,1,18,0,0,5.56,run out Suryansh Baheti /   Swarit Gaikwad,Run Out,,"Suryansh Baheti, Swarit Gaikwad"
+12,MV Team A,Atharv Jadhavar,24593178.0,RHB,Right-arm Off Break,75,139,8,0,53.96,c&b Arush Dinde,Other,,
+12,MV Team A,Ayush Kamble,33108843.0,RHB,Right-arm fast,2,10,0,0,20.0,b Arush Dinde,Bowled,Arush Dinde,
+12,MV Team A,Ayush Kamble,33145142.0,RHB,Right-arm fast,2,10,0,0,20.0,b Arush Dinde,Bowled,Arush Dinde,
+12,MV Team A,Maanvendra Singh Sengar,17734094.0,RHB,,5,19,0,0,26.32,c Ranvijay A Patil b Omaansh Bora,Caught,Omaansh Bora,Ranvijay A Patil
+12,MV Team A,Mitesh Nilesh Shinde,26872914.0,RHB,Right-arm medium,18,51,2,0,35.29,b Arush Dinde,Bowled,Arush Dinde,
+12,MV Team A,Aahan Thanekar,3873563.0,LHB,Slow left-arm orthodox,2,4,0,0,50.0,b Arush Dinde,Bowled,Arush Dinde,
+12,MV Team A,Rajveer Mehra,14026290.0,RHB,Right-arm medium,2,17,0,0,11.76,b Arush Dinde,Bowled,Arush Dinde,
+12,MV Team A,Advay Newase,28106291.0,RHB,Right-arm Off Break,10,31,0,0,32.26,b Daksh Khobragade,Bowled,Daksh Khobragade,
+12,MV Team A,Ayaan Singh,19715152.0,RHB,Left-arm fast,1,16,0,0,6.25,b Yugveer,Bowled,Yugveer,
+12,MV Team A,Satyajeet Bhumkar,28995986.0,LHB,Right-arm medium,10,26,1,0,38.46,c Abir  Vaidya b Daksh Khobragade,Caught,Daksh Khobragade,Abir Vaidya
+12,MV Team A,Shrey Joshi,24235650.0,RHB,Right-arm Leg Break,12,12,2,0,100.0,not out,Not Out,,
+12,MV Team B,Darshil A Kukadiya,11422052.0,RHB,Right-arm Off Break,61,87,11,0,70.11,c Satyajeet Bhumkar b Aahan Thanekar,Caught,Aahan Thanekar,Satyajeet Bhumkar
+12,MV Team B,Anargh Jain,11573993.0,RHB,Right-arm fast,11,18,0,0,61.11,b Rajveer Mehra,Bowled,Rajveer Mehra,
+12,MV Team B,Ranvijay A Patil,33003301.0,RHB,Right-arm fast,69,100,10,0,69.0,b Satyajeet Bhumkar,Bowled,Satyajeet Bhumkar,
+12,MV Team B,Swarit Gaikwad,30886591.0,RHB,Right-arm medium,6,38,0,0,15.79,run out Advay Newase / Maanvendra Singh Sengar,Run Out,,"Advay Newase, Maanvendra Singh Sengar"
+12,MV Team B,Samanyu Pal,32380655.0,RHB,Right-arm medium,2,28,0,0,7.14,lbw b Advay Newase,LBW,Advay Newase,
+12,MV Team B,Samanyu Pal,49813905.0,LHB,11,2,28,0,0,7.14,lbw b Advay Newase,LBW,Advay Newase,
+12,MV Team B,Samanyu Pal,52162896.0,RHB,Right-arm medium,2,28,0,0,7.14,lbw b Advay Newase,LBW,Advay Newase,
+12,MV Team B,Suryansh Baheti,19108075.0,RHB,Right-arm Off Break,2,20,0,0,10.0,c Satyajeet Bhumkar b Advay Newase,Caught,Advay Newase,Satyajeet Bhumkar
+12,MV Team B,Arush Dinde,26143769.0,RHB,Right-arm fast,25,74,2,0,33.78,run out Mitesh Nilesh Shinde / Maanvendra Singh Sengar,Run Out,,"Mitesh Nilesh Shinde, Maanvendra Singh Sengar"
+12,MV Team B,Daksh Khobragade,29187109.0,RHB,Right-arm fast,1,5,0,0,20.0,b Ayaan Singh,Bowled,Ayaan Singh,
+12,MV Team B,Yugveer,43046148.0,RHB,Right-arm medium,7,22,1,0,31.82,run out Rajveer Mehra,Run Out,,Rajveer Mehra
+12,MV Team B,Omaansh Bora,24235651.0,RHB,Left-arm fast,0,3,0,0,0.0,lbw b Satyajeet Bhumkar,LBW,Satyajeet Bhumkar,
+12,MV Team B,Abir Vaidya,24328201.0,RHB,Slow left-arm chinaman,3,26,0,0,11.54,not out,Not Out,,
+13,MV Team B,Darshil A Kukadiya,11422052.0,RHB,Right-arm Off Break,6,26,1,0,23.08,c&b Satyajeet Bhumkar,Other,,
+13,MV Team B,Anargh Jain,11573993.0,RHB,Right-arm fast,30,63,3,0,47.62,c Mitesh Nilesh Shinde b Arnav Rishikesh Gawade,Caught,Arnav Rishikesh Gawade,Mitesh Nilesh Shinde
+13,MV Team B,Maanvendra Singh Sengar,17734094.0,RHB,,17,47,2,0,36.17,b Mitesh Nilesh Shinde,Bowled,Mitesh Nilesh Shinde,
+13,MV Team B,Ryan,16296325.0,RHB,Right-arm Off Break,2,4,0,0,50.0,b Mitesh Nilesh Shinde,Bowled,Mitesh Nilesh Shinde,
+13,MV Team B,Atharv Jadhavar,24593178.0,RHB,Right-arm Off Break,18,25,3,0,72.0,c&b Hridaan Joshi,Other,,
+13,MV Team B,Aahan Thanekar,3873563.0,LHB,Slow left-arm orthodox,30,50,5,0,60.0,lbw b Hridaan Joshi,LBW,Hridaan Joshi,
+13,MV Team B,Rajveer Mehra,14026290.0,RHB,Right-arm medium,29,37,5,0,78.38,c Omaansh Bora b Advay Newase,Caught,Advay Newase,Omaansh Bora
+13,MV Team B,Yugveer,43046148.0,RHB,Right-arm medium,2,11,0,0,18.18,lbw b Advay Newase,LBW,Advay Newase,
+13,MV Team B,Arush Dinde,26143769.0,RHB,Right-arm fast,13,12,3,0,108.33,not out,Not Out,,
+13,MV Team B,Daksh Khobragade,29187109.0,RHB,Right-arm fast,6,10,1,0,60.0,b Mitesh Nilesh Shinde,Bowled,Mitesh Nilesh Shinde,
+13,MV Team A,Swarit Gaikwad,30886591.0,RHB,Right-arm medium,16,45,2,0,35.56,c Atharv Jadhavar b Rajveer Mehra,Caught,Rajveer Mehra,Atharv Jadhavar
+13,MV Team A,Advit Suhas Wagh,17284581.0,RHB,Right-arm medium,9,12,2,0,75.0,b Arush Dinde,Bowled,Arush Dinde,
+13,MV Team A,Samanyu Pal,32380655.0,RHB,Right-arm medium,0,1,0,0,0.0,lbw b Arush Dinde,LBW,Arush Dinde,
+13,MV Team A,Samanyu Pal,49813905.0,LHB,11,0,1,0,0,0.0,lbw b Arush Dinde,LBW,Arush Dinde,
+13,MV Team A,Samanyu Pal,52162896.0,RHB,Right-arm medium,0,1,0,0,0.0,lbw b Arush Dinde,LBW,Arush Dinde,
+13,MV Team A,Hridaan Joshi,13496084.0,RHB,Right-arm Off Break,4,14,1,0,28.57,b Yugveer,Bowled,Yugveer,
+13,MV Team A,Mitesh Nilesh Shinde,26872914.0,RHB,Right-arm medium,84,97,16,0,86.6,c&b Arush Dinde,Other,,
+13,MV Team A,Arnav Rishikesh Gawade,26206374.0,RHB,Right-arm Leg Break,13,7,3,0,185.71,c  Maanvendra Singh Sengar b Daksh Khobragade,Caught,Daksh Khobragade,Maanvendra Singh Sengar
+13,MV Team A,Omaansh Bora,24235651.0,RHB,Left-arm fast,0,4,0,0,0.0,b Daksh Khobragade,Bowled,Daksh Khobragade,
+13,MV Team A,Advay Newase,28106291.0,RHB,Right-arm Off Break,3,49,0,0,6.12,c  Maanvendra Singh Sengar b Arush Dinde,Caught,Arush Dinde,Maanvendra Singh Sengar
+13,MV Team A,Satyajeet Bhumkar,28995986.0,LHB,Right-arm medium,10,16,2,0,62.5,c Arush Dinde b Rajveer Mehra,Caught,Rajveer Mehra,Arush Dinde
+13,MV Team A,Ayaan Singh,19715152.0,RHB,Left-arm fast,2,14,0,0,14.29,not out,Not Out,,
+13,MV Team A,Atharv Jadhavar,24593178.0,RHB,Right-arm Off Break,0,1,0,0,0.0,retired hurt,Retired Hurt,,
+14,MV Team B,Advit Suhas Wagh,17284581.0,RHB,Right-arm medium,6,9,1,0,66.67,c Arnav  Baravkar b Satyajeet Bhumkar,Caught,Satyajeet Bhumkar,Arnav Baravkar
+14,MV Team B,Aayush Pathoriya,43506688.0,RHB,Right-arm Off Break,1,2,0,0,50.0,lbw b Sanskar Fate,LBW,Sanskar Fate,
+14,MV Team B,Siddant Gagapurapu,12459747.0,RHB,Right-arm medium,24,57,3,0,42.11,b Arush Dinde,Bowled,Arush Dinde,
+14,MV Team B,Aradhyraj Sheti,8670559.0,RHB,Right-arm Leg Break,0,4,0,0,0.0,b Satyajeet Bhumkar,Bowled,Satyajeet Bhumkar,
+14,MV Team B,Ranvijay A Patil,33003301.0,RHB,Right-arm fast,28,46,5,0,60.87,c Sanskar Fate b Arnav Mandlik,Caught,Arnav Mandlik,Sanskar Fate
+14,MV Team B,Maanvendra Singh Sengar,17734094.0,RHB,,16,58,2,0,27.59,c  Aarav b Arnav  Baravkar,Caught,Arnav Baravkar,Aarav
+14,MV Team B,Naitik Dighe,21928960.0,LHB,Left-arm fast,1,4,0,0,25.0,b Arnav  Baravkar,Bowled,Arnav Baravkar,
+14,MV Team B,Ayansh Keshwani,13609091.0,RHB,Right-arm fast,0,6,0,0,0.0,b Arnav  Baravkar,Bowled,Arnav Baravkar,
+14,MV Team B,Aahan Thanekar,3873563.0,LHB,Slow left-arm orthodox,5,15,1,0,33.33,b Sanskar Fate,Bowled,Sanskar Fate,
+14,MV Team B,Ayaan Singh,19715152.0,RHB,Left-arm fast,21,32,4,0,65.62,lbw b Arush Dinde,LBW,Arush Dinde,
+14,MV Team B,Yugveer,43046148.0,RHB,Right-arm medium,0,4,0,0,0.0,c Satyajeet Bhumkar b Arush Dinde,Caught,Arush Dinde,Satyajeet Bhumkar
+14,MV Team B,Vansh Gupta,17972639.0,RHB,Right-arm medium,5,5,1,0,100.0,b Arush Dinde,Bowled,Arush Dinde,
+14,MV Team B,Aarav Sampat,24271817.0,RHB,Right-arm medium,0,9,0,0,0.0,b Arnav  Baravkar,Bowled,Arnav Baravkar,
+14,MV Team B,Rajveer Mehra,14026290.0,RHB,Right-arm medium,6,6,1,0,100.0,not out,Not Out,,
+14,MV Team A,Shreyansh Pal,26729176.0,RHB,,27,48,4,0,56.25,run out Maanvendra Singh Sengar / Aarav Sampat,Run Out,,"Maanvendra Singh Sengar, Aarav Sampat"
+14,MV Team A,Swarit Gaikwad,30886591.0,RHB,Right-arm medium,1,11,0,0,9.09,c  Aradhyraj Sheti b Ayaan Singh,Caught,Ayaan Singh,Aradhyraj Sheti
+14,MV Team A,Vighnesh Pota,22145188.0,RHB,Right-arm Leg Break,9,26,1,0,34.62,lbw b Aarav Sampat,LBW,Aarav Sampat,
+14,MV Team A,Atharv Jadhavar,24593178.0,RHB,Right-arm Off Break,25,37,4,0,67.57,b Rajveer Mehra,Bowled,Rajveer Mehra,
+14,MV Team A,Naksh Agrawal,34875806.0,RHB,Right-arm medium,1,11,0,0,9.09,lbw b Rajveer Mehra,LBW,Rajveer Mehra,
+14,MV Team A,Aarav,23903793.0,RHB,Right-arm fast,31,32,5,0,96.88,b Vansh Gupta,Bowled,Vansh Gupta,
+14,MV Team A,Sarthak Mane,15877706.0,RHB,Right-arm Leg Break,22,20,3,0,110.0,c Advit Suhas Wagh b Aahan Thanekar,Caught,Aahan Thanekar,Advit Suhas Wagh
+14,MV Team A,Abir Vaidya,24328201.0,RHB,Slow left-arm chinaman,1,7,0,0,14.29,run out Siddant Gagapurapu / Aradhyraj Sheti,Run Out,,"Siddant Gagapurapu, Aradhyraj Sheti"
+14,MV Team A,Arush Dinde,26143769.0,RHB,Right-arm fast,18,31,2,0,58.06,not out,Not Out,,
+14,MV Team A,Sanskar Fate,30016711.0,RHB,Right-arm medium,37,37,7,0,100.0,c Ranvijay A Patil b Vansh Gupta,Caught,Vansh Gupta,Ranvijay A Patil
+14,MV Team A,Sanskar Warate,42777267.0,RHB,Slow left-arm orthodox,0,3,0,0,0.0,b Naitik Dighe,Bowled,Naitik Dighe,
+14,MV Team A,Satyajeet Bhumkar,28995986.0,LHB,Right-arm medium,0,1,0,0,0.0,b Naitik Dighe,Bowled,Naitik Dighe,
+14,MV Team A,Arnav Baravkar,11146713.0,RHB,Right-arm Off Break,0,3,0,0,0.0,b Yugveer,Bowled,Yugveer,
+15,Mavericks B,Avaje,32309461.0,LHB,Slow left-arm orthodox,28,47,5,0,59.57,c Jiyansh H Shah b Ayaan Singh,Caught,Ayaan Singh,Jiyansh H Shah
+15,Mavericks B,Swarm Dhananjay Bhole,40845835.0,RHB,Right-arm Leg Break,52,37,8,2,140.54,b Atharv Shinde,Bowled,Atharv Shinde,
+15,Mavericks B,Siddant Gagapurapu,12459747.0,RHB,Right-arm medium,5,15,1,0,33.33,c&b Atharv Shinde,Other,,
+15,Mavericks B,Pranav Galande,26291744.0,RHB,Right-arm medium,17,29,3,0,58.62,b Aahan Thanekar,Bowled,Aahan Thanekar,
+15,Mavericks B,Naitik Dighe,21928960.0,LHB,Left-arm fast,15,17,2,0,88.24,c Shaakya Patankar b Aahan Thanekar,Caught,Aahan Thanekar,Shaakya Patankar
+15,Mavericks B,Sanskar Fate,30016711.0,RHB,Right-arm medium,60,51,6,3,117.65,not out,Not Out,,
+15,Mavericks B,Abir Vaidya,24328201.0,RHB,Slow left-arm chinaman,2,3,0,0,66.67,run out Shaakya Patankar / Naksh Agrawal,Run Out,,"Shaakya Patankar, Naksh Agrawal"
+15,Mavericks B,Yugveer,43046148.0,RHB,Right-arm medium,4,7,0,0,57.14,c&b Shaakya Patankar,Other,,
+15,Mavericks B,aryan jadhav,18893223.0,RHB,Left-arm medium,8,14,1,0,57.14,c&b Aahan Thanekar,Other,,
+15,Mavericks A,Advit Suhas Wagh,17284581.0,RHB,Right-arm medium,81,100,16,0,81.0,b Swarm Dhananjay Bhole,Bowled,Swarm Dhananjay Bhole,
+15,Mavericks A,Aayush Pathoriya,43506688.0,RHB,Right-arm Off Break,19,21,4,0,90.48,run out aryan jadhav / Siddant Gagapurapu,Run Out,,"aryan jadhav, Siddant Gagapurapu"
+15,Mavericks A,Naksh Agrawal,34875806.0,RHB,Right-arm medium,12,16,1,0,75.0,c Sanskar Fate b Pranav Galande,Caught,Pranav Galande,Sanskar Fate
+15,Mavericks A,Jiyansh H Shah,15670361.0,RHB,Right-arm medium,6,14,1,0,42.86,b Naitik Dighe,Bowled,Naitik Dighe,
+15,Mavericks A,Ayaan Singh,19715152.0,RHB,Left-arm fast,5,13,1,0,38.46,lbw b Naitik Dighe,LBW,Naitik Dighe,
+15,Mavericks A,Mayuresh Jagtap,34190885.0,RHB,Right-arm Off Break,5,9,1,0,55.56,st  Siddant Gagapurapu b Abir  Vaidya,Stumped,Abir Vaidya,Siddant Gagapurapu
+15,Mavericks A,Shaakya Patankar,25158077.0,RHB,Right-arm Off Break,16,65,1,0,24.62,lbw b Sanskar Warate,LBW,Sanskar Warate,
+15,Mavericks A,Satyajeet Bhumkar,28995986.0,LHB,Right-arm medium,0,3,0,0,0.0,b Naitik Dighe,Bowled,Naitik Dighe,
+15,Mavericks A,Aahan Thanekar,3873563.0,LHB,Slow left-arm orthodox,19,50,2,0,38.0,not out,Not Out,,
+15,Mavericks A,Sarthak Mane,15877706.0,RHB,Right-arm Leg Break,8,8,1,0,100.0,c&b Sanskar Warate,Other,,
+16,Maverick B,Aayush Pathoriya,43506688.0,RHB,Right-arm Off Break,17,37,2,0,45.95,lbw b Vansh Gupta,LBW,Vansh Gupta,
+16,Maverick B,Aradhyraj Sheti,8670559.0,RHB,Right-arm Leg Break,2,4,0,0,50.0,b Mitesh Nilesh Shinde,Bowled,Mitesh Nilesh Shinde,
+16,Maverick B,Advit Suhas Wagh,17284581.0,RHB,Right-arm medium,3,10,0,0,30.0,lbw b Satyajeet Bhumkar,LBW,Satyajeet Bhumkar,
+16,Maverick B,Yakshit Khaladkar,15735309.0,RHB,Right-arm medium,16,15,3,0,106.67,run out Sarthak Mane,Run Out,,Sarthak Mane
+16,Maverick B,Naksh Agrawal,34875806.0,RHB,Right-arm medium,21,41,3,0,51.22,c Arush Dinde b Sarthak Mane,Caught,Sarthak Mane,Arush Dinde
+16,Maverick B,Ayaan Singh,19715152.0,RHB,Left-arm fast,12,15,2,0,80.0,c Aarav b Ayansh Keshwani,Caught,Ayansh Keshwani,Aarav
+16,Maverick B,Sanskar Fate,30016711.0,RHB,Right-arm medium,22,18,3,0,122.22,c Arush Dinde b Siddant Gagapurapu,Caught,Siddant Gagapurapu,Arush Dinde
+16,Maverick B,Yugveer,43046148.0,RHB,Right-arm medium,0,3,0,0,0.0,b Siddant Gagapurapu,Bowled,Siddant Gagapurapu,
+16,Maverick B,Sanskar Warate,42777267.0,RHB,Slow left-arm orthodox,0,2,0,0,0.0,b Ayansh Keshwani,Bowled,Ayansh Keshwani,
+16,Maverick B,Aarav Sampat,24271817.0,RHB,Right-arm medium,0,2,0,0,0.0,not out,Not Out,,
+16,Mavericks A,Maanvendra Singh Sengar,17734094.0,RHB,,20,50,3,0,40.0,c Advit Suhas Wagh b Aarav Sampat,Caught,Aarav Sampat,Advit Suhas Wagh
+16,Mavericks A,Ayansh Keshwani,13609091.0,RHB,Right-arm fast,4,11,1,0,36.36,b Rajveer Mehra,Bowled,Rajveer Mehra,
+16,Mavericks A,Siddant Gagapurapu,12459747.0,RHB,Right-arm medium,60,75,8,0,80.0,b Advit Suhas Wagh,Bowled,Advit Suhas Wagh,
+16,Mavericks A,Aarav,23903793.0,RHB,Right-arm fast,8,15,1,0,53.33,b Sanskar Warate,Bowled,Sanskar Warate,
+16,Mavericks A,Arush Dinde,26143769.0,RHB,Right-arm fast,32,45,4,0,71.11,not out,Not Out,,
+16,Mavericks A,Mitesh Nilesh Shinde,26872914.0,RHB,Right-arm medium,5,8,1,0,62.5,lbw b Sanskar Fate,LBW,Sanskar Fate,
+16,Mavericks A,Sarthak Mane,15877706.0,RHB,Right-arm Leg Break,16,13,3,0,123.08,run out Sanskar Fate,Run Out,,Sanskar Fate
+16,Mavericks A,Vansh Gupta,17972639.0,RHB,Right-arm medium,32,21,6,0,152.38,c Sanskar Fate b Ayaan Singh,Caught,Ayaan Singh,Sanskar Fate
+16,Mavericks A,Satyajeet Bhumkar,28995986.0,LHB,Right-arm medium,0,4,0,0,0.0,b Aarav Sampat,Bowled,Aarav Sampat,
+17,MV Team B,Advit Suhas Wagh,17284581.0,RHB,Right-arm medium,6,9,1,0,66.67,c Arnav  Baravkar b Satyajeet Bhumkar,Caught,Satyajeet Bhumkar,Arnav Baravkar
+17,MV Team B,Aayush Pathoriya,43506688.0,RHB,Right-arm Off Break,1,2,0,0,50.0,lbw b Sanskar Fate,LBW,Sanskar Fate,
+17,MV Team B,Siddant Gagapurapu,12459747.0,RHB,Right-arm medium,24,57,3,0,42.11,b Arush Dinde,Bowled,Arush Dinde,
+17,MV Team B,Aradhyraj Sheti,8670559.0,RHB,Right-arm Leg Break,0,4,0,0,0.0,b Satyajeet Bhumkar,Bowled,Satyajeet Bhumkar,
+17,MV Team B,Ranvijay A Patil,33003301.0,RHB,Right-arm fast,28,46,5,0,60.87,c Sanskar Fate b Arnav Mandlik,Caught,Arnav Mandlik,Sanskar Fate
+17,MV Team B,Maanvendra Singh Sengar,17734094.0,RHB,,16,58,2,0,27.59,c  Aarav b Arnav  Baravkar,Caught,Arnav Baravkar,Aarav
+17,MV Team B,Naitik Dighe,21928960.0,LHB,Left-arm fast,1,4,0,0,25.0,b Arnav  Baravkar,Bowled,Arnav Baravkar,
+17,MV Team B,Ayansh Keshwani,13609091.0,RHB,Right-arm fast,0,6,0,0,0.0,b Arnav  Baravkar,Bowled,Arnav Baravkar,
+17,MV Team B,Aahan Thanekar,3873563.0,LHB,Slow left-arm orthodox,5,15,1,0,33.33,b Sanskar Fate,Bowled,Sanskar Fate,
+17,MV Team B,Ayaan Singh,19715152.0,RHB,Left-arm fast,21,32,4,0,65.62,lbw b Arush Dinde,LBW,Arush Dinde,
+17,MV Team B,Yugveer,43046148.0,RHB,Right-arm medium,0,4,0,0,0.0,c Satyajeet Bhumkar b Arush Dinde,Caught,Arush Dinde,Satyajeet Bhumkar
+17,MV Team B,Vansh Gupta,17972639.0,RHB,Right-arm medium,5,5,1,0,100.0,b Arush Dinde,Bowled,Arush Dinde,
+17,MV Team B,Aarav Sampat,24271817.0,RHB,Right-arm medium,0,9,0,0,0.0,b Arnav  Baravkar,Bowled,Arnav Baravkar,
+17,MV Team B,Rajveer Mehra,14026290.0,RHB,Right-arm medium,6,6,1,0,100.0,not out,Not Out,,
+17,MV Team A,Shreyansh Pal,26729176.0,RHB,,27,48,4,0,56.25,run out Maanvendra Singh Sengar / Aarav Sampat,Run Out,,"Maanvendra Singh Sengar, Aarav Sampat"
+17,MV Team A,Swarit Gaikwad,30886591.0,RHB,Right-arm medium,1,11,0,0,9.09,c  Aradhyraj Sheti b Ayaan Singh,Caught,Ayaan Singh,Aradhyraj Sheti
+17,MV Team A,Vighnesh Pota,22145188.0,RHB,Right-arm Leg Break,9,26,1,0,34.62,lbw b Aarav Sampat,LBW,Aarav Sampat,
+17,MV Team A,Atharv Jadhavar,24593178.0,RHB,Right-arm Off Break,25,37,4,0,67.57,b Rajveer Mehra,Bowled,Rajveer Mehra,
+17,MV Team A,Naksh Agrawal,34875806.0,RHB,Right-arm medium,1,11,0,0,9.09,lbw b Rajveer Mehra,LBW,Rajveer Mehra,
+17,MV Team A,Aarav,23903793.0,RHB,Right-arm fast,31,32,5,0,96.88,b Vansh Gupta,Bowled,Vansh Gupta,
+17,MV Team A,Sarthak Mane,15877706.0,RHB,Right-arm Leg Break,22,20,3,0,110.0,c Advit Suhas Wagh b Aahan Thanekar,Caught,Aahan Thanekar,Advit Suhas Wagh
+17,MV Team A,Abir Vaidya,24328201.0,RHB,Slow left-arm chinaman,1,7,0,0,14.29,run out Siddant Gagapurapu / Aradhyraj Sheti,Run Out,,"Siddant Gagapurapu, Aradhyraj Sheti"
+17,MV Team A,Arush Dinde,26143769.0,RHB,Right-arm fast,18,31,2,0,58.06,not out,Not Out,,
+17,MV Team A,Sanskar Fate,30016711.0,RHB,Right-arm medium,37,37,7,0,100.0,c Ranvijay A Patil b Vansh Gupta,Caught,Vansh Gupta,Ranvijay A Patil
+17,MV Team A,Sanskar Warate,42777267.0,RHB,Slow left-arm orthodox,0,3,0,0,0.0,b Naitik Dighe,Bowled,Naitik Dighe,
+17,MV Team A,Satyajeet Bhumkar,28995986.0,LHB,Right-arm medium,0,1,0,0,0.0,b Naitik Dighe,Bowled,Naitik Dighe,
+17,MV Team A,Arnav Baravkar,11146713.0,RHB,Right-arm Off Break,0,3,0,0,0.0,b Yugveer,Bowled,Yugveer,
+18,Scoresports Women U19,Samiksha Pawar,,,,43,31,10,0,138.71,c NIRJARA MOKASHI b Aaradhya Jadhav,Caught,Aaradhya Jadhav,NIRJARA MOKASHI
+18,Scoresports Women U19,J P,,,,22,25,5,0,88.0,c Sarvadnya b Ovi  Gajmal,Caught,Ovi Gajmal,Sarvadnya
+18,Scoresports Women U19,Arnavee shinde,,,,41,30,6,0,136.67,st  Aarya Magar b Janhavi Gaikwad,Stumped,Janhavi Gaikwad,Aarya Magar
+18,Scoresports Women U19,Aarya Chikhalikar,,,,5,6,1,0,83.33,c  Aarya Magar b Ovi  Gajmal,Caught,Ovi Gajmal,Aarya Magar
+18,Scoresports Women U19,Akshara Sangram Darade,,,,6,6,1,0,100.0,b Ovi  Gajmal,Bowled,Ovi Gajmal,
+18,Scoresports Women U19,Swara S Sathe,,,,17,20,2,0,85.0,st  Aarya Magar b Janhavi Gaikwad,Stumped,Janhavi Gaikwad,Aarya Magar
+18,Scoresports Women U19,Medhavi Dixit,,,,1,2,0,0,50.0,not out,Not Out,,
+18,SARK Women U 19,Rajlaxmi Kore 08,,,,20,15,4,0,133.33,c Nirjara Bandaru b Arya Azgaonkar,Caught,Arya Azgaonkar,Nirjara Bandaru
+18,SARK Women U 19,Ovi Gajmal,,,,0,4,0,0,0.0,c  Samiksha Pawar b Medhavi Dixit,Caught,Medhavi Dixit,Samiksha Pawar
+18,SARK Women U 19,Janhavi Gaikwad,,,,23,34,4,0,67.65,c Arnavee shinde b Arya Azgaonkar,Caught,Arya Azgaonkar,Arnavee shinde
+18,SARK Women U 19,Aarya Magar,,,,18,19,2,0,94.74,c J P b Arnavee shinde,Caught,Arnavee shinde,J P
+18,SARK Women U 19,Sarvadnya,,,,4,5,0,0,80.0,st  Samiksha Pawar b Samiksha Jamdade,Stumped,Samiksha Jamdade,Samiksha Pawar
+18,SARK Women U 19,NIRJARA MOKASHI,,,,0,3,0,0,0.0,c Aarya Chikhalikar b Samiksha Jamdade,Caught,Samiksha Jamdade,Aarya Chikhalikar
+18,SARK Women U 19,Asmi Mokashi,,,,8,20,0,0,40.0,not out,Not Out,,
+18,SARK Women U 19,Aaradhya Jadhav,,,,26,16,5,0,162.5,c Medhavi Dixit b J P,Caught,J P,Medhavi Dixit
+18,SARK Women U 19,Dhruvi Tidke,,,,0,5,0,0,0.0,not out,Not Out,,
+19,Metro A,Swaraj Vijay Shirke,16599472.0,RHB,Right-arm Off Break,3,21,0,0,14.29,b Daksh Khobragade,Bowled,Daksh Khobragade,
+19,Metro A,Rudra Ghumbarde,41019545.0,RHB,Right-arm Off Break,24,71,3,0,33.8,b Arnav Rishikesh Gawade,Bowled,Arnav Rishikesh Gawade,
+19,Metro A,Aadyansh Mishra,17232168.0,RHB,Right-arm fast,13,52,1,0,25.0,b Advay Newase,Bowled,Advay Newase,
+19,Metro A,Vivek Pujari,33006188.0,RHB,Right-arm Leg Break,100,115,14,0,86.96,retired hurt,Retired Hurt,,
+19,Metro A,Swaroop Ghanwat,13341931.0,RHB,Slow left-arm orthodox,80,140,9,0,57.14,run out Advit Suhas Wagh,Run Out,,Advit Suhas Wagh
+19,Metro A,Vihaan Dnyandev Jadhav,33642335.0,LHB,Right-arm medium,10,15,0,0,66.67,b Arush Dinde,Bowled,Arush Dinde,
+19,Metro A,Dhritil Patel,13439973.0,RHB,Right-arm medium,15,27,2,0,55.56,b Arush Dinde,Bowled,Arush Dinde,
+19,Metro A,Shaurya Singh,43670907.0,RHB,Right-arm Off Break,11,41,2,0,26.83,c Advit Suhas Wagh b Abir  Vaidya,Caught,Abir Vaidya,Advit Suhas Wagh
+19,Metro A,Arnav Vinode,34392732.0,LHB,Right-arm Off Break,11,24,2,0,45.83,c Abir  Vaidya b Aahan Thanekar,Caught,Aahan Thanekar,Abir Vaidya
+19,Metro A,Kartavya Rathod,14714083.0,RHB,Right-arm Off Break,28,29,3,0,96.55,not out,Not Out,,
+19,Metro A,Shourya S Pardeshi,2036776.0,RHB,Left-arm fast,6,8,0,0,75.0,not out,Not Out,,
+19,MV Team A,Krishna Padwal,29967355.0,RHB,Right-arm Leg Break,0,3,0,0,0.0,b Rugved Potdar,Bowled,Rugved Potdar,
+19,MV Team A,Atharv Jadhavar,24593178.0,RHB,Right-arm Off Break,20,36,4,0,55.56,c&b Rugved Potdar,Other,,
+19,MV Team A,Swarit Gaikwad,30886591.0,RHB,Right-arm medium,4,24,1,0,16.67,c  Vivek Pujari b Rugved Potdar,Caught,Rugved Potdar,Vivek Pujari
+19,MV Team A,Anargh Jain,11573993.0,RHB,Right-arm fast,44,42,10,0,104.76,run out Vihaan Dnyandev Jadhav / Swaroop Ghanwat,Run Out,,"Vihaan Dnyandev Jadhav, Swaroop Ghanwat"
+19,MV Team A,Mitesh Nilesh Shinde,26872914.0,RHB,Right-arm medium,22,51,4,0,43.14,c Pruthviraj  b Kartavya Rathod,Caught,Kartavya Rathod,Pruthviraj
+19,MV Team A,Advit Suhas Wagh,17284581.0,RHB,Right-arm medium,9,29,1,0,31.03,c&b Sohail Shaikh,Other,,
+19,MV Team A,Sarthak Mane,15877706.0,RHB,Right-arm Leg Break,21,29,5,0,72.41,c Pruthviraj  b Arnav Vinode,Caught,Arnav Vinode,Pruthviraj
+19,MV Team A,Maanvendra Singh Sengar,17734094.0,RHB,,19,78,2,0,24.36,b Swaroop Ghanwat,Bowled,Swaroop Ghanwat,
+19,MV Team A,Aahan Thanekar,3873563.0,LHB,Slow left-arm orthodox,13,35,2,0,37.14,c Sohail Shaikh b Aryan Khedkar (AK47),Caught,Aryan Khedkar (AK47),Sohail Shaikh
+19,MV Team A,Advay Newase,28106291.0,RHB,Right-arm Off Break,0,3,0,0,0.0,b Aryan Khedkar (AK47),Bowled,Aryan Khedkar (AK47),
+19,MV Team A,Arush Dinde,26143769.0,RHB,Right-arm fast,0,4,0,0,0.0,lbw b Aryan Khedkar (AK47),LBW,Aryan Khedkar (AK47),
+19,MV Team A,Abir Vaidya,24328201.0,RHB,Slow left-arm chinaman,15,30,3,0,50.0,c Swaroop Ghanwat b Kartavya Rathod,Caught,Kartavya Rathod,Swaroop Ghanwat
+19,MV Team A,Arnav Rishikesh Gawade,26206374.0,RHB,Right-arm Leg Break,0,13,0,0,0.0,b Shaurya Singh,Bowled,Shaurya Singh,
+19,MV Team A,Shrey Joshi,24235650.0,RHB,Right-arm Leg Break,0,1,0,0,0.0,b Kartavya Rathod,Bowled,Kartavya Rathod,
+19,MV Team A,Daksh Khobragade,29187109.0,RHB,Right-arm fast,4,4,1,0,100.0,not out,Not Out,,
+20,MV Team A,Anargh Jain,11573993.0,RHB,Right-arm fast,0,4,0,0,0.0,b Rugved Potdar,Bowled,Rugved Potdar,
+20,MV Team A,Atharv Jadhavar,24593178.0,RHB,Right-arm Off Break,12,22,2,0,54.55,c Pratyush Sandeep Rai b Aarav Sampat,Caught,Aarav Sampat,Pratyush Sandeep Rai
+20,MV Team A,Advit Suhas Wagh,17284581.0,RHB,Right-arm medium,15,24,2,1,62.5,c&b Rugved Potdar,Other,,
+20,MV Team A,Advik Shrirao,16963474.0,RHB,Right-arm fast,10,37,2,0,27.03,b Aryan Khedkar (AK47),Bowled,Aryan Khedkar (AK47),
+20,MV Team A,Ranvijay A Patil,33003301.0,RHB,Right-arm fast,3,14,0,0,21.43,b Pruthviraj,Bowled,Pruthviraj,
+20,MV Team A,Maanvendra Singh Sengar,17734094.0,RHB,,4,29,0,0,13.79,b Aryan Khedkar (AK47),Bowled,Aryan Khedkar (AK47),
+20,MV Team A,Samanyu Pal,32380655.0,RHB,Right-arm medium,20,42,3,0,47.62,b Swaroop Ghanwat,Bowled,Swaroop Ghanwat,
+20,MV Team A,Samanyu Pal,49813905.0,LHB,11,20,42,3,0,47.62,b Swaroop Ghanwat,Bowled,Swaroop Ghanwat,
+20,MV Team A,Samanyu Pal,52162896.0,RHB,Right-arm medium,20,42,3,0,47.62,b Swaroop Ghanwat,Bowled,Swaroop Ghanwat,
+20,MV Team A,Mitesh Nilesh Shinde,26872914.0,RHB,Right-arm medium,0,6,0,0,0.0,lbw b Aryan Khedkar (AK47),LBW,Aryan Khedkar (AK47),
+20,MV Team A,Sarthak Mane,15877706.0,RHB,Right-arm Leg Break,33,57,7,0,57.89,c Vihaan Dnyandev Jadhav b Pratik Nagavi,Caught,Pratik Nagavi,Vihaan Dnyandev Jadhav
+20,MV Team A,Arush Dinde,26143769.0,RHB,Right-arm fast,1,12,0,0,8.33,lbw b Parth Kadam,LBW,Parth Kadam,
+20,MV Team A,Satyajeet Bhumkar,28995986.0,LHB,Right-arm medium,6,13,1,0,46.15,c Vihaan Dnyandev Jadhav b Pratyush Sandeep Rai,Caught,Pratyush Sandeep Rai,Vihaan Dnyandev Jadhav
+20,MV Team A,Aahan Thanekar,3873563.0,LHB,Slow left-arm orthodox,0,14,0,0,0.0,not out,Not Out,,
+20,MV Team A,Yugveer,43046148.0,RHB,Right-arm medium,0,12,0,0,0.0,b Pratyush Sandeep Rai,Bowled,Pratyush Sandeep Rai,
+20,MV Team A,Abir Vaidya,24328201.0,RHB,Slow left-arm chinaman,0,3,0,0,0.0,lbw b Pratyush Sandeep Rai,LBW,Pratyush Sandeep Rai,
+20,MV Team A,Daksh Khobragade,29187109.0,RHB,Right-arm fast,0,1,0,0,0.0,b Pratyush Sandeep Rai,Bowled,Pratyush Sandeep Rai,
+20,Metro A,Swaraj Vijay Shirke,16599472.0,RHB,Right-arm Off Break,5,17,1,0,29.41,b Arush Dinde,Bowled,Arush Dinde,
+20,Metro A,Vihaan Dnyandev Jadhav,33642335.0,LHB,Right-arm medium,89,149,13,0,59.73,c  Maanvendra Singh Sengar b Arush Dinde,Caught,Arush Dinde,Maanvendra Singh Sengar
+20,Metro A,Adharit Parab,16722173.0,RHB,Right-arm Off Break,52,99,9,0,52.53,lbw b Advit Suhas Wagh,LBW,Advit Suhas Wagh,
+20,Metro A,Aadyansh Mishra,17232168.0,RHB,Right-arm fast,4,12,0,0,33.33,c Sarthak Mane b Advit Suhas Wagh,Caught,Advit Suhas Wagh,Sarthak Mane
+20,Metro A,Pratyush Sandeep Rai,16136726.0,RHB,Right-arm Off Break,11,28,1,0,39.29,lbw b Arush Dinde,LBW,Arush Dinde,
+20,Metro A,Parth Kadam,17042107.0,RHB,Right-arm Off Break,0,6,0,0,0.0,c  Maanvendra Singh Sengar b Advit Suhas Wagh,Caught,Advit Suhas Wagh,Maanvendra Singh Sengar
+20,Metro A,Swaroop Ghanwat,13341931.0,RHB,Slow left-arm orthodox,17,62,2,0,27.42,c  Maanvendra Singh Sengar b Yugveer,Caught,Yugveer,Maanvendra Singh Sengar
+20,Metro A,Vivek Pujari,33006188.0,RHB,Right-arm Leg Break,3,8,0,0,37.5,c Anargh Jain b Arush Dinde,Caught,Arush Dinde,Anargh Jain
+20,Metro A,Rudra Ghumbarde,41019545.0,RHB,Right-arm Off Break,19,52,3,0,36.54,st  Maanvendra Singh Sengar b Yugveer,Stumped,Yugveer,Maanvendra Singh Sengar
+20,Metro A,Arnav Waghchaure,24176526.0,RHB,Right-arm Off Break,16,28,3,0,57.14,c Aahan Thanekar b Satyajeet Bhumkar,Caught,Satyajeet Bhumkar,Aahan Thanekar
+20,Metro A,Pratik Nagavi,17973225.0,RHB,Right-arm Leg Break,21,41,3,0,51.22,c  Maanvendra Singh Sengar b Satyajeet Bhumkar,Caught,Satyajeet Bhumkar,Maanvendra Singh Sengar
+20,Metro A,Pruthviraj,34499552.0,RHB,Right-arm medium,0,5,0,0,0.0,c Ranvijay A Patil b Mitesh Nilesh Shinde,Caught,Mitesh Nilesh Shinde,Ranvijay A Patil
+20,Metro A,Aryan Khedkar,21375379.0,LHB,Slow left-arm chinaman,17,33,3,0,51.52,b Yugveer,Bowled,Yugveer,
+20,Metro A,Aarav Sampat,24271817.0,RHB,Right-arm medium,8,24,2,0,33.33,b Daksh Khobragade,Bowled,Daksh Khobragade,
+20,Metro A,Rugved Potdar,18849840.0,LHB,Right-arm medium,0,1,0,0,0.0,not out,Not Out,,
+21,MV Team B,Darshil A Kukadiya,11422052.0,RHB,Right-arm Off Break,6,26,1,0,23.08,c&b Satyajeet Bhumkar,Other,,
+21,MV Team B,Anargh Jain,11573993.0,RHB,Right-arm fast,30,63,3,0,47.62,c Mitesh Nilesh Shinde b Arnav Rishikesh Gawade,Caught,Arnav Rishikesh Gawade,Mitesh Nilesh Shinde
+21,MV Team B,Maanvendra Singh Sengar,17734094.0,RHB,,17,47,2,0,36.17,b Mitesh Nilesh Shinde,Bowled,Mitesh Nilesh Shinde,
+21,MV Team B,Ryan,16296325.0,RHB,Right-arm Off Break,2,4,0,0,50.0,b Mitesh Nilesh Shinde,Bowled,Mitesh Nilesh Shinde,
+21,MV Team B,Atharv Jadhavar,24593178.0,RHB,Right-arm Off Break,18,25,3,0,72.0,c&b Hridaan Joshi,Other,,
+21,MV Team B,Aahan Thanekar,3873563.0,LHB,Slow left-arm orthodox,30,50,5,0,60.0,lbw b Hridaan Joshi,LBW,Hridaan Joshi,
+21,MV Team B,Rajveer Mehra,14026290.0,RHB,Right-arm medium,29,37,5,0,78.38,c Omaansh Bora b Advay Newase,Caught,Advay Newase,Omaansh Bora
+21,MV Team B,Yugveer,43046148.0,RHB,Right-arm medium,2,11,0,0,18.18,lbw b Advay Newase,LBW,Advay Newase,
+21,MV Team B,Arush Dinde,26143769.0,RHB,Right-arm fast,13,12,3,0,108.33,not out,Not Out,,
+21,MV Team B,Daksh Khobragade,29187109.0,RHB,Right-arm fast,6,10,1,0,60.0,b Mitesh Nilesh Shinde,Bowled,Mitesh Nilesh Shinde,
+21,MV Team A,Swarit Gaikwad,30886591.0,RHB,Right-arm medium,16,45,2,0,35.56,c Atharv Jadhavar b Rajveer Mehra,Caught,Rajveer Mehra,Atharv Jadhavar
+21,MV Team A,Advit Suhas Wagh,17284581.0,RHB,Right-arm medium,9,12,2,0,75.0,b Arush Dinde,Bowled,Arush Dinde,
+21,MV Team A,Samanyu Pal,32380655.0,RHB,Right-arm medium,0,1,0,0,0.0,lbw b Arush Dinde,LBW,Arush Dinde,
+21,MV Team A,Samanyu Pal,49813905.0,LHB,11,0,1,0,0,0.0,lbw b Arush Dinde,LBW,Arush Dinde,
+21,MV Team A,Samanyu Pal,52162896.0,RHB,Right-arm medium,0,1,0,0,0.0,lbw b Arush Dinde,LBW,Arush Dinde,
+21,MV Team A,Hridaan Joshi,13496084.0,RHB,Right-arm Off Break,4,14,1,0,28.57,b Yugveer,Bowled,Yugveer,
+21,MV Team A,Mitesh Nilesh Shinde,26872914.0,RHB,Right-arm medium,84,97,16,0,86.6,c&b Arush Dinde,Other,,
+21,MV Team A,Arnav Rishikesh Gawade,26206374.0,RHB,Right-arm Leg Break,13,7,3,0,185.71,c  Maanvendra Singh Sengar b Daksh Khobragade,Caught,Daksh Khobragade,Maanvendra Singh Sengar
+21,MV Team A,Omaansh Bora,24235651.0,RHB,Left-arm fast,0,4,0,0,0.0,b Daksh Khobragade,Bowled,Daksh Khobragade,
+21,MV Team A,Advay Newase,28106291.0,RHB,Right-arm Off Break,3,49,0,0,6.12,c  Maanvendra Singh Sengar b Arush Dinde,Caught,Arush Dinde,Maanvendra Singh Sengar
+21,MV Team A,Satyajeet Bhumkar,28995986.0,LHB,Right-arm medium,10,16,2,0,62.5,c Arush Dinde b Rajveer Mehra,Caught,Rajveer Mehra,Arush Dinde
+21,MV Team A,Ayaan Singh,19715152.0,RHB,Left-arm fast,2,14,0,0,14.29,not out,Not Out,,
+21,MV Team A,Atharv Jadhavar,24593178.0,RHB,Right-arm Off Break,0,1,0,0,0.0,retired hurt,Retired Hurt,,
+22,professional cricket academy (PCA),Shreeansh Dhamal,30973129.0,RHB,Right-arm medium,0,4,0,0,0.0,b Omaansh Bora,Bowled,Omaansh Bora,
+22,professional cricket academy (PCA),Aahan Harshad Shrirao,14558592.0,RHB,Right-arm fast,11,43,1,0,25.58,lbw b Daksh Khobragade,LBW,Daksh Khobragade,
+22,professional cricket academy (PCA),Videet Mane,27295145.0,RHB,Right-arm medium,4,5,1,0,80.0,b Daksh Khobragade,Bowled,Daksh Khobragade,
+22,professional cricket academy (PCA),Harshwardhan Pande,16295319.0,LHB,Left-arm medium,14,19,3,0,73.68,b Advay Newase,Bowled,Advay Newase,
+22,professional cricket academy (PCA),Kiaan Shivale,43602133.0,RHB,Right-arm fast,3,25,0,0,12.0,lbw b Rishabh Jha,LBW,Rishabh Jha,
+22,professional cricket academy (PCA),Ambika Prashant Wable,33217468.0,RHB,Right-arm fast,0,2,0,0,0.0,lbw b Rishabh Jha,LBW,Rishabh Jha,
+22,professional cricket academy (PCA),Harshal Patil,8619082.0,RHB,Right-arm Leg Break,39,25,7,0,156.0,b Omaansh Bora,Bowled,Omaansh Bora,
+22,professional cricket academy (PCA),Anshuman Singh Shekhawat,33016645.0,LHB,Right-arm Leg Break,109,81,13,7,134.57,not out,Not Out,,
+22,professional cricket academy (PCA),Dada Vable,27794266.0,RHB,Right-arm Off Break,1,7,0,0,14.29,c&b Yugveer,Other,,
+22,professional cricket academy (PCA),Sangam Bansal,24461894.0,RHB,Left-arm medium,14,25,3,0,56.0,run out Daksh Khobragade / Rishabh Jha,Run Out,,"Daksh Khobragade, Rishabh Jha"
+22,professional cricket academy (PCA),Advik Pandit,43716811.0,RHB,Right-arm medium,0,8,0,0,0.0,b Mitesh Nilesh Shinde,Bowled,Mitesh Nilesh Shinde,
+22,Mavericks Cricket Academy,Anargh Jain,11573993.0,RHB,Right-arm fast,25,17,5,0,147.06,lbw b Harshal Patil,LBW,Harshal Patil,
+22,Mavericks Cricket Academy,Daksh Khobragade,29187109.0,RHB,Right-arm fast,0,0,0,0,0.0,retired hurt,Retired Hurt,,
+22,Mavericks Cricket Academy,Darshil A Kukadiya,11422052.0,RHB,Right-arm Off Break,46,59,6,1,77.97,c Videet Mane b Harshal Patil,Caught,Harshal Patil,Videet Mane
+22,Mavericks Cricket Academy,Atharv Jadhavar,24593178.0,RHB,Right-arm Off Break,144,123,23,0,117.07,not out,Not Out,,
+22,Mavericks Cricket Academy,Ranvijay A Patil,33003301.0,RHB,Right-arm fast,2,5,0,0,40.0,c Harshal Patil b Videet Mane,Caught,Videet Mane,Harshal Patil
+22,Mavericks Cricket Academy,Ayush Kamble,33108843.0,RHB,Right-arm fast,3,14,0,0,21.43,lbw b Advik Pandit,LBW,Advik Pandit,
+22,Mavericks Cricket Academy,Ayush Kamble,33145142.0,RHB,Right-arm fast,3,14,0,0,21.43,lbw b Advik Pandit,LBW,Advik Pandit,
+22,Mavericks Cricket Academy,Swara Kulkarni,24351502.0,RHB,Right-arm Off Break,2,8,0,0,25.0,lbw b Advik Pandit,LBW,Advik Pandit,
+22,Mavericks Cricket Academy,Hridaan Joshi,13496084.0,RHB,Right-arm Off Break,11,11,2,0,100.0,not out,Not Out,,
+23,PATILS XI KAMSHET,Samarth Snehal Santosh Pawar,4336406.0,RHB,Right-arm medium,65,55,14,0,118.18,b Sufiyan Makubhai,Bowled,Sufiyan Makubhai,
+23,PATILS XI KAMSHET,Ruturaj Shirtode,11607401.0,RHB,Right-arm Off Break,81,88,12,1,92.05,c Vihaan Malgi b Shourya Birelly,Caught,Shourya Birelly,Vihaan Malgi
+23,PATILS XI KAMSHET,Sahil Singh,4102851.0,RHB,Right-arm fast,158,137,18,6,115.33,c Aarav Thangaokar b Jiyansh H Shah,Caught,Jiyansh H Shah,Aarav Thangaokar
+23,PATILS XI KAMSHET,Piyush Satkar,37043330.0,RHB,Right-arm medium,0,17,0,0,0.0,b Pruthviraj Mundhe,Bowled,Pruthviraj Mundhe,
+23,PATILS XI KAMSHET,Samar Balpande,37629357.0,RHB,Right-arm medium,6,16,0,0,37.5,run out Pruthviraj Mundhe,Run Out,,Pruthviraj Mundhe
+23,PATILS XI KAMSHET,Tanmay Mehare,27165949.0,RHB,Right-arm medium,13,15,3,0,86.67,c Swaraj Gaikwad b Pruthviraj Mundhe,Caught,Pruthviraj Mundhe,Swaraj Gaikwad
+23,PATILS XI KAMSHET,Swarup Babar,30479829.0,LHB,Right-arm fast,10,25,1,0,40.0,c Shivraj Sarde b Vihaan Malgi,Caught,Vihaan Malgi,Shivraj Sarde
+23,PATILS XI KAMSHET,KARAN,17973420.0,LHB,Right-arm medium,16,31,3,0,51.61,b Aarav Thangaokar,Bowled,Aarav Thangaokar,
+23,PATILS XI KAMSHET,Daksh Bahot,17973405.0,LHB,Right-arm Off Break,7,12,1,0,58.33,b Swaraj Gaikwad,Bowled,Swaraj Gaikwad,
+23,PATILS XI KAMSHET,Arpit Singh,4940668.0,RHB,Right-arm Off Break,12,29,2,0,41.38,not out,Not Out,,
+23,PATILS XI KAMSHET,Sarthak Pawar,24156898.0,LHB,Slow left-arm orthodox,26,23,6,0,113.04,c Aarav Thangaokar b Vihaan Malgi,Caught,Vihaan Malgi,Aarav Thangaokar
+23,MEVRICKS CRICKET ACADEMY,Shivraj Sarde,24199085.0,RHB,Right-arm Off Break,37,31,7,0,119.35,b Sahil Singh,Bowled,Sahil Singh,
+23,MEVRICKS CRICKET ACADEMY,Vihan Yevankar,14154348.0,RHB,Right-arm Off Break,14,20,1,1,70.0,b Sahil Singh,Bowled,Sahil Singh,
+23,MEVRICKS CRICKET ACADEMY,saiman Shourya,17951219.0,LHB,Left-arm fast,35,43,8,0,81.4,c Sahil Singh b Arpit Singh,Caught,Arpit Singh,Sahil Singh
+23,MEVRICKS CRICKET ACADEMY,Atharv Jadhavar,24593178.0,RHB,Right-arm Off Break,32,42,5,0,76.19,c Swarup Babar b Arpit Singh,Caught,Arpit Singh,Swarup Babar
+23,MEVRICKS CRICKET ACADEMY,Swaraj Gaikwad,22884048.0,RHB,Right-arm Off Break,5,6,1,0,83.33,c Samarth Snehal Santosh Pawar b Daksh Bahot,Caught,Daksh Bahot,Samarth Snehal Santosh Pawar
+23,MEVRICKS CRICKET ACADEMY,Anargh Jain,11573993.0,RHB,Right-arm fast,1,6,0,0,16.67,c&b Daksh Bahot,Other,,
+23,MEVRICKS CRICKET ACADEMY,Aarav Thangaokar,6876345.0,LHB,Slow left-arm orthodox,68,47,10,3,144.68,b Sarthak Pawar,Bowled,Sarthak Pawar,
+23,MEVRICKS CRICKET ACADEMY,Sufiyan Makubhai,33250728.0,RHB,Right-arm medium,0,1,0,0,0.0,b Daksh Bahot,Bowled,Daksh Bahot,
+23,MEVRICKS CRICKET ACADEMY,Advit Suhas Wagh,17284581.0,RHB,Right-arm medium,5,18,1,0,27.78,b Swarup Babar,Bowled,Swarup Babar,
+23,MEVRICKS CRICKET ACADEMY,Vihaan Malgi,16903137.0,RHB,Right-arm medium,0,10,0,0,0.0,lbw b Sahil Singh,LBW,Sahil Singh,
+23,MEVRICKS CRICKET ACADEMY,Jiyansh H Shah,15670361.0,RHB,Right-arm medium,2,3,0,0,66.67,not out,Not Out,,
+24,Sachin Zimal Cricket Academy,Shreyas Dhumal,19644614.0,LHB,Right-arm Off Break,41,52,7,0,78.85,b Arush Dinde,Bowled,Arush Dinde,
+24,Sachin Zimal Cricket Academy,Pruthviraj K Mali,31356955.0,RHB,Right-arm fast,12,36,2,0,33.33,c Swarm Dhananjay Bhole b Ayaan Singh,Caught,Ayaan Singh,Swarm Dhananjay Bhole
+24,Sachin Zimal Cricket Academy,Shivendra Dhumal,41729574.0,RHB,Right-arm medium,0,1,0,0,0.0,c Jiyansh H Shah b Ayaan Singh,Caught,Ayaan Singh,Jiyansh H Shah
+24,Sachin Zimal Cricket Academy,Aditya Swami,18124287.0,LHB,Right-arm Off Break,23,50,4,0,46.0,b Arush Dinde,Bowled,Arush Dinde,
+24,Sachin Zimal Cricket Academy,Veer Pawar,32840173.0,RHB,Right-arm medium,0,7,0,0,0.0,b Arush Dinde,Bowled,Arush Dinde,
+24,Sachin Zimal Cricket Academy,VAIDEHI PARESH MAHAJAN,12373866.0,RHB,Right-arm Leg Break,0,1,0,0,0.0,c Swarm Dhananjay Bhole b Arush Dinde,Caught,Arush Dinde,Swarm Dhananjay Bhole
+24,Sachin Zimal Cricket Academy,Arjun Chaudhari_33,32593386.0,LHB,Slow left-arm chinaman,0,2,0,0,0.0,c Swarm Dhananjay Bhole b Arush Dinde,Caught,Arush Dinde,Swarm Dhananjay Bhole
+24,Sachin Zimal Cricket Academy,Kshiti Choudhari,47668262.0,RHB,,5,19,1,0,26.32,c aryan jadhav b Naitik Dighe,Caught,Naitik Dighe,aryan jadhav
+24,Sachin Zimal Cricket Academy,Samarth Patil,24381672.0,RHB,Right-arm fast,1,4,0,0,25.0,b Sanskar Warate,Bowled,Sanskar Warate,
+24,Sachin Zimal Cricket Academy,Aanay Ingale,24155730.0,RHB,Right-arm fast,13,35,1,0,37.14,b Arush Dinde,Bowled,Arush Dinde,
+24,Sachin Zimal Cricket Academy,Samved Phapale,19308223.0,LHB,Slow left-arm orthodox,15,24,3,0,62.5,not out,Not Out,,
+24,Mavericks,Advit Suhas Wagh,17284581.0,RHB,Right-arm medium,27,30,5,0,90.0,c Aditya Swami b Samved Phapale,Caught,Samved Phapale,Aditya Swami
+24,Mavericks,Swarit Gaikwad,30886591.0,RHB,Right-arm medium,9,27,1,0,33.33,c SHREYAS KAPANE b Samved Phapale,Caught,Samved Phapale,SHREYAS KAPANE
+24,Mavericks,Naitik Dighe,21928960.0,LHB,Left-arm fast,5,13,1,0,38.46,c  Veer Pawar b Arjun Chaudhari_33,Caught,Arjun Chaudhari_33,Veer Pawar
+24,Mavericks,Atharv Jadhavar,24593178.0,RHB,Right-arm Off Break,41,73,5,1,56.16,c Samarth Patil b Shreyas Dhumal,Caught,Shreyas Dhumal,Samarth Patil
+24,Mavericks,Jiyansh H Shah,15670361.0,RHB,Right-arm medium,1,3,0,0,33.33,c Arjun Chaudhari_33 b Samved Phapale,Caught,Samved Phapale,Arjun Chaudhari_33
+24,Mavericks,Mitesh Nilesh Shinde,26872914.0,RHB,Right-arm medium,30,63,4,0,47.62,not out,Not Out,,
+24,Mavericks,Swarm Dhananjay Bhole,40845835.0,RHB,Right-arm Leg Break,2,4,0,0,50.0,st  Veer Pawar b SHREYAS KAPANE,Stumped,SHREYAS KAPANE,Veer Pawar
+24,Mavericks,Sarthak Mane,15877706.0,RHB,Right-arm Leg Break,30,22,5,0,136.36,not out,Not Out,,
+25,Mavericks Cricket Academy,Advit Suhas Wagh,17284581.0,RHB,Right-arm medium,61,83,10,1,73.49,lbw b Samved Phapale,LBW,Samved Phapale,
+25,Mavericks Cricket Academy,Ranvijay A Patil,33003301.0,RHB,Right-arm fast,10,13,2,0,76.92,b Anand Saudagar,Bowled,Anand Saudagar,
+25,Mavericks Cricket Academy,Anargh Jain,11573993.0,RHB,Right-arm fast,16,27,3,0,59.26,c Prathmesh R. P... b Raut ANSH Deepak,Caught,Raut ANSH Deepak,Prathmesh R. P...
+25,Mavericks Cricket Academy,Atharv Jadhavar,24593178.0,RHB,Right-arm Off Break,36,59,4,0,61.02,lbw b Raut ANSH Deepak,LBW,Raut ANSH Deepak,
+25,Mavericks Cricket Academy,Darshil A Kukadiya,11422052.0,RHB,Right-arm Off Break,15,19,2,0,78.95,c Veer Karande b Samved Phapale,Caught,Samved Phapale,Veer Karande
+25,Mavericks Cricket Academy,Maanvendra Singh Sengar,17734094.0,RHB,,20,29,1,0,68.97,b Prachit Phapale,Bowled,Prachit Phapale,
+25,Mavericks Cricket Academy,Ryan,16296325.0,RHB,Right-arm Off Break,17,9,4,0,188.89,b Anand Saudagar,Bowled,Anand Saudagar,
+25,Mavericks Cricket Academy,Suryansh Baheti,19108075.0,RHB,Right-arm Off Break,8,4,1,0,200.0,run out Veer Karande,Run Out,,Veer Karande
+25,Mavericks Cricket Academy,Ayush Kamble,33108843.0,RHB,Right-arm fast,9,11,1,0,81.82,c Prathmesh R. P... b Prachit Phapale,Caught,Prachit Phapale,Prathmesh R. P...
+25,Mavericks Cricket Academy,Ayush Kamble,33145142.0,RHB,Right-arm fast,9,11,1,0,81.82,c Prathmesh R. P... b Prachit Phapale,Caught,Prachit Phapale,Prathmesh R. P...
+25,Mavericks Cricket Academy,Rajveer Mehra,14026290.0,RHB,Right-arm medium,3,6,0,0,50.0,run out Veer Pawar,Run Out,,Veer Pawar
+25,Mavericks Cricket Academy,Satyajeet Bhumkar,28995986.0,LHB,Right-arm medium,4,3,1,0,133.33,not out,Not Out,,
+25,Special XI Cricket Academy,Prathmesh R. P...,17770760.0,LHB,Slow left-arm orthodox,47,77,8,0,61.04,c Advit Suhas Wagh b Rajveer Mehra,Caught,Rajveer Mehra,Advit Suhas Wagh
+25,Special XI Cricket Academy,Veer Pawar,32840173.0,RHB,Right-arm medium,9,23,2,0,39.13,lbw b Rajveer Mehra,LBW,Rajveer Mehra,
+25,Special XI Cricket Academy,Ayush naikwadi,31142365.0,RHB,,1,3,0,0,33.33,run out Rajveer Mehra,Run Out,,Rajveer Mehra
+25,Special XI Cricket Academy,Aditya Swami,18124287.0,LHB,Right-arm Off Break,64,72,11,0,88.89,st  Maanvendra Singh Sengar b Suryansh Baheti,Stumped,Suryansh Baheti,Maanvendra Singh Sengar
+25,Special XI Cricket Academy,Pruthviraj K Mali,31356955.0,RHB,Right-arm fast,25,49,4,0,51.02,lbw b Satyajeet Bhumkar,LBW,Satyajeet Bhumkar,
+25,Special XI Cricket Academy,Mayank Angchekar,22141405.0,RHB,Right-arm medium,0,3,0,0,0.0,c&b Satyajeet Bhumkar,Other,,
+25,Special XI Cricket Academy,Veer Karande,22164037.0,RHB,Right-arm fast,27,34,3,0,79.41,not out,Not Out,,
+25,Special XI Cricket Academy,Kartik Karande,40128656.0,RHB,Slow left-arm orthodox,44,26,7,0,169.23,not out,Not Out,,
+26,Mavericks,Advit Suhas Wagh,17284581.0,RHB,Right-arm medium,9,18,2,0,50.0,c Aarav Somnath Kamble b Rutvij Kumbhar,Caught,Rutvij Kumbhar,Aarav Somnath Kamble
+26,Mavericks,Anargh Jain,11573993.0,RHB,Right-arm fast,43,85,7,0,50.59,lbw b NEEL RAJGURU,LBW,NEEL RAJGURU,
+26,Mavericks,Atharv Jadhavar,24593178.0,RHB,Right-arm Off Break,1,11,0,0,9.09,lbw b Rutvij Kumbhar,LBW,Rutvij Kumbhar,
+26,Mavericks,Ryan,16296325.0,RHB,Right-arm Off Break,0,1,0,0,0.0,lbw b Pratyush Sandeep Rai,LBW,Pratyush Sandeep Rai,
+26,Mavericks,Maanvendra Singh Sengar,17734094.0,RHB,,5,32,0,0,15.62,b Pratyush Sandeep Rai,Bowled,Pratyush Sandeep Rai,
+26,Mavericks,Mitesh Nilesh Shinde,26872914.0,RHB,Right-arm medium,2,13,0,0,15.38,lbw b Aarav Somnath Kamble,LBW,Aarav Somnath Kamble,
+26,Mavericks,Aahan Thanekar,3873563.0,LHB,Slow left-arm orthodox,21,42,3,0,50.0,run out Saashrit Mahajan / vighnesh Kate,Run Out,,"Saashrit Mahajan, vighnesh Kate"
+26,Mavericks,Jiyansh H Shah,15670361.0,RHB,Right-arm medium,14,29,1,0,48.28,run out Amita Arya / NEEL RAJGURU,Run Out,,"Amita Arya, NEEL RAJGURU"
+26,Mavericks,Arnav Rishikesh Gawade,26206374.0,RHB,Right-arm Leg Break,9,40,0,0,22.5,run out Aarav Somnath Kamble / Amita Arya,Run Out,,"Aarav Somnath Kamble, Amita Arya"
+26,Mavericks,Arush Dinde,26143769.0,RHB,Right-arm fast,0,4,0,0,0.0,not out,Not Out,,
+26,Mavericks,aryan jadhav,18893223.0,RHB,Left-arm medium,2,3,0,0,66.67,run out Pratyush Sandeep Rai / Rajveer Kate,Run Out,,"Pratyush Sandeep Rai, Rajveer Kate"
+26,Siddharth Cricket Academy,Sambhuraj Bhosale,34691992.0,RHB,Right-arm medium,9,8,2,0,112.5,b Satyajeet Bhumkar,Bowled,Satyajeet Bhumkar,
+26,Siddharth Cricket Academy,Shashank Birelly,16295045.0,RHB,Right-arm medium,50,57,8,0,87.72,not out,Not Out,,
+26,Siddharth Cricket Academy,Amita Arya,19870192.0,RHB,Right-arm medium,2,7,0,0,28.57,b aryan jadhav,Bowled,aryan jadhav,
+26,Siddharth Cricket Academy,Pratyush Sandeep Rai,16136726.0,RHB,Right-arm Off Break,42,51,6,0,82.35,run out Jiyansh H Shah / Rajveer Mehra,Run Out,,"Jiyansh H Shah, Rajveer Mehra"
+26,Siddharth Cricket Academy,Aarav Somnath Kamble,34833469.0,RHB,Right-arm Off Break,0,0,0,0,0.0,not out,Not Out,,
+27,Lesalt Cricket Academy,Shreyas Dhumal,19644614.0,LHB,Right-arm Off Break,109,63,19,4,173.02,c Yugveer b Shrey Joshi,Caught,Shrey Joshi,Yugveer
+27,Lesalt Cricket Academy,Shivendra Dhumal,41729574.0,RHB,Right-arm medium,4,2,1,0,200.0,b Advay Newase,Bowled,Advay Newase,
+27,Lesalt Cricket Academy,Archit18,40948642.0,LHB,Right-arm medium,8,13,1,0,61.54,run out Sparsh Moon / Swarit Gaikwad,Run Out,,"Sparsh Moon, Swarit Gaikwad"
+27,Lesalt Cricket Academy,Kartik Kulkarni,30041138.0,RHB,Right-arm medium,23,13,5,0,176.92,lbw b Anargh Jain,LBW,Anargh Jain,
+27,Lesalt Cricket Academy,Ishan Gaikwad,34392715.0,RHB,Right-arm medium,24,30,4,0,80.0,not out,Not Out,,
+27,Lesalt Cricket Academy,Saarth Gupta,34531421.0,RHB,Right-arm Off Break,0,4,0,0,0.0,c  Swarit Gaikwad b Shrey Joshi,Caught,Shrey Joshi,Swarit Gaikwad
+27,Lesalt Cricket Academy,Hruditya Galande,43789985.0,RHB,Right-arm medium,0,3,0,0,0.0,c Sparsh Moon b Rohitkrishna Sunilkumar,Caught,Rohitkrishna Sunilkumar,Sparsh Moon
+27,Lesalt Cricket Academy,Jyotirmay M Zapugade,46754670.0,RHB,Slow left-arm orthodox,0,1,0,0,0.0,not out,Not Out,,
+27,Mavericks Cricket Academy,Rohitkrishna Sunilkumar,33505622.0,LHB,Left-arm medium,2,4,0,0,50.0,run out Shivendra Dhumal,Run Out,,Shivendra Dhumal
+27,Mavericks Cricket Academy,Swarit Gaikwad,30886591.0,RHB,Right-arm medium,16,32,3,0,50.0,b Parth Shah,Bowled,Parth Shah,
+27,Mavericks Cricket Academy,Atharv Jadhavar,24593178.0,RHB,Right-arm Off Break,63,60,8,0,105.0,run out Parth Shah,Run Out,,Parth Shah
+27,Mavericks Cricket Academy,Anargh Jain,11573993.0,RHB,Right-arm fast,15,14,3,0,107.14,b Shreyas Dhumal,Bowled,Shreyas Dhumal,
+27,Mavericks Cricket Academy,Rugved Deshmukh,43045240.0,LHB,Right-arm fast,4,6,0,0,66.67,c Kartik Kulkarni b Shreyas Dhumal,Caught,Shreyas Dhumal,Kartik Kulkarni
+27,Mavericks Cricket Academy,Aadish,39423525.0,RHB,Right-arm fast,0,3,0,0,0.0,lbw b Shreyas Dhumal,LBW,Shreyas Dhumal,
+27,Mavericks Cricket Academy,Shourya Yogesh Rajguru,12540519.0,LHB,,4,6,0,0,66.67,b Saarth Gupta,Bowled,Saarth Gupta,
+27,Mavericks Cricket Academy,Sparsh Moon,33618847.0,LHB,Left-arm fast,17,12,4,0,141.67,not out,Not Out,,
+27,Mavericks Cricket Academy,Nandika Sunilkumar,33505621.0,LHB,Slow left-arm chinaman,0,5,0,0,0.0,not out,Not Out,,
+28,Mavericks Cricket Academy,Amogh Atpadkar,10605543.0,RHB,Right-arm medium,5,13,1,0,38.46,c Pratik Nagavi b Aarav Lad,Caught,Aarav Lad,Pratik Nagavi
+28,Mavericks Cricket Academy,Sachi Adawade,3328285.0,RHB,Right-arm Leg Break,0,8,0,0,0.0,b Pratyush Sandeep Rai,Bowled,Pratyush Sandeep Rai,
+28,Mavericks Cricket Academy,Ayush Kamble,33108843.0,RHB,Right-arm fast,0,5,0,0,0.0,b Aarav Lad,Bowled,Aarav Lad,
+28,Mavericks Cricket Academy,Ayush Kamble,33145142.0,RHB,Right-arm fast,0,5,0,0,0.0,b Aarav Lad,Bowled,Aarav Lad,
+28,Mavericks Cricket Academy,Anargh Jain,11573993.0,RHB,Right-arm fast,18,24,2,1,75.0,c  Chatra Sharma b vighnesh Kate,Caught,vighnesh Kate,Chatra Sharma
+28,Mavericks Cricket Academy,Atharv Jadhavar,24593178.0,RHB,Right-arm Off Break,23,51,3,0,45.1,b Shavej Pathan,Bowled,Shavej Pathan,
+28,Mavericks Cricket Academy,Swarit Gaikwad,30886591.0,RHB,Right-arm medium,11,34,2,0,32.35,b Shavej Pathan,Bowled,Shavej Pathan,
+28,Mavericks Cricket Academy,Advit Suhas Wagh,17284581.0,RHB,Right-arm medium,14,12,0,2,116.67,c Sarvesh Sangale b Shavej Pathan,Caught,Shavej Pathan,Sarvesh Sangale
+28,Mavericks Cricket Academy,Ranvijay A Patil,33003301.0,RHB,Right-arm fast,2,4,0,0,50.0,lbw b Sarvesh Sangale,LBW,Sarvesh Sangale,
+28,Mavericks Cricket Academy,Jiyansh H Shah,15670361.0,RHB,Right-arm medium,24,18,3,1,133.33,c Shavej Pathan b vighnesh Kate,Caught,vighnesh Kate,Shavej Pathan
+28,Mavericks Cricket Academy,Arush Dinde,26143769.0,RHB,Right-arm fast,16,43,1,0,37.21,not out,Not Out,,
+28,Mavericks Cricket Academy,Swara Kulkarni,24351502.0,RHB,Right-arm Off Break,4,30,0,0,13.33,b Shavej Pathan,Bowled,Shavej Pathan,
+28,Siddharth Cricket Academy,Sarvesh Sangale,4505173.0,RHB,Right-arm Off Break,39,51,5,0,76.47,b Swara  Kulkarni,Bowled,Swara Kulkarni,
+28,Siddharth Cricket Academy,Shavej Pathan,12421137.0,RHB,Right-arm Leg Break,27,41,6,0,65.85,c  Amogh Atpadkar b Sachi Adawade,Caught,Sachi Adawade,Amogh Atpadkar
+28,Siddharth Cricket Academy,NEEL RAJGURU,30566653.0,RHB,Right-arm Leg Break,63,65,11,0,96.92,lbw b Swara  Kulkarni,LBW,Swara Kulkarni,
+28,Siddharth Cricket Academy,Pratyush Sandeep Rai,16136726.0,RHB,Right-arm Off Break,20,27,3,0,74.07,run out Anargh Jain / Jiyansh H Shah,Run Out,,"Anargh Jain, Jiyansh H Shah"
+28,Siddharth Cricket Academy,Saashrit Mahajan,18350431.0,RHB,Right-arm Leg Break,9,15,1,0,60.0,b Swara  Kulkarni,Bowled,Swara Kulkarni,
+28,Siddharth Cricket Academy,Chatra Sharma,25882186.0,RHB,Slow left-arm chinaman,2,7,0,0,28.57,b Jiyansh H Shah,Bowled,Jiyansh H Shah,
+28,Siddharth Cricket Academy,Viyoksha Singh Chouhan,12211324.0,RHB,Slow left-arm orthodox,0,4,0,0,0.0,b Jiyansh H Shah,Bowled,Jiyansh H Shah,
+28,Siddharth Cricket Academy,Pratik Nagavi,17973225.0,RHB,Right-arm Leg Break,6,5,1,0,120.0,not out,Not Out,,
+28,Siddharth Cricket Academy,vighnesh Kate,24919939.0,LHB,Slow left-arm orthodox,1,2,0,0,50.0,not out,Not Out,,
+29,Vijay,Shivraj Sarde,24199085.0,RHB,Right-arm Off Break,62,58,9,1,106.9,c aryan jadhav b Geetha Paruchuri,Caught,Geetha Paruchuri,aryan jadhav
+29,Vijay,Vihan Yevankar,14154348.0,RHB,Right-arm Off Break,174,149,28,0,116.78,lbw b Raj,LBW,Raj,
+29,Vijay,Anargh Jain,11573993.0,RHB,Right-arm fast,0,1,0,0,0.0,b Geetha Paruchuri,Bowled,Geetha Paruchuri,
+29,Vijay,Amogh Atpadkar,10605543.0,RHB,Right-arm medium,3,17,0,0,17.65,c Geetha Paruchuri b Raj,Caught,Raj,Geetha Paruchuri
+29,Vijay,Atharv Jadhavar,24593178.0,RHB,Right-arm Off Break,33,44,6,0,75.0,lbw b Dr Dipali,LBW,Dr Dipali,
+29,Vijay,Advit Suhas Wagh,17284581.0,RHB,Right-arm medium,13,21,1,1,61.9,c Geetha Paruchuri b Reyansh Mhaske,Caught,Reyansh Mhaske,Geetha Paruchuri
+29,Vijay,Mitesh Nilesh Shinde,26872914.0,RHB,Right-arm medium,15,23,1,0,65.22,b Raj,Bowled,Raj,
+29,Vijay,Maanvendra Singh Sengar,17734094.0,RHB,,9,25,1,0,36.0,c Raj b Dr Dipali,Caught,Dr Dipali,Raj
+29,Vijay,Advik Shrirao,16963474.0,RHB,Right-arm fast,24,41,4,0,58.54,lbw b Raj,LBW,Raj,
+29,Vijay,Aahan Thanekar,3873563.0,LHB,Slow left-arm orthodox,0,2,0,0,0.0,b Dr Dipali,Bowled,Dr Dipali,
+29,Vijay,Jiyansh H Shah,15670361.0,RHB,Right-arm medium,6,9,1,0,66.67,not out,Not Out,,
+29,Beasport Cricket Academy,Ayaan Singh,19715152.0,RHB,Left-arm fast,0,2,0,0,0.0,b Satyajeet Bhumkar,Bowled,Satyajeet Bhumkar,
+29,Beasport Cricket Academy,Rudhav Rama Shankar,45154718.0,RHB,Right-arm medium,4,11,1,0,36.36,b Satyajeet Bhumkar,Bowled,Satyajeet Bhumkar,
+29,Beasport Cricket Academy,aryan jadhav,18893223.0,RHB,Left-arm medium,0,1,0,0,0.0,b Satyajeet Bhumkar,Bowled,Satyajeet Bhumkar,
+29,Beasport Cricket Academy,Ashish Jagdhane,11283549.0,RHB,Right-arm medium,5,11,0,0,45.45,b Satyajeet Bhumkar,Bowled,Satyajeet Bhumkar,
+29,Beasport Cricket Academy,Arnav Yadav 19,12009010.0,RHB,Right-arm fast,14,26,3,0,53.85,c Shivraj Sarde b Satyajeet Bhumkar,Caught,Satyajeet Bhumkar,Shivraj Sarde
+29,Beasport Cricket Academy,Ranvijay A Patil,33003301.0,RHB,Right-arm fast,34,41,6,0,82.93,c Satyajeet Bhumkar b Omaansh Bora,Caught,Omaansh Bora,Satyajeet Bhumkar
+29,Beasport Cricket Academy,Geetha Paruchuri,20855711.0,RHB,Right-arm medium,0,0,0,0,0.0,run out Anargh Jain,Run Out,,Anargh Jain
+29,Beasport Cricket Academy,Pranil Kandekar,51676749.0,RHB,Right-arm Leg Break,14,33,1,0,42.42,c Anargh Jain b Vihan Yevankar,Caught,Vihan Yevankar,Anargh Jain
+29,Beasport Cricket Academy,Reyansh Mhaske,37073244.0,RHB,Right-arm Off Break,0,3,0,0,0.0,c Shivraj Sarde b Omaansh Bora,Caught,Omaansh Bora,Shivraj Sarde
+29,Beasport Cricket Academy,Dr Dipali,34928630.0,RHB,Left-arm fast,0,2,0,0,0.0,b Omaansh Bora,Bowled,Omaansh Bora,
+29,Beasport Cricket Academy,Raj,25026707.0,RHB,Left-arm medium,24,34,4,0,70.59,not out,Not Out,,
+30,Vijay Cricket Club U14,Shivraj Sarde,24199085.0,RHB,Right-arm Off Break,1,13,0,0,7.69,c VIRAJ KHADE b Arnav Mahajan,Caught,Arnav Mahajan,VIRAJ KHADE
+30,Vijay Cricket Club U14,Vihan Yevankar,14154348.0,RHB,Right-arm Off Break,88,66,17,0,133.33,st  Eeshan Sriju b Harsh Shivaji Deshmukh,Stumped,Harsh Shivaji Deshmukh,Eeshan Sriju
+30,Vijay Cricket Club U14,Saiman Shourya,18046397.0,LHB,Left-arm fast,125,112,20,2,111.61,lbw b Aarambh Patil,LBW,Aarambh Patil,
+30,Vijay Cricket Club U14,Atharv Jadhavar,24593178.0,RHB,Right-arm Off Break,13,44,0,0,29.55,retired out,Retired Out,,
+30,Vijay Cricket Club U14,Ranvijay A Patil,33003301.0,RHB,Right-arm fast,14,17,2,0,82.35,c Harsh Shivaji Deshmukh b VIRAJ KHADE,Caught,VIRAJ KHADE,Harsh Shivaji Deshmukh
+30,Vijay Cricket Club U14,Swarit Gaikwad,30886591.0,RHB,Right-arm medium,7,14,1,0,50.0,run out Sourish Kore /   Eeshan Sriju,Run Out,,"Sourish Kore, Eeshan Sriju"
+30,Vijay Cricket Club U14,Maanvendra Singh Sengar,17734094.0,RHB,,1,4,0,0,25.0,b JAY GOUR,Bowled,JAY GOUR,
+30,Vijay Cricket Club U14,Jiyansh H Shah,15670361.0,RHB,Right-arm medium,23,21,4,0,109.52,not out,Not Out,,
+30,Vijay Cricket Club U14,Aahan Thanekar,3873563.0,LHB,Slow left-arm orthodox,9,9,1,0,100.0,not out,Not Out,,
+30,Vedic Fit CA U14,Eeshan Sriju,37281311.0,RHB,Right-arm Leg Break,23,28,5,0,82.14,c Vihan Yevankar b Jiyansh H Shah,Caught,Jiyansh H Shah,Vihan Yevankar
+30,Vedic Fit CA U14,Arnav Mahajan,12322056.0,RHB,Right-arm fast,2,13,0,0,15.38,c  Maanvendra Singh Sengar b Jiyansh H Shah,Caught,Jiyansh H Shah,Maanvendra Singh Sengar
+30,Vedic Fit CA U14,Dhritil Patel,13439973.0,RHB,Right-arm medium,26,53,4,0,49.06,c Saiman Shourya b Vihan Yevankar,Caught,Vihan Yevankar,Saiman Shourya
+30,Vedic Fit CA U14,VIRAJ KHADE,29612682.0,RHB,Right-arm medium,51,56,8,0,91.07,run out Shrey Joshi / Vihan Yevankar,Run Out,,"Shrey Joshi, Vihan Yevankar"
+30,Vedic Fit CA U14,Harsh Shivaji Deshmukh,14439644.0,RHB,Right-arm Leg Break,0,4,0,0,0.0,run out Aahan Thanekar,Run Out,,Aahan Thanekar
+30,Vedic Fit CA U14,Sparsh Baldota,13477918.0,RHB,Right-arm Leg Break,5,15,1,0,33.33,c Ranvijay A Patil b Aahan Thanekar,Caught,Aahan Thanekar,Ranvijay A Patil
+30,Vedic Fit CA U14,Swareet Patil,13440004.0,RHB,Right-arm Leg Break,6,10,0,0,60.0,c&b aryan jadhav,Other,,
+30,Vedic Fit CA U14,Sourish Kore,17675138.0,RHB,Right-arm fast,7,12,1,0,58.33,c aryan jadhav b Shrey Joshi,Caught,Shrey Joshi,aryan jadhav
+30,Vedic Fit CA U14,Aarambh Patil,6093204.0,RHB,Right-arm Off Break,2,7,0,0,28.57,c aryan jadhav b Shrey Joshi,Caught,Shrey Joshi,aryan jadhav
+30,Vedic Fit CA U14,Prathmesh Patil 09,25439911.0,RHB,Right-arm medium,5,4,1,0,125.0,c  Maanvendra Singh Sengar b aryan jadhav,Caught,aryan jadhav,Maanvendra Singh Sengar
+30,Vedic Fit CA U14,Aaditya Kolhe,25608566.0,RHB,Right-arm Leg Break,4,5,1,0,80.0,not out,Not Out,,
+31,Wakad Gymkhana U14,Avanish Nishant Mali,43976823.0,RHB,Right-arm fast,7,19,1,0,36.84,b Dhanashree,Bowled,Dhanashree,
+31,Wakad Gymkhana U14,Kanishk Gon,14597750.0,LHB,Right-arm Leg Break,70,59,13,0,118.64,c Samanyu Pal b Shrey Joshi,Caught,Shrey Joshi,Samanyu Pal
+31,Wakad Gymkhana U14,Henish Patel,39078619.0,RHB,Right-arm Leg Break,22,107,1,0,20.56,c Advay Newase b Ryan,Caught,Ryan,Advay Newase
+31,Wakad Gymkhana U14,Yash Vinod Sonune,35944440.0,LHB,Slow left-arm orthodox,2,21,0,0,9.52,c Dhanashree b Shrey Joshi,Caught,Shrey Joshi,Dhanashree
+31,Wakad Gymkhana U14,Rudra Kaspate,17432410.0,RHB,Right-arm Leg Break,16,28,1,0,57.14,c Ryan b Shrey Joshi,Caught,Shrey Joshi,Ryan
+31,Wakad Gymkhana U14,Ayansh Tayde,19100775.0,LHB,Left-arm fast,0,1,0,0,0.0,c Ryan b Shrey Joshi,Caught,Shrey Joshi,Ryan
+31,Wakad Gymkhana U14,Ayansh Keshwani,13609091.0,RHB,Right-arm fast,53,85,8,0,62.35,lbw b Shrey Joshi,LBW,Shrey Joshi,
+31,Wakad Gymkhana U14,Avneesh Harnawal,36786293.0,RHB,Right-arm medium,38,56,4,1,67.86,c Ryan b Abir  Vaidya,Caught,Abir Vaidya,Ryan
+31,Wakad Gymkhana U14,Vivek Singh Rajput,16734638.0,RHB,Right-arm fast,31,59,1,0,52.54,run out Advit Suhas Wagh /   Ranvijay A Patil,Run Out,,"Advit Suhas Wagh, Ranvijay A Patil"
+31,Wakad Gymkhana U14,Ansh Raj,22272873.0,RHB,Right-arm Off Break,0,1,0,0,0.0,lbw b Shrey Joshi,LBW,Shrey Joshi,
+31,Wakad Gymkhana U14,Sashwat Singh,13519636.0,RHB,Right-arm Leg Break,20,28,2,0,71.43,c Samanyu Pal b Omaansh Bora,Caught,Omaansh Bora,Samanyu Pal
+31,Wakad Gymkhana U14,Amey Chapalgoankar,14536066.0,RHB,Right-arm fast,26,14,5,0,185.71,c Ryan b Abir  Vaidya,Caught,Abir Vaidya,Ryan
+31,Wakad Gymkhana U14,Shreyansh Sharma,14666627.0,RHB,Right-arm fast,16,21,2,0,76.19,c  Ranvijay A Patil b Abir  Vaidya,Caught,Abir Vaidya,Ranvijay A Patil
+31,Wakad Gymkhana U14,Krishna Magar,24512651.0,RHB,Right-arm Off Break,6,5,0,0,120.0,lbw b Advit Suhas Wagh,LBW,Advit Suhas Wagh,
+31,Wakad Gymkhana U14,Shlok Balghare,37532107.0,RHB,Right-arm medium,9,11,2,0,81.82,not out,Not Out,,
+31,Mavericks Vijay U14,Ayaan Singh,19715152.0,RHB,Left-arm fast,0,8,0,0,0.0,c Ansh Raj b Shreyansh Sharma,Caught,Shreyansh Sharma,Ansh Raj
+31,Mavericks Vijay U14,Advit Suhas Wagh,17284581.0,RHB,Right-arm medium,8,15,2,0,53.33,c Shreyansh Sharma b Kanishk Sharma,Caught,Kanishk Sharma,Shreyansh Sharma
+31,Mavericks Vijay U14,Darshil A Kukadiya,11422052.0,RHB,Right-arm Off Break,24,40,4,0,60.0,c Amey Chapalgoankar b Chinmay Chaudhari,Caught,Chinmay Chaudhari,Amey Chapalgoankar
+31,Mavericks Vijay U14,Atharv Jadhavar,24593178.0,RHB,Right-arm Off Break,6,18,1,0,33.33,c  Avanish Nishant Mali b Kanishk Sharma,Caught,Kanishk Sharma,Avanish Nishant Mali
+31,Mavericks Vijay U14,Mitesh Nilesh Shinde,26872914.0,RHB,Right-arm medium,74,114,10,0,64.91,c Sashwat Singh b Shreyansh Sharma,Caught,Shreyansh Sharma,Sashwat Singh
+31,Mavericks Vijay U14,Ranvijay A Patil,33003301.0,RHB,Right-arm fast,24,53,3,0,45.28,c Avneesh Harnawal b Sashwat Singh,Caught,Sashwat Singh,Avneesh Harnawal
+31,Mavericks Vijay U14,Dhanashree,26587433.0,RHB,Right-arm medium,18,23,3,0,78.26,c Shreyansh Sharma b Avneesh Harnawal,Caught,Avneesh Harnawal,Shreyansh Sharma
+31,Mavericks Vijay U14,Ayush Kamble,33108843.0,RHB,Right-arm fast,12,36,1,0,33.33,c Sashwat Singh b Amey Chapalgoankar,Caught,Amey Chapalgoankar,Sashwat Singh
+31,Mavericks Vijay U14,Ayush Kamble,33145142.0,RHB,Right-arm fast,12,36,1,0,33.33,c Sashwat Singh b Amey Chapalgoankar,Caught,Amey Chapalgoankar,Sashwat Singh
+31,Mavericks Vijay U14,Samanyu Pal,32380655.0,RHB,Right-arm medium,4,11,0,0,36.36,c Shreyansh Sharma b Sashwat Singh,Caught,Sashwat Singh,Shreyansh Sharma
+31,Mavericks Vijay U14,Samanyu Pal,49813905.0,LHB,11,4,11,0,0,36.36,c Shreyansh Sharma b Sashwat Singh,Caught,Sashwat Singh,Shreyansh Sharma
+31,Mavericks Vijay U14,Samanyu Pal,52162896.0,RHB,Right-arm medium,4,11,0,0,36.36,c Shreyansh Sharma b Sashwat Singh,Caught,Sashwat Singh,Shreyansh Sharma
+31,Mavericks Vijay U14,Ryan,16296325.0,RHB,Right-arm Off Break,0,1,0,0,0.0,b Sashwat Singh,Bowled,Sashwat Singh,
+31,Mavericks Vijay U14,Advay Newase,28106291.0,RHB,Right-arm Off Break,0,9,0,0,0.0,c Ansh Raj b Sashwat Singh,Caught,Sashwat Singh,Ansh Raj
+31,Mavericks Vijay U14,Shrey Joshi,24235650.0,RHB,Right-arm Leg Break,4,14,0,0,28.57,c&b Shreyansh Sharma,Other,,
+31,Mavericks Vijay U14,Omaansh Bora,24235651.0,RHB,Left-arm fast,0,9,0,0,0.0,b Shreyansh Sharma,Bowled,Shreyansh Sharma,
+31,Mavericks Vijay U14,Abir Vaidya,24328201.0,RHB,Slow left-arm chinaman,5,10,1,0,50.0,c Amey Chapalgoankar b Sashwat Singh,Caught,Sashwat Singh,Amey Chapalgoankar
+31,Mavericks Vijay U14,Rajveer Mehra,14026290.0,RHB,Right-arm medium,2,3,0,0,66.67,not out,Not Out,,

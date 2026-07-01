@@ -1,0 +1,560 @@
+﻿Match_ID,Team,Bowler,Player_ID,Batting_Hand,Bowling_Style,overs,balls,maidens,runs,wickets,0s,4s,6s,wide,noball,Economy
+1,Vijay Cricket Club U14,Satyajeet Bhumkar,28995986.0,LHB,Right-arm medium,11.0,42.0,3.0,38.0,3.0,54.0,8.0,0.0,1.0,0.0,3.45
+1,Vijay Cricket Club U14,Jiyansh H Shah,15670361.0,RHB,Right-arm medium,7.0,30.0,1.0,26.0,0.0,30.0,4.0,0.0,0.0,1.0,3.71
+1,Vijay Cricket Club U14,Yugveer,43046148.0,RHB,Right-arm medium,9.0,42.0,3.0,23.0,1.0,46.0,4.0,0.0,0.0,0.0,2.56
+1,Vijay Cricket Club U14,Daksh Khobragade,29187109.0,RHB,Right-arm fast,7.0,36.0,2.0,18.0,1.0,32.0,2.0,0.0,0.0,0.0,2.57
+1,Vijay Cricket Club U14,Advay Newase,28106291.0,RHB,Right-arm Off Break,8.0,30.0,1.0,25.0,0.0,36.0,4.0,0.0,1.0,0.0,3.12
+1,Vijay Cricket Club U14,Omaansh Bora,24235651.0,RHB,Left-arm fast,7.0,30.0,2.0,21.0,1.0,30.0,2.0,0.0,1.0,0.0,3.0
+1,Vijay Cricket Club U14,Pruthviraj Mundhe,,,,7.0,30.0,4.0,12.0,0.0,37.0,2.0,0.0,0.0,0.0,1.71
+1,Vijay Cricket Club U14,Arnav Rishikesh Gawade,26206374.0,RHB,Right-arm Leg Break,8.0,28.0,1.0,24.0,1.0,36.0,2.0,0.0,4.0,0.0,3.0
+1,Vijay Cricket Club U14,Abir Vaidya,24328201.0,RHB,Slow left-arm chinaman,7.0,0.0,1.0,30.0,0.0,24.0,3.0,0.0,0.0,0.0,4.29
+1,Vijay Cricket Club U14,Shrey Joshi,24235650.0,RHB,Right-arm Leg Break,6.0,0.0,0.0,37.0,0.0,20.0,6.0,0.0,0.0,0.0,6.17
+1,Vijay Cricket Club U14,Aahan Thanekar,3873563.0,LHB,Slow left-arm orthodox,8.0,0.0,1.0,31.0,0.0,35.0,5.0,0.0,0.0,0.0,3.88
+1,Vijay Cricket Club U14,Rishabh Jha,31921229.0,RHB,Right-arm medium,5.0,0.0,0.0,35.0,1.0,16.0,6.0,0.0,0.0,1.0,7.0
+1,Vijay Cricket Club U14,--------------------------------------------------,,,,,,,,,,,,,,
+1,Parsi Gymkhana U14,Hridaan Singh3,8287267.0,RHB,Right-arm medium,5.0,0.0,0.0,26.0,0.0,17.0,4.0,0.0,0.0,1.0,5.2
+1,Parsi Gymkhana U14,Devansh Tumkar,42210454.0,RHB,Right-arm fast,5.0,0.0,0.0,19.0,1.0,20.0,3.0,0.0,0.0,0.0,3.8
+1,Parsi Gymkhana U14,Vicky,23911259.0,RHB,Right-arm Leg Break,13.2,0.0,1.0,57.0,4.0,62.0,10.0,1.0,0.0,0.0,4.27
+1,Parsi Gymkhana U14,Saptjeet Prashant Jawalkar,30410671.0,RHB,Right-arm fast,6.0,0.0,1.0,25.0,2.0,28.0,5.0,0.0,0.0,1.0,4.17
+1,Parsi Gymkhana U14,Aayush Bugade,17204051.0,RHB,Right-arm Leg Break,5.0,0.0,0.0,26.0,0.0,20.0,2.0,1.0,1.0,1.0,5.2
+1,Parsi Gymkhana U14,Anshuman Sharma,39705109.0,RHB,Right-arm medium,5.0,0.0,1.0,17.0,1.0,23.0,3.0,0.0,0.0,0.0,3.4
+1,Parsi Gymkhana U14,ATHARAV RAKHAPASARE,40165651.0,RHB,Slow left-arm orthodox,5.0,0.0,2.0,15.0,1.0,24.0,3.0,0.0,0.0,0.0,3.0
+1,Parsi Gymkhana U14,Ishaan,32456738.0,RHB,Right-arm Leg Break,5.0,0.0,0.0,25.0,0.0,16.0,3.0,0.0,0.0,0.0,5.0
+1,Parsi Gymkhana U14,Aarman Khan,7145288.0,RHB,Right-arm Leg Break,5.0,0.0,0.0,24.0,1.0,20.0,4.0,0.0,0.0,0.0,4.8
+1,Parsi Gymkhana U14,Shlok Gour,29610592.0,RHB,Slow left-arm orthodox,5.0,0.0,2.0,14.0,0.0,26.0,3.0,0.0,0.0,0.0,2.8
+1,Parsi Gymkhana U14,Sairaj Chaudhari,20916579.0,RHB,Right-arm Off Break,4.0,0.0,2.0,6.0,0.0,18.0,0.0,0.0,0.0,0.0,1.5
+1,Parsi Gymkhana U14,Viraj Kadam,4230817.0,RHB,Right-arm Off Break,3.0,0.0,2.0,10.0,0.0,14.0,2.0,0.0,0.0,0.0,3.33
+1,Parsi Gymkhana U14,Sambhuraj Bhosale,34691992.0,RHB,Right-arm medium,1.0,0.0,0.0,9.0,0.0,3.0,2.0,0.0,0.0,0.0,9.0
+2,Metro Cricket Club,Rugved Potdar,18849840.0,LHB,Right-arm medium,5.0,22.0,2.0,20.0,1.0,24.0,3.0,0.0,3.0,1.0,4.0
+2,Metro Cricket Club,Pruthviraj,34499552.0,RHB,Right-arm medium,5.0,18.0,1.0,29.0,0.0,23.0,5.0,0.0,5.0,1.0,5.8
+2,Metro Cricket Club,Sohail Shaikh,33816593.0,RHB,Right-arm Off Break,7.0,0.0,3.0,16.0,2.0,36.0,2.0,0.0,1.0,0.0,2.29
+2,Metro Cricket Club,Kartavya Rathod,14714083.0,RHB,Right-arm Off Break,8.4,0.0,1.0,33.0,3.0,38.0,4.0,0.0,2.0,0.0,3.81
+2,Metro Cricket Club,Shree Rajguru,21398678.0,RHB,Right-arm fast,2.0,0.0,0.0,21.0,0.0,6.0,4.0,0.0,3.0,0.0,10.5
+2,Metro Cricket Club,Yadnyesh Potdar,,,,5.0,0.0,0.0,15.0,2.0,21.0,1.0,0.0,0.0,0.0,3.0
+2,Metro Cricket Club,Shaakya Patankar,25158077.0,RHB,Right-arm Off Break,5.0,0.0,0.0,12.0,2.0,23.0,1.0,0.0,1.0,0.0,2.4
+2,Metro Cricket Club,--------------------------------------------------,,,,,,,,,,,,,,
+2,Vijay Cricket Club U14,Satyajeet Bhumkar,28995986.0,LHB,Right-arm medium,3.0,0.0,0.0,18.0,0.0,11.0,2.0,0.0,0.0,1.0,6.0
+2,Vijay Cricket Club U14,Omaansh Bora,24235651.0,RHB,Left-arm fast,3.0,0.0,1.0,15.0,0.0,13.0,2.0,0.0,2.0,0.0,5.0
+2,Vijay Cricket Club U14,Mitesh Nilesh Shinde,26872914.0,RHB,Right-arm medium,3.0,0.0,0.0,9.0,0.0,16.0,1.0,0.0,1.0,1.0,3.0
+2,Vijay Cricket Club U14,Rishabh Jha,31921229.0,RHB,Right-arm medium,3.0,0.0,0.0,17.0,0.0,12.0,2.0,0.0,2.0,1.0,5.67
+2,Vijay Cricket Club U14,Aahan Thanekar,3873563.0,LHB,Slow left-arm orthodox,10.0,0.0,5.0,16.0,5.0,51.0,2.0,0.0,0.0,0.0,1.6
+2,Vijay Cricket Club U14,Shrey Joshi,24235650.0,RHB,Right-arm Leg Break,5.0,0.0,1.0,24.0,1.0,21.0,4.0,0.0,1.0,0.0,4.8
+2,Vijay Cricket Club U14,Sarthak Mane,15877706.0,RHB,Right-arm Leg Break,5.0,0.0,0.0,27.0,0.0,17.0,2.0,1.0,0.0,0.0,5.4
+2,Vijay Cricket Club U14,Advit Suhas Wagh,17284581.0,RHB,Right-arm medium,1.0,0.0,0.0,12.0,0.0,2.0,2.0,0.0,0.0,1.0,12.0
+2,Vijay Cricket Club U14,Anargh Jain,11573993.0,RHB,Right-arm fast,0.3,0.0,0.0,6.0,0.0,1.0,1.0,0.0,0.0,0.0,12.0
+3,Mavericks,Satyajeet Bhumkar,28995986.0,LHB,Right-arm medium,9.0,54.0,0.0,35.0,1.0,32.0,1.0,0.0,6.0,0.0,3.89
+3,Mavericks,Rajveer Mehra,14026290.0,RHB,Right-arm medium,7.0,42.0,0.0,38.0,0.0,21.0,2.0,0.0,0.0,4.0,5.43
+3,Mavericks,Ayaan Singh,19715152.0,RHB,Left-arm fast,2.0,12.0,0.0,17.0,0.0,6.0,2.0,0.0,3.0,0.0,8.5
+3,Mavericks,Mitesh Nilesh Shinde,26872914.0,RHB,Right-arm medium,3.0,18.0,0.0,42.0,0.0,3.0,6.0,0.0,4.0,2.0,14.0
+3,Mavericks,Naitik Dighe,21928960.0,LHB,Left-arm fast,10.0,60.0,2.0,21.0,0.0,44.0,1.0,0.0,0.0,1.0,2.1
+3,Mavericks,Swarm Dhananjay Bhole,40845835.0,RHB,Right-arm Leg Break,7.0,42.0,0.0,19.0,0.0,29.0,0.0,0.0,3.0,0.0,2.71
+3,Mavericks,Sanskar Warate,42777267.0,RHB,Slow left-arm orthodox,10.0,60.0,0.0,34.0,3.0,39.0,1.0,0.0,5.0,0.0,3.4
+3,Mavericks,Sarthak Mane,15877706.0,RHB,Right-arm Leg Break,1.0,6.0,0.0,12.0,0.0,2.0,1.0,0.0,1.0,2.0,12.0
+3,Mavericks,Ayush Kamble,33108843.0,RHB,Right-arm fast,1.0,6.0,0.0,8.0,0.0,2.0,1.0,0.0,0.0,0.0,8.0
+3,Mavericks,Ayush Kamble,33145142.0,RHB,Right-arm fast,1.0,6.0,0.0,8.0,0.0,2.0,1.0,0.0,0.0,0.0,8.0
+3,Mavericks,--------------------------------------------------,,,,,,,,,,,,,,
+3,Chhatrapati Cricket Academy,Aprameya Sakle,,,,6.0,6.0,0.0,37.0,0.0,23.0,5.0,1.0,4.0,0.0,6.17
+3,Chhatrapati Cricket Academy,Devansh Harish Gunjal,,,,7.0,6.0,0.0,40.0,1.0,28.0,8.0,0.0,0.0,1.0,5.71
+3,Chhatrapati Cricket Academy,NEEL BHORDE,21865302.0,RHB,Right-arm Off Break,10.0,0.0,2.0,30.0,3.0,48.0,3.0,1.0,2.0,1.0,3.0
+3,Chhatrapati Cricket Academy,Soham Mugle,,,,4.0,0.0,0.0,34.0,0.0,12.0,5.0,0.0,0.0,4.0,8.5
+3,Chhatrapati Cricket Academy,Aadyansh Mishra,17232168.0,RHB,Right-arm fast,4.0,0.0,2.0,6.0,2.0,18.0,0.0,0.0,0.0,0.0,1.5
+3,Chhatrapati Cricket Academy,Harsh Singh Bhadoria,,,,1.0,0.0,0.0,8.0,0.0,2.0,1.0,0.0,0.0,1.0,8.0
+3,Chhatrapati Cricket Academy,Shriraj M jadhav,5275131.0,RHB,Right-arm Leg Break,6.5,0.0,1.0,23.0,2.0,30.0,2.0,0.0,4.0,0.0,3.37
+4,Mavericks Cricket Academy,Omaansh Bora,24235651.0,RHB,Left-arm fast,5.0,30.0,0.0,27.0,1.0,22.0,3.0,0.0,4.0,0.0,5.4
+4,Mavericks Cricket Academy,Advay Newase,28106291.0,RHB,Right-arm Off Break,5.0,30.0,0.0,32.0,0.0,22.0,4.0,0.0,6.0,0.0,6.4
+4,Mavericks Cricket Academy,Arush Dinde,26143769.0,RHB,Right-arm fast,7.5,47.0,1.0,22.0,5.0,39.0,2.0,0.0,3.0,0.0,2.81
+4,Mavericks Cricket Academy,Pranav Galande,26291744.0,RHB,Right-arm medium,5.0,30.0,1.0,24.0,2.0,25.0,4.0,0.0,3.0,0.0,4.8
+4,Mavericks Cricket Academy,Aahan Thanekar,3873563.0,LHB,Slow left-arm orthodox,3.0,18.0,0.0,25.0,0.0,8.0,3.0,0.0,0.0,3.0,8.33
+4,Mavericks Cricket Academy,Swara Kulkarni,24351502.0,RHB,Right-arm Off Break,5.0,30.0,0.0,24.0,0.0,21.0,3.0,0.0,3.0,0.0,4.8
+4,Mavericks Cricket Academy,Arnav Rishikesh Gawade,26206374.0,RHB,Right-arm Leg Break,5.0,30.0,0.0,24.0,0.0,22.0,0.0,0.0,8.0,0.0,4.8
+4,Mavericks Cricket Academy,Sachi Adawade,3328285.0,RHB,Right-arm Leg Break,5.0,30.0,0.0,15.0,1.0,21.0,1.0,0.0,1.0,0.0,3.0
+4,Mavericks Cricket Academy,--------------------------------------------------,,,,,,,,,,,,,,
+4,HKCA,Pratham Devi,24272047.0,RHB,Right-arm fast,3.0,18.0,0.0,24.0,1.0,12.0,6.0,0.0,0.0,0.0,8.0
+4,HKCA,Kovid Parashar,14315713.0,RHB,Right-arm fast,2.0,12.0,0.0,10.0,1.0,8.0,2.0,0.0,0.0,0.0,5.0
+4,HKCA,Arjun Shekhar Mazire,22348404.0,RHB,Right-arm fast,5.0,18.0,0.0,33.0,1.0,18.0,4.0,0.0,4.0,1.0,6.6
+4,HKCA,Shubham Panse,14315281.0,LHB,Slow left-arm orthodox,7.0,12.0,1.0,17.0,1.0,32.0,2.0,0.0,1.0,0.0,2.43
+4,HKCA,Riyaansh Kadge,,,,1.0,6.0,0.0,20.0,0.0,2.0,1.0,0.0,1.0,7.0,20.0
+4,HKCA,Hitanshu More,,,,6.0,0.0,0.0,28.0,1.0,25.0,3.0,0.0,4.0,0.0,4.67
+4,HKCA,Priyesh Lavalekar,12988654.0,RHB,Left-arm medium,4.0,0.0,0.0,27.0,0.0,12.0,4.0,0.0,3.0,0.0,6.75
+4,HKCA,Arsh Chavan,11032288.0,LHB,Slow left-arm orthodox,3.4,0.0,0.0,24.0,0.0,13.0,3.0,0.0,5.0,0.0,6.55
+4,HKCA,Yash Darade,21093754.0,RHB,Right-arm medium,6.0,0.0,1.0,10.0,2.0,29.0,0.0,0.0,1.0,0.0,1.67
+5,Mavericks Cricket Academy,Yugveer,43046148.0,RHB,Right-arm medium,5.0,18.0,0.0,36.0,1.0,23.0,2.0,0.0,10.0,3.0,7.2
+5,Mavericks Cricket Academy,Arush Dinde,26143769.0,RHB,Right-arm fast,6.5,30.0,2.0,23.0,4.0,37.0,2.0,0.0,6.0,0.0,3.37
+5,Mavericks Cricket Academy,Aahan Thanekar,3873563.0,LHB,Slow left-arm orthodox,4.0,12.0,1.0,23.0,0.0,19.0,3.0,0.0,4.0,1.0,5.75
+5,Mavericks Cricket Academy,Hridaan Joshi,13496084.0,RHB,Right-arm Off Break,2.0,12.0,0.0,20.0,0.0,7.0,3.0,0.0,3.0,0.0,10.0
+5,Mavericks Cricket Academy,Advit Suhas Wagh,17284581.0,RHB,Right-arm medium,3.0,18.0,0.0,11.0,1.0,15.0,2.0,0.0,1.0,0.0,3.67
+5,Mavericks Cricket Academy,Samarth Kapshikar,30686786.0,RHB,Right-arm Leg Break,4.0,18.0,2.0,7.0,2.0,23.0,0.0,0.0,3.0,0.0,1.75
+5,Mavericks Cricket Academy,Swara Kulkarni,24351502.0,RHB,Right-arm Off Break,4.0,10.0,0.0,14.0,2.0,18.0,2.0,0.0,1.0,0.0,3.5
+5,Mavericks Cricket Academy,Sachi Adawade,3328285.0,RHB,Right-arm Leg Break,4.0,6.0,0.0,7.0,0.0,20.0,1.0,0.0,0.0,0.0,1.75
+5,Mavericks Cricket Academy,--------------------------------------------------,,,,,,,,,,,,,,
+5,Lesalt Cricket Academy,Shivendra Dhumal,41729574.0,RHB,Right-arm medium,3.0,0.0,0.0,30.0,0.0,7.0,5.0,0.0,3.0,0.0,10.0
+5,Lesalt Cricket Academy,Arjun Chavan,22028583.0,RHB,Right-arm medium,4.0,0.0,1.0,31.0,0.0,13.0,6.0,0.0,1.0,0.0,7.75
+5,Lesalt Cricket Academy,Shivam Jagtap,42116216.0,RHB,Right-arm medium,4.0,0.0,0.0,28.0,1.0,10.0,3.0,0.0,3.0,0.0,7.0
+5,Lesalt Cricket Academy,Bhuvanish Narkhede,,,,4.0,0.0,0.0,27.0,0.0,12.0,4.0,0.0,0.0,0.0,6.75
+5,Lesalt Cricket Academy,Jyotirmay M Zapugade,46754670.0,RHB,Slow left-arm orthodox,3.0,0.0,0.0,13.0,0.0,10.0,1.0,0.0,0.0,0.0,4.33
+5,Lesalt Cricket Academy,Shlok Jadhav,42742764.0,RHB,Right-arm medium,1.5,0.0,0.0,14.0,2.0,7.0,3.0,0.0,0.0,1.0,7.64
+6,Mavericks B,Yugveer,43046148.0,RHB,Right-arm medium,8.0,0.0,0.0,48.0,1.0,28.0,6.0,0.0,7.0,0.0,6.0
+6,Mavericks B,Rishabh Jha,31921229.0,RHB,Right-arm medium,8.0,0.0,0.0,56.0,0.0,25.0,8.0,0.0,3.0,2.0,7.0
+6,Mavericks B,Ayush Kamble,33108843.0,RHB,Right-arm fast,8.0,0.0,1.0,51.0,2.0,21.0,4.0,0.0,5.0,1.0,6.38
+6,Mavericks B,Ayush Kamble,33145142.0,RHB,Right-arm fast,8.0,0.0,1.0,51.0,2.0,21.0,4.0,0.0,5.0,1.0,6.38
+6,Mavericks B,Abir Vaidya,24328201.0,RHB,Slow left-arm chinaman,10.0,0.0,0.0,56.0,3.0,36.0,7.0,0.0,2.0,2.0,5.6
+6,Mavericks B,Ryan,16296325.0,RHB,Right-arm Off Break,10.0,0.0,0.0,74.0,1.0,29.0,12.0,0.0,0.0,1.0,7.4
+6,Mavericks B,Vighnesh Pota,22145188.0,RHB,Right-arm Leg Break,4.0,0.0,0.0,24.0,0.0,13.0,4.0,0.0,0.0,0.0,6.0
+6,Mavericks B,Anargh Jain,11573993.0,RHB,Right-arm fast,2.0,0.0,0.0,14.0,0.0,6.0,2.0,0.0,1.0,1.0,7.0
+6,Mavericks B,--------------------------------------------------,,,,,,,,,,,,,,
+6,Mavericks A,Satyajeet Bhumkar,28995986.0,LHB,Right-arm medium,4.0,0.0,0.0,23.0,0.0,17.0,4.0,0.0,3.0,0.0,5.75
+6,Mavericks A,Omaansh Bora,24235651.0,RHB,Left-arm fast,4.0,0.0,0.0,24.0,0.0,15.0,4.0,0.0,2.0,0.0,6.0
+6,Mavericks A,Rajveer Mehra,14026290.0,RHB,Right-arm medium,4.0,0.0,0.0,18.0,3.0,12.0,2.0,0.0,0.0,0.0,4.5
+6,Mavericks A,Advay Newase,28106291.0,RHB,Right-arm Off Break,3.0,0.0,0.0,22.0,1.0,7.0,2.0,0.0,2.0,1.0,7.33
+6,Mavericks A,Aahan Thanekar,3873563.0,LHB,Slow left-arm orthodox,3.0,0.0,0.0,9.0,3.0,14.0,1.0,0.0,1.0,0.0,3.0
+6,Mavericks A,Mitesh Nilesh Shinde,26872914.0,RHB,Right-arm medium,2.2,0.0,0.0,17.0,1.0,9.0,4.0,0.0,0.0,0.0,7.29
+7,"Vrindavan cricket acadmy, Punavale",Rohit Bohara,,,,4.0,0.0,0.0,14.0,0.0,17.0,2.0,0.0,0.0,0.0,3.5
+7,"Vrindavan cricket acadmy, Punavale",Naitik Chaturvedi,,,,5.0,0.0,1.0,20.0,0.0,19.0,3.0,0.0,0.0,0.0,4.0
+7,"Vrindavan cricket acadmy, Punavale",Rajvardhan Pandagle,34676970.0,RHB,Right-arm medium,5.0,0.0,1.0,11.0,2.0,22.0,1.0,0.0,0.0,0.0,2.2
+7,"Vrindavan cricket acadmy, Punavale",Avishkar Kale,33750195.0,RHB,Right-arm medium,5.0,0.0,0.0,14.0,0.0,23.0,2.0,0.0,0.0,0.0,2.8
+7,"Vrindavan cricket acadmy, Punavale",Harshal Patil,8619082.0,RHB,Right-arm Leg Break,5.0,0.0,0.0,14.0,0.0,22.0,2.0,0.0,0.0,0.0,2.8
+7,"Vrindavan cricket acadmy, Punavale",Mayank Angchekar,22141405.0,RHB,Right-arm medium,2.0,0.0,0.0,3.0,1.0,10.0,0.0,0.0,0.0,0.0,1.5
+7,"Vrindavan cricket acadmy, Punavale",Vihan S Wankhede,39989410.0,RHB,Right-arm medium,2.0,0.0,0.0,6.0,0.0,9.0,1.0,0.0,0.0,0.0,3.0
+7,"Vrindavan cricket acadmy, Punavale",Tanishq Koli,29919271.0,RHB,Right-arm Off Break,2.0,0.0,0.0,12.0,1.0,7.0,1.0,0.0,0.0,1.0,6.0
+7,"Vrindavan cricket acadmy, Punavale",--------------------------------------------------,,,,,,,,,,,,,,
+7,Mavericks Crciket Club (U12-2026),Yugveer,43046148.0,RHB,Right-arm medium,4.0,0.0,0.0,29.0,0.0,14.0,6.0,0.0,0.0,0.0,7.25
+7,Mavericks Crciket Club (U12-2026),Advay Newase,28106291.0,RHB,Right-arm Off Break,4.0,0.0,0.0,30.0,0.0,11.0,3.0,1.0,0.0,0.0,7.5
+7,Mavericks Crciket Club (U12-2026),Aahan Thanekar,3873563.0,LHB,Slow left-arm orthodox,5.0,0.0,1.0,18.0,0.0,23.0,2.0,1.0,0.0,0.0,3.6
+7,Mavericks Crciket Club (U12-2026),Atharv Jadhavar,24593178.0,RHB,Right-arm Off Break,1.0,0.0,0.0,9.0,0.0,3.0,2.0,0.0,0.0,0.0,9.0
+7,Mavericks Crciket Club (U12-2026),Shrey Joshi,24235650.0,RHB,Right-arm Leg Break,6.0,0.0,1.0,21.0,3.0,28.0,4.0,0.0,0.0,1.0,3.5
+7,Mavericks Crciket Club (U12-2026),Darsh Agrawal,31523974.0,RHB,Right-arm fast,3.0,0.0,0.0,11.0,0.0,13.0,2.0,0.0,0.0,0.0,3.67
+7,Mavericks Crciket Club (U12-2026),Mitesh Nilesh Shinde,26872914.0,RHB,Right-arm medium,3.0,0.0,0.0,22.0,0.0,11.0,4.0,0.0,0.0,2.0,7.33
+7,Mavericks Crciket Club (U12-2026),Paritosh Gujar,32587658.0,RHB,Right-arm fast,4.0,0.0,0.0,10.0,1.0,19.0,1.0,0.0,1.0,1.0,2.5
+8,Amrit Sports,Ishaan Deshmukh,10064874.0,RHB,Right-arm fast,9.0,54.0,0.0,70.0,1.0,30.0,9.0,1.0,5.0,0.0,7.78
+8,Amrit Sports,Aradhya Rajendraprasad Singh,30354810.0,RHB,Left-arm fast,8.0,48.0,0.0,92.0,3.0,21.0,12.0,2.0,6.0,1.0,11.5
+8,Amrit Sports,Shreyansh Gijjre,25971167.0,RHB,Right-arm Off Break,10.0,60.0,0.0,103.0,1.0,22.0,15.0,0.0,5.0,0.0,10.3
+8,Amrit Sports,Janmesh Nimbhore,19799416.0,RHB,Right-arm medium,5.0,30.0,0.0,68.0,0.0,11.0,11.0,1.0,4.0,0.0,13.6
+8,Amrit Sports,Amogh Kadu,47213191.0,RHB,Right-arm medium,4.0,24.0,0.0,42.0,1.0,11.0,4.0,1.0,4.0,1.0,10.5
+8,Amrit Sports,Dhiraj Ghodke,48942874.0,RHB,Right-arm Off Break,4.0,24.0,0.0,37.0,0.0,9.0,3.0,0.0,4.0,2.0,9.25
+8,Amrit Sports,Advay Chavan,25816200.0,RHB,Right-arm medium,5.0,30.0,0.0,41.0,0.0,9.0,4.0,0.0,3.0,0.0,8.2
+8,Amrit Sports,Shreyash Kapnure,,,,2.0,12.0,0.0,33.0,0.0,3.0,5.0,0.0,3.0,0.0,16.5
+8,Amrit Sports,--------------------------------------------------,,,,,,,,,,,,,,
+8,Mavericks Cricket Academy,Mitesh Nilesh Shinde,26872914.0,RHB,Right-arm medium,3.0,18.0,0.0,20.0,1.0,16.0,3.0,0.0,2.0,2.0,6.67
+8,Mavericks Cricket Academy,Rajveer Mehra,14026290.0,RHB,Right-arm medium,5.0,18.0,0.0,32.0,2.0,23.0,5.0,0.0,1.0,5.0,6.4
+8,Mavericks Cricket Academy,Arush Dinde,26143769.0,RHB,Right-arm fast,3.2,15.0,1.0,8.0,3.0,18.0,1.0,0.0,1.0,1.0,2.4
+8,Mavericks Cricket Academy,Swara Kulkarni,24351502.0,RHB,Right-arm Off Break,3.0,12.0,0.0,16.0,1.0,14.0,4.0,0.0,0.0,0.0,5.33
+8,Mavericks Cricket Academy,Shrey Joshi,24235650.0,RHB,Right-arm Leg Break,3.0,0.0,0.0,22.0,1.0,10.0,3.0,0.0,4.0,0.0,7.33
+8,Mavericks Cricket Academy,Aahan Thanekar,3873563.0,LHB,Slow left-arm orthodox,4.0,0.0,1.0,10.0,1.0,20.0,2.0,0.0,0.0,0.0,2.5
+9,Siddharth cricket academy,Pratyush Sandeep Rai,16136726.0,RHB,Right-arm Off Break,4.0,0.0,0.0,10.0,1.0,17.0,0.0,0.0,2.0,1.0,2.5
+9,Siddharth cricket academy,Sarvesh Lande,,,,3.0,0.0,0.0,10.0,1.0,12.0,1.0,0.0,1.0,0.0,3.33
+9,Siddharth cricket academy,vighnesh Kate,24919939.0,LHB,Slow left-arm orthodox,5.0,0.0,1.0,17.0,2.0,21.0,0.0,1.0,1.0,0.0,3.4
+9,Siddharth cricket academy,NEEL RAJGURU,30566653.0,RHB,Right-arm Leg Break,6.0,0.0,1.0,23.0,3.0,25.0,2.0,1.0,0.0,1.0,3.83
+9,Siddharth cricket academy,Aarav Somnath Kamble,34833469.0,RHB,Right-arm Off Break,5.0,0.0,1.0,15.0,2.0,24.0,3.0,0.0,0.0,0.0,3.0
+9,Siddharth cricket academy,Pratik Nagavi,17973225.0,RHB,Right-arm Leg Break,2.0,0.0,0.0,8.0,0.0,9.0,1.0,0.0,2.0,0.0,4.0
+9,Siddharth cricket academy,Arnav Nilesh Jadhav,,,,2.0,0.0,0.0,7.0,0.0,8.0,0.0,0.0,2.0,1.0,3.5
+9,Siddharth cricket academy,--------------------------------------------------,,,,,,,,,,,,,,
+9,Mavericks Cricket Academy,Yugveer,43046148.0,RHB,Right-arm medium,4.0,0.0,0.0,31.0,2.0,10.0,4.0,0.0,1.0,2.0,7.75
+9,Mavericks Cricket Academy,Advay Newase,28106291.0,RHB,Right-arm Off Break,1.2,0.0,0.0,12.0,0.0,4.0,2.0,0.0,0.0,1.0,9.0
+9,Mavericks Cricket Academy,Naitik Dighe,21928960.0,LHB,Left-arm fast,6.0,0.0,1.0,20.0,1.0,28.0,3.0,0.0,2.0,0.0,3.33
+9,Mavericks Cricket Academy,Shivansh Mane,,,,1.0,0.0,0.0,10.0,0.0,4.0,2.0,0.0,0.0,1.0,10.0
+9,Mavericks Cricket Academy,Aahan Thanekar,3873563.0,LHB,Slow left-arm orthodox,1.0,0.0,0.0,8.0,0.0,4.0,2.0,0.0,0.0,0.0,8.0
+9,Mavericks Cricket Academy,Shrey Joshi,24235650.0,RHB,Right-arm Leg Break,1.0,0.0,0.0,9.0,0.0,2.0,1.0,0.0,0.0,0.0,9.0
+9,Mavericks Cricket Academy,Ryan,16296325.0,RHB,Right-arm Off Break,1.0,0.0,0.0,2.0,1.0,5.0,0.0,0.0,0.0,0.0,2.0
+10,"Vrindavan cricket acadmy, Punavale",Rohit Bohara,,,,4.0,0.0,0.0,14.0,0.0,17.0,2.0,0.0,0.0,0.0,3.5
+10,"Vrindavan cricket acadmy, Punavale",Naitik Chaturvedi,,,,5.0,0.0,1.0,20.0,0.0,19.0,3.0,0.0,0.0,0.0,4.0
+10,"Vrindavan cricket acadmy, Punavale",Rajvardhan Pandagle,34676970.0,RHB,Right-arm medium,5.0,0.0,1.0,11.0,2.0,22.0,1.0,0.0,0.0,0.0,2.2
+10,"Vrindavan cricket acadmy, Punavale",Avishkar Kale,33750195.0,RHB,Right-arm medium,5.0,0.0,0.0,14.0,0.0,23.0,2.0,0.0,0.0,0.0,2.8
+10,"Vrindavan cricket acadmy, Punavale",Harshal Patil,8619082.0,RHB,Right-arm Leg Break,5.0,0.0,0.0,14.0,0.0,22.0,2.0,0.0,0.0,0.0,2.8
+10,"Vrindavan cricket acadmy, Punavale",Mayank Angchekar,22141405.0,RHB,Right-arm medium,2.0,0.0,0.0,3.0,1.0,10.0,0.0,0.0,0.0,0.0,1.5
+10,"Vrindavan cricket acadmy, Punavale",Vihan S Wankhede,39989410.0,RHB,Right-arm medium,2.0,0.0,0.0,6.0,0.0,9.0,1.0,0.0,0.0,0.0,3.0
+10,"Vrindavan cricket acadmy, Punavale",Tanishq Koli,29919271.0,RHB,Right-arm Off Break,2.0,0.0,0.0,12.0,1.0,7.0,1.0,0.0,0.0,1.0,6.0
+10,"Vrindavan cricket acadmy, Punavale",--------------------------------------------------,,,,,,,,,,,,,,
+10,Mavericks Crciket Club (U12-2026),Yugveer,43046148.0,RHB,Right-arm medium,4.0,0.0,0.0,29.0,0.0,14.0,6.0,0.0,0.0,0.0,7.25
+10,Mavericks Crciket Club (U12-2026),Advay Newase,28106291.0,RHB,Right-arm Off Break,4.0,0.0,0.0,30.0,0.0,11.0,3.0,1.0,0.0,0.0,7.5
+10,Mavericks Crciket Club (U12-2026),Aahan Thanekar,3873563.0,LHB,Slow left-arm orthodox,5.0,0.0,1.0,18.0,0.0,23.0,2.0,1.0,0.0,0.0,3.6
+10,Mavericks Crciket Club (U12-2026),Atharv Jadhavar,24593178.0,RHB,Right-arm Off Break,1.0,0.0,0.0,9.0,0.0,3.0,2.0,0.0,0.0,0.0,9.0
+10,Mavericks Crciket Club (U12-2026),Shrey Joshi,24235650.0,RHB,Right-arm Leg Break,6.0,0.0,1.0,21.0,3.0,28.0,4.0,0.0,0.0,1.0,3.5
+10,Mavericks Crciket Club (U12-2026),Darsh Agrawal,31523974.0,RHB,Right-arm fast,3.0,0.0,0.0,11.0,0.0,13.0,2.0,0.0,0.0,0.0,3.67
+10,Mavericks Crciket Club (U12-2026),Mitesh Nilesh Shinde,26872914.0,RHB,Right-arm medium,3.0,0.0,0.0,22.0,0.0,11.0,4.0,0.0,0.0,2.0,7.33
+10,Mavericks Crciket Club (U12-2026),Paritosh Gujar,32587658.0,RHB,Right-arm fast,4.0,0.0,0.0,10.0,1.0,19.0,1.0,0.0,1.0,1.0,2.5
+11,Vedic Fit Cricket Club,Arnav Mahajan,12322056.0,RHB,Right-arm fast,4.0,0.0,2.0,11.0,1.0,17.0,0.0,0.0,4.0,0.0,2.75
+11,Vedic Fit Cricket Club,Soham Devkate,,,,5.0,0.0,0.0,17.0,2.0,22.0,3.0,0.0,0.0,0.0,3.4
+11,Vedic Fit Cricket Club,Aditya Rahul Kulkarni,,,,4.0,0.0,1.0,14.0,0.0,18.0,1.0,0.0,1.0,2.0,3.5
+11,Vedic Fit Cricket Club,Pradnyesh Chaudhari,32603798.0,RHB,Right-arm Off Break,5.0,0.0,0.0,29.0,1.0,17.0,1.0,0.0,9.0,0.0,5.8
+11,Vedic Fit Cricket Club,Aaradhy Karpe,,,,5.0,0.0,0.0,17.0,1.0,19.0,1.0,0.0,1.0,0.0,3.4
+11,Vedic Fit Cricket Club,Rajveer Kalbhor,35204637.0,RHB,Right-arm Off Break,6.0,0.0,0.0,28.0,2.0,19.0,1.0,0.0,4.0,1.0,4.67
+11,Vedic Fit Cricket Club,Swaraj Kalel,17937141.0,LHB,Slow left-arm orthodox,7.0,0.0,1.0,27.0,4.0,32.0,4.0,0.0,3.0,0.0,3.86
+11,Vedic Fit Cricket Club,Ishan Rajimwale,16210439.0,RHB,Right-arm Leg Break,4.0,0.0,0.0,22.0,0.0,13.0,1.0,0.0,0.0,4.0,5.5
+11,Vedic Fit Cricket Club,VIRAJ KHADE,29612682.0,RHB,Right-arm medium,4.0,0.0,0.0,17.0,0.0,15.0,1.0,0.0,2.0,0.0,4.25
+11,Vedic Fit Cricket Club,Parth Vichare,35204050.0,RHB,Right-arm Off Break,2.0,0.0,0.0,23.0,0.0,2.0,3.0,0.0,2.0,0.0,11.5
+11,Vedic Fit Cricket Club,Janith Jain,35967628.0,RHB,Right-arm Off Break,2.0,0.0,0.0,21.0,0.0,4.0,3.0,0.0,3.0,0.0,10.5
+11,Vedic Fit Cricket Club,Sourish Kore,17675138.0,RHB,Right-arm fast,2.0,0.0,0.0,13.0,0.0,4.0,0.0,0.0,3.0,0.0,6.5
+11,Vedic Fit Cricket Club,--------------------------------------------------,,,,,,,,,,,,,,
+11,Mavericks U 14,Satyajeet Bhumkar,28995986.0,LHB,Right-arm medium,4.0,0.0,0.0,12.0,0.0,18.0,1.0,0.0,2.0,0.0,3.0
+11,Mavericks U 14,RITESH YADAV 104,14975447.0,RHB,Right-arm fast,4.0,0.0,0.0,29.0,0.0,12.0,3.0,0.0,8.0,0.0,7.25
+11,Mavericks U 14,Ranvijay A Patil,33003301.0,RHB,Right-arm fast,5.0,0.0,2.0,27.0,1.0,21.0,4.0,0.0,5.0,0.0,5.4
+11,Mavericks U 14,Varad Kotade,14458101.0,RHB,Right-arm fast,6.0,0.0,1.0,27.0,1.0,24.0,4.0,0.0,2.0,0.0,4.5
+11,Mavericks U 14,Ayush Kamble,33108843.0,RHB,Right-arm fast,4.0,0.0,0.0,29.0,1.0,14.0,4.0,0.0,1.0,2.0,7.25
+11,Mavericks U 14,Ayush Kamble,33145142.0,RHB,Right-arm fast,4.0,0.0,0.0,29.0,1.0,14.0,4.0,0.0,1.0,2.0,7.25
+11,Mavericks U 14,Viraj,21707006.0,RHB,Right-arm Off Break,3.0,0.0,0.0,30.0,1.0,6.0,5.0,0.0,3.0,0.0,10.0
+11,Mavericks U 14,Sangram s,27201657.0,RHB,Slow left-arm orthodox,3.0,0.0,0.0,18.0,0.0,10.0,2.0,0.0,4.0,0.0,6.0
+11,Mavericks U 14,NEEL BHORDE,21865302.0,RHB,Right-arm Off Break,4.0,0.0,0.0,27.0,0.0,13.0,5.0,0.0,0.0,0.0,6.75
+11,Mavericks U 14,Kiyaansh Patel,37555255.0,RHB,Right-arm medium,2.0,0.0,0.0,7.0,0.0,7.0,0.0,0.0,1.0,0.0,3.5
+11,Mavericks U 14,Atharv Jadhavar,24593178.0,RHB,Right-arm Off Break,2.0,0.0,0.0,11.0,1.0,6.0,1.0,0.0,1.0,1.0,5.5
+11,Mavericks U 14,Anargh Jain,11573993.0,RHB,Right-arm fast,3.0,0.0,0.0,5.0,2.0,14.0,0.0,0.0,0.0,0.0,1.67
+11,Mavericks U 14,Shree Shinde,8775913.0,RHB,Right-arm medium,2.0,0.0,0.0,15.0,0.0,7.0,2.0,0.0,2.0,0.0,7.5
+11,Mavericks U 14,Karan R,22161106.0,RHB,Right-arm medium,0.2,0.0,0.0,4.0,0.0,1.0,1.0,0.0,0.0,0.0,12.0
+12,MV Team B,Arush Dinde,26143769.0,RHB,Right-arm fast,13.0,78.0,4.0,22.0,5.0,64.0,2.0,0.0,0.0,0.0,1.69
+12,MV Team B,Daksh Khobragade,29187109.0,RHB,Right-arm fast,9.0,54.0,4.0,28.0,2.0,42.0,4.0,0.0,1.0,0.0,3.11
+12,MV Team B,Omaansh Bora,24235651.0,RHB,Left-arm fast,9.0,54.0,2.0,18.0,1.0,43.0,1.0,0.0,0.0,0.0,2.0
+12,MV Team B,Yugveer,43046148.0,RHB,Right-arm medium,10.0,60.0,2.0,21.0,1.0,49.0,2.0,0.0,0.0,1.0,2.1
+12,MV Team B,Suryansh Baheti,19108075.0,RHB,Right-arm Off Break,8.0,48.0,1.0,24.0,0.0,36.0,3.0,0.0,0.0,0.0,3.0
+12,MV Team B,Abir Vaidya,24328201.0,RHB,Slow left-arm chinaman,8.0,48.0,0.0,29.0,0.0,33.0,1.0,0.0,2.0,0.0,3.62
+12,MV Team B,--------------------------------------------------,,,,,,,,,,,,,,
+12,MV Team A,Satyajeet Bhumkar,28995986.0,LHB,Right-arm medium,14.0,30.0,6.0,21.0,2.0,74.0,3.0,0.0,0.0,0.0,1.5
+12,MV Team A,Rajveer Mehra,14026290.0,RHB,Right-arm medium,8.0,30.0,0.0,38.0,1.0,30.0,4.0,0.0,0.0,2.0,4.75
+12,MV Team A,Advay Newase,28106291.0,RHB,Right-arm Off Break,11.0,36.0,3.0,13.0,2.0,55.0,0.0,0.0,0.0,1.0,1.18
+12,MV Team A,Ayaan Singh,19715152.0,RHB,Left-arm fast,8.0,24.0,1.0,37.0,1.0,33.0,7.0,0.0,1.0,0.0,4.62
+12,MV Team A,Shrey Joshi,24235650.0,RHB,Right-arm Leg Break,11.0,30.0,4.0,30.0,0.0,53.0,4.0,0.0,1.0,0.0,2.73
+12,MV Team A,Aahan Thanekar,3873563.0,LHB,Slow left-arm orthodox,10.0,30.0,1.0,35.0,1.0,41.0,3.0,0.0,2.0,1.0,3.5
+12,MV Team A,Mitesh Nilesh Shinde,26872914.0,RHB,Right-arm medium,4.0,6.0,0.0,11.0,0.0,17.0,1.0,0.0,0.0,1.0,2.75
+12,MV Team A,Advik Shrirao,16963474.0,RHB,Right-arm fast,1.0,0.0,0.0,7.0,0.0,4.0,1.0,0.0,0.0,2.0,7.0
+12,MV Team A,Ayush Kamble,33108843.0,RHB,Right-arm fast,2.0,0.0,1.0,6.0,0.0,9.0,1.0,0.0,0.0,0.0,3.0
+12,MV Team A,Ayush Kamble,33145142.0,RHB,Right-arm fast,2.0,0.0,1.0,6.0,0.0,9.0,1.0,0.0,0.0,0.0,3.0
+13,MV Team A,Satyajeet Bhumkar,28995986.0,LHB,Right-arm medium,8.0,48.0,2.0,26.0,1.0,38.0,5.0,0.0,0.0,0.0,3.25
+13,MV Team A,Omaansh Bora,24235651.0,RHB,Left-arm fast,8.0,48.0,2.0,23.0,0.0,35.0,2.0,0.0,0.0,0.0,2.88
+13,MV Team A,Advay Newase,28106291.0,RHB,Right-arm Off Break,8.0,48.0,1.0,28.0,2.0,36.0,4.0,0.0,0.0,0.0,3.5
+13,MV Team A,Ayaan Singh,19715152.0,RHB,Left-arm fast,5.0,30.0,0.0,17.0,0.0,20.0,2.0,0.0,0.0,1.0,3.4
+13,MV Team A,Mitesh Nilesh Shinde,26872914.0,RHB,Right-arm medium,6.0,36.0,1.0,15.0,3.0,26.0,1.0,0.0,0.0,0.0,2.5
+13,MV Team A,Arnav Rishikesh Gawade,26206374.0,RHB,Right-arm Leg Break,7.0,42.0,1.0,29.0,1.0,31.0,5.0,0.0,1.0,1.0,4.14
+13,MV Team A,Hridaan Joshi,13496084.0,RHB,Right-arm Off Break,5.0,30.0,1.0,20.0,2.0,23.0,4.0,0.0,0.0,1.0,4.0
+13,MV Team A,--------------------------------------------------,,,,,,,,,,,,,,
+13,MV Team B,Arush Dinde,26143769.0,RHB,Right-arm fast,8.0,48.0,4.0,16.0,4.0,42.0,3.0,0.0,0.0,0.0,2.0
+13,MV Team B,Yugveer,43046148.0,RHB,Right-arm medium,9.0,54.0,0.0,38.0,1.0,40.0,8.0,0.0,0.0,0.0,4.22
+13,MV Team B,Rajveer Mehra,14026290.0,RHB,Right-arm medium,7.1,43.0,1.0,27.0,2.0,33.0,5.0,0.0,0.0,0.0,3.77
+13,MV Team B,Daksh Khobragade,29187109.0,RHB,Right-arm fast,9.0,54.0,5.0,14.0,2.0,47.0,2.0,0.0,0.0,0.0,1.56
+13,MV Team B,Aahan Thanekar,3873563.0,LHB,Slow left-arm orthodox,4.0,24.0,1.0,27.0,0.0,15.0,6.0,0.0,0.0,0.0,6.75
+13,MV Team B,Ryan,16296325.0,RHB,Right-arm Off Break,4.0,24.0,0.0,13.0,0.0,17.0,1.0,0.0,0.0,0.0,3.25
+13,MV Team B,Anargh Jain,11573993.0,RHB,Right-arm fast,2.0,12.0,0.0,6.0,0.0,9.0,1.0,0.0,0.0,0.0,3.0
+14,MV Team A,Sanskar Fate,30016711.0,RHB,Right-arm medium,7.0,42.0,0.0,47.0,2.0,30.0,7.0,0.0,8.0,1.0,6.71
+14,MV Team A,Satyajeet Bhumkar,28995986.0,LHB,Right-arm medium,7.0,42.0,0.0,26.0,2.0,32.0,2.0,0.0,6.0,0.0,3.71
+14,MV Team A,Abir Vaidya,24328201.0,RHB,Slow left-arm chinaman,5.0,30.0,1.0,29.0,0.0,22.0,4.0,0.0,7.0,0.0,5.8
+14,MV Team A,Arush Dinde,26143769.0,RHB,Right-arm fast,7.0,42.0,4.0,12.0,4.0,36.0,2.0,0.0,0.0,0.0,1.71
+14,MV Team A,Sanskar Warate,42777267.0,RHB,Slow left-arm orthodox,5.0,30.0,1.0,17.0,0.0,24.0,2.0,0.0,2.0,0.0,3.4
+14,MV Team A,Arnav Baravkar,11146713.0,RHB,Right-arm Off Break,6.3,39.0,2.0,9.0,4.0,34.0,1.0,0.0,1.0,0.0,1.38
+14,MV Team A,Arnav Mandlik,,,,4.0,24.0,0.0,13.0,1.0,19.0,1.0,0.0,4.0,1.0,3.25
+14,MV Team A,Vighnesh Pota,22145188.0,RHB,Right-arm Leg Break,1.0,6.0,0.0,7.0,0.0,4.0,1.0,0.0,1.0,0.0,7.0
+14,MV Team A,--------------------------------------------------,,,,,,,,,,,,,,
+14,MV Team B,Yugveer,43046148.0,RHB,Right-arm medium,6.3,39.0,0.0,31.0,1.0,28.0,3.0,0.0,9.0,0.0,4.77
+14,MV Team B,Ayaan Singh,19715152.0,RHB,Left-arm fast,6.0,36.0,0.0,33.0,1.0,25.0,4.0,0.0,5.0,2.0,5.5
+14,MV Team B,Aarav Sampat,24271817.0,RHB,Right-arm medium,6.0,36.0,2.0,19.0,1.0,29.0,3.0,0.0,1.0,1.0,3.17
+14,MV Team B,Vansh Gupta,17972639.0,RHB,Right-arm medium,7.0,42.0,0.0,26.0,2.0,31.0,3.0,0.0,3.0,0.0,3.71
+14,MV Team B,Aahan Thanekar,3873563.0,LHB,Slow left-arm orthodox,6.0,36.0,0.0,45.0,1.0,16.0,6.0,0.0,4.0,3.0,7.5
+14,MV Team B,Rajveer Mehra,14026290.0,RHB,Right-arm medium,6.0,36.0,0.0,28.0,2.0,20.0,2.0,0.0,3.0,0.0,4.67
+14,MV Team B,Naitik Dighe,21928960.0,LHB,Left-arm fast,6.0,36.0,0.0,28.0,2.0,26.0,5.0,0.0,2.0,0.0,4.67
+15,Mavericks A,Satyajeet Bhumkar,28995986.0,LHB,Right-arm medium,5.0,30.0,0.0,35.0,0.0,17.0,7.0,0.0,0.0,0.0,7.0
+15,Mavericks A,Jiyansh H Shah,15670361.0,RHB,Right-arm medium,4.0,24.0,3.0,1.0,0.0,23.0,0.0,0.0,0.0,0.0,0.25
+15,Mavericks A,Ayaan Singh,19715152.0,RHB,Left-arm fast,5.0,6.0,0.0,46.0,1.0,15.0,9.0,0.0,1.0,1.0,9.2
+15,Mavericks A,Atharv Shinde,,,,5.0,4.0,2.0,23.0,2.0,22.0,1.0,2.0,0.0,0.0,4.6
+15,Mavericks A,Mayuresh Jagtap,34190885.0,RHB,Right-arm Off Break,5.0,0.0,0.0,33.0,0.0,17.0,4.0,1.0,0.0,0.0,6.6
+15,Mavericks A,Aahan Thanekar,3873563.0,LHB,Slow left-arm orthodox,7.1,0.0,1.0,19.0,3.0,33.0,1.0,0.0,0.0,2.0,2.65
+15,Mavericks A,Shaakya Patankar,25158077.0,RHB,Right-arm Off Break,4.0,0.0,0.0,33.0,1.0,14.0,4.0,2.0,0.0,0.0,8.25
+15,Mavericks A,Advit Suhas Wagh,17284581.0,RHB,Right-arm medium,1.0,0.0,0.0,10.0,0.0,3.0,1.0,0.0,1.0,0.0,10.0
+15,Mavericks A,--------------------------------------------------,,,,,,,,,,,,,,
+15,Mavericks B,Sanskar Fate,30016711.0,RHB,Right-arm medium,4.0,0.0,1.0,21.0,0.0,18.0,5.0,0.0,0.0,0.0,5.25
+15,Mavericks B,Avaje,32309461.0,LHB,Slow left-arm orthodox,5.0,0.0,0.0,35.0,0.0,21.0,6.0,0.0,1.0,4.0,7.0
+15,Mavericks B,aryan jadhav,18893223.0,RHB,Left-arm medium,5.0,0.0,0.0,20.0,0.0,22.0,3.0,0.0,0.0,0.0,4.0
+15,Mavericks B,Pranav Galande,26291744.0,RHB,Right-arm medium,5.0,0.0,0.0,28.0,1.0,17.0,3.0,0.0,0.0,0.0,5.6
+15,Mavericks B,Abir Vaidya,24328201.0,RHB,Slow left-arm chinaman,6.0,0.0,0.0,27.0,1.0,25.0,3.0,0.0,4.0,1.0,4.5
+15,Mavericks B,Yugveer,43046148.0,RHB,Right-arm medium,5.0,0.0,2.0,12.0,0.0,24.0,2.0,0.0,0.0,0.0,2.4
+15,Mavericks B,Naitik Dighe,21928960.0,LHB,Left-arm fast,9.0,0.0,4.0,17.0,3.0,46.0,3.0,0.0,0.0,0.0,1.89
+15,Mavericks B,Swarm Dhananjay Bhole,40845835.0,RHB,Right-arm Leg Break,3.0,0.0,2.0,4.0,1.0,16.0,0.0,0.0,0.0,0.0,1.33
+15,Mavericks B,Sanskar Warate,42777267.0,RHB,Slow left-arm orthodox,7.0,0.0,2.0,18.0,2.0,34.0,3.0,0.0,0.0,0.0,2.57
+16,Mavericks A,Satyajeet Bhumkar,28995986.0,LHB,Right-arm medium,5.0,30.0,0.0,36.0,1.0,17.0,4.0,0.0,6.0,0.0,7.2
+16,Mavericks A,Mitesh Nilesh Shinde,26872914.0,RHB,Right-arm medium,5.0,30.0,0.0,26.0,1.0,24.0,2.0,0.0,10.0,0.0,5.2
+16,Mavericks A,Arush Dinde,26143769.0,RHB,Right-arm fast,4.0,24.0,0.0,12.0,0.0,18.0,1.0,0.0,1.0,0.0,3.0
+16,Mavericks A,Vansh Gupta,17972639.0,RHB,Right-arm medium,4.0,24.0,0.0,24.0,1.0,17.0,3.0,0.0,4.0,0.0,6.0
+16,Mavericks A,Sarthak Mane,15877706.0,RHB,Right-arm Leg Break,1.0,6.0,0.0,2.0,1.0,5.0,0.0,0.0,0.0,0.0,2.0
+16,Mavericks A,Ayansh Keshwani,13609091.0,RHB,Right-arm fast,3.0,18.0,0.0,17.0,2.0,12.0,1.0,0.0,4.0,1.0,5.67
+16,Mavericks A,Siddant Gagapurapu,12459747.0,RHB,Right-arm medium,2.2,14.0,0.0,18.0,2.0,8.0,4.0,0.0,0.0,0.0,7.71
+16,Mavericks A,--------------------------------------------------,,,,,,,,,,,,,,
+16,Maverick B,Rajveer Mehra,14026290.0,RHB,Right-arm medium,7.0,42.0,1.0,22.0,1.0,32.0,3.0,0.0,1.0,0.0,3.14
+16,Maverick B,Ayaan Singh,19715152.0,RHB,Left-arm fast,5.0,30.0,0.0,27.0,1.0,24.0,3.0,0.0,7.0,0.0,5.4
+16,Maverick B,Yugveer,43046148.0,RHB,Right-arm medium,5.0,30.0,0.0,37.0,0.0,18.0,4.0,0.0,5.0,0.0,7.4
+16,Maverick B,Aarav Sampat,24271817.0,RHB,Right-arm medium,4.2,26.0,0.0,22.0,2.0,20.0,2.0,0.0,6.0,1.0,5.08
+16,Maverick B,Sanskar Warate,42777267.0,RHB,Slow left-arm orthodox,5.0,30.0,1.0,13.0,1.0,24.0,1.0,0.0,0.0,1.0,2.6
+16,Maverick B,Sanskar Fate,30016711.0,RHB,Right-arm medium,5.0,30.0,0.0,32.0,1.0,18.0,3.0,0.0,6.0,0.0,6.4
+16,Maverick B,Advit Suhas Wagh,17284581.0,RHB,Right-arm medium,3.0,18.0,0.0,25.0,1.0,9.0,4.0,0.0,1.0,0.0,8.33
+16,Maverick B,Yakshit Khaladkar,15735309.0,RHB,Right-arm medium,2.0,12.0,0.0,9.0,0.0,10.0,1.0,0.0,2.0,0.0,4.5
+16,Maverick B,Aayush Pathoriya,43506688.0,RHB,Right-arm Off Break,1.0,6.0,0.0,22.0,0.0,0.0,4.0,0.0,2.0,1.0,22.0
+16,Maverick B,Aradhyraj Sheti,8670559.0,RHB,Right-arm Leg Break,2.0,12.0,0.0,21.0,0.0,4.0,2.0,0.0,2.0,3.0,10.5
+17,MV Team A,Sanskar Fate,30016711.0,RHB,Right-arm medium,7.0,42.0,0.0,47.0,2.0,30.0,7.0,0.0,8.0,1.0,6.71
+17,MV Team A,Satyajeet Bhumkar,28995986.0,LHB,Right-arm medium,7.0,42.0,0.0,26.0,2.0,32.0,2.0,0.0,6.0,0.0,3.71
+17,MV Team A,Abir Vaidya,24328201.0,RHB,Slow left-arm chinaman,5.0,30.0,1.0,29.0,0.0,22.0,4.0,0.0,7.0,0.0,5.8
+17,MV Team A,Arush Dinde,26143769.0,RHB,Right-arm fast,7.0,42.0,4.0,12.0,4.0,36.0,2.0,0.0,0.0,0.0,1.71
+17,MV Team A,Sanskar Warate,42777267.0,RHB,Slow left-arm orthodox,5.0,30.0,1.0,17.0,0.0,24.0,2.0,0.0,2.0,0.0,3.4
+17,MV Team A,Arnav Baravkar,11146713.0,RHB,Right-arm Off Break,6.3,39.0,2.0,9.0,4.0,34.0,1.0,0.0,1.0,0.0,1.38
+17,MV Team A,Arnav Mandlik,,,,4.0,24.0,0.0,13.0,1.0,19.0,1.0,0.0,4.0,1.0,3.25
+17,MV Team A,Vighnesh Pota,22145188.0,RHB,Right-arm Leg Break,1.0,6.0,0.0,7.0,0.0,4.0,1.0,0.0,1.0,0.0,7.0
+17,MV Team A,--------------------------------------------------,,,,,,,,,,,,,,
+17,MV Team B,Yugveer,43046148.0,RHB,Right-arm medium,6.3,39.0,0.0,31.0,1.0,28.0,3.0,0.0,9.0,0.0,4.77
+17,MV Team B,Ayaan Singh,19715152.0,RHB,Left-arm fast,6.0,36.0,0.0,33.0,1.0,25.0,4.0,0.0,5.0,2.0,5.5
+17,MV Team B,Aarav Sampat,24271817.0,RHB,Right-arm medium,6.0,36.0,2.0,19.0,1.0,29.0,3.0,0.0,1.0,1.0,3.17
+17,MV Team B,Vansh Gupta,17972639.0,RHB,Right-arm medium,7.0,42.0,0.0,26.0,2.0,31.0,3.0,0.0,3.0,0.0,3.71
+17,MV Team B,Aahan Thanekar,3873563.0,LHB,Slow left-arm orthodox,6.0,36.0,0.0,45.0,1.0,16.0,6.0,0.0,4.0,3.0,7.5
+17,MV Team B,Rajveer Mehra,14026290.0,RHB,Right-arm medium,6.0,36.0,0.0,28.0,2.0,20.0,2.0,0.0,3.0,0.0,4.67
+17,MV Team B,Naitik Dighe,21928960.0,LHB,Left-arm fast,6.0,36.0,0.0,28.0,2.0,26.0,5.0,0.0,2.0,0.0,4.67
+18,SARK Women U 19,Dhruvi Tidke,,,,4.0,0.0,1.0,18.0,0.0,19.0,3.0,0.0,2.0,0.0,4.5
+18,SARK Women U 19,Arya,,,,2.0,0.0,0.0,27.0,0.0,5.0,6.0,0.0,2.0,0.0,13.5
+18,SARK Women U 19,Janhavi Gaikwad,,,,4.0,0.0,0.0,26.0,2.0,14.0,5.0,0.0,0.0,0.0,6.5
+18,SARK Women U 19,Ovi Gajmal,,,,4.0,0.0,0.0,31.0,3.0,12.0,6.0,0.0,0.0,0.0,7.75
+18,SARK Women U 19,Aaradhya Jadhav,,,,4.0,0.0,0.0,22.0,1.0,15.0,3.0,0.0,0.0,0.0,5.5
+18,SARK Women U 19,Asmi Mokashi,,,,2.0,0.0,0.0,18.0,0.0,4.0,2.0,0.0,1.0,0.0,9.0
+18,SARK Women U 19,--------------------------------------------------,,,,,,,,,,,,,,
+18,Scoresports Women U19,Medhavi Dixit,,,,4.0,0.0,1.0,16.0,1.0,17.0,3.0,0.0,0.0,0.0,4.0
+18,Scoresports Women U19,Swara S Sathe,,,,4.0,0.0,0.0,13.0,0.0,18.0,2.0,0.0,1.0,0.0,3.25
+18,Scoresports Women U19,Arya Azgaonkar,,,,3.0,0.0,0.0,28.0,2.0,9.0,4.0,0.0,3.0,1.0,9.33
+18,Scoresports Women U19,Aradhya Prabhakar Shinde,,,,2.0,0.0,0.0,17.0,0.0,3.0,1.0,0.0,2.0,0.0,8.5
+18,Scoresports Women U19,Samiksha Jamdade,,,,4.0,0.0,1.0,11.0,2.0,18.0,1.0,0.0,0.0,0.0,2.75
+18,Scoresports Women U19,Arnavee shinde,,,,2.0,0.0,0.0,11.0,1.0,8.0,1.0,0.0,1.0,0.0,5.5
+18,Scoresports Women U19,J P,,,,1.0,0.0,0.0,12.0,1.0,3.0,3.0,0.0,0.0,0.0,12.0
+19,MV Team A,Arush Dinde,26143769.0,RHB,Right-arm fast,20.0,0.0,9.0,41.0,2.0,100.0,6.0,0.0,0.0,0.0,2.05
+19,MV Team A,Daksh Khobragade,29187109.0,RHB,Right-arm fast,9.0,0.0,2.0,31.0,1.0,42.0,4.0,0.0,1.0,1.0,3.44
+19,MV Team A,Advit Suhas Wagh,17284581.0,RHB,Right-arm medium,6.0,0.0,0.0,27.0,0.0,22.0,3.0,0.0,0.0,1.0,4.5
+19,MV Team A,Advay Newase,28106291.0,RHB,Right-arm Off Break,11.0,0.0,0.0,36.0,1.0,47.0,4.0,0.0,2.0,0.0,3.27
+19,MV Team A,Arnav Rishikesh Gawade,26206374.0,RHB,Right-arm Leg Break,8.0,0.0,1.0,42.0,1.0,29.0,6.0,0.0,0.0,0.0,5.25
+19,MV Team A,Aahan Thanekar,3873563.0,LHB,Slow left-arm orthodox,13.0,0.0,1.0,41.0,1.0,57.0,4.0,0.0,1.0,1.0,3.15
+19,MV Team A,Shrey Joshi,24235650.0,RHB,Right-arm Leg Break,7.0,0.0,0.0,34.0,0.0,23.0,3.0,0.0,0.0,0.0,4.86
+19,MV Team A,Abir Vaidya,24328201.0,RHB,Slow left-arm chinaman,13.0,0.0,3.0,41.0,1.0,52.0,3.0,0.0,2.0,0.0,3.15
+19,MV Team A,Anargh Jain,11573993.0,RHB,Right-arm fast,2.0,0.0,0.0,17.0,0.0,5.0,3.0,0.0,0.0,0.0,8.5
+19,MV Team A,Krishna Padwal,29967355.0,RHB,Right-arm Leg Break,1.0,0.0,0.0,5.0,0.0,4.0,1.0,0.0,0.0,0.0,5.0
+19,MV Team A,--------------------------------------------------,,,,,,,,,,,,,,
+19,Metro A,Rugved Potdar,18849840.0,LHB,Right-arm medium,9.0,0.0,3.0,27.0,3.0,44.0,5.0,0.0,0.0,0.0,3.0
+19,Metro A,Pruthviraj,34499552.0,RHB,Right-arm medium,7.0,0.0,2.0,22.0,0.0,35.0,5.0,0.0,0.0,0.0,3.14
+19,Metro A,Kartavya Rathod,14714083.0,RHB,Right-arm Off Break,9.0,0.0,3.0,18.0,3.0,46.0,3.0,0.0,0.0,0.0,2.0
+19,Metro A,Shourya S Pardeshi,2036776.0,RHB,Left-arm fast,7.0,0.0,1.0,24.0,0.0,31.0,4.0,0.0,0.0,0.0,3.43
+19,Metro A,Sohail Shaikh,33816593.0,RHB,Right-arm Off Break,8.0,0.0,1.0,26.0,1.0,38.0,5.0,0.0,0.0,0.0,3.25
+19,Metro A,Swaroop Ghanwat,13341931.0,RHB,Slow left-arm orthodox,7.0,0.0,1.0,18.0,1.0,34.0,3.0,0.0,1.0,0.0,2.57
+19,Metro A,Arnav Vinode,34392732.0,LHB,Right-arm Off Break,6.0,0.0,1.0,20.0,1.0,30.0,4.0,0.0,0.0,1.0,3.33
+19,Metro A,Aryan Khedkar,21375379.0,LHB,Slow left-arm chinaman,10.0,0.0,6.0,19.0,3.0,55.0,4.0,0.0,1.0,0.0,1.9
+19,Metro A,Shaurya Singh,43670907.0,RHB,Right-arm Off Break,0.3,0.0,0.0,0.0,1.0,3.0,0.0,0.0,0.0,0.0,0.0
+20,Metro A,Rugved Potdar,18849840.0,LHB,Right-arm medium,5.0,30.0,1.0,23.0,2.0,23.0,3.0,1.0,0.0,1.0,4.6
+20,Metro A,Aarav Sampat,24271817.0,RHB,Right-arm medium,5.0,30.0,2.0,6.0,1.0,27.0,1.0,0.0,0.0,0.0,1.2
+20,Metro A,Pradnyesh Sawant,,,,5.0,30.0,3.0,11.0,0.0,26.0,2.0,0.0,0.0,0.0,2.2
+20,Metro A,Pruthviraj,34499552.0,RHB,Right-arm medium,5.0,30.0,2.0,4.0,1.0,27.0,0.0,0.0,0.0,0.0,0.8
+20,Metro A,Aryan Khedkar,21375379.0,LHB,Slow left-arm chinaman,5.0,30.0,3.0,4.0,3.0,27.0,0.0,0.0,1.0,0.0,0.8
+20,Metro A,Rajveer Chadha,,,,5.0,30.0,2.0,13.0,0.0,25.0,2.0,0.0,0.0,0.0,2.6
+20,Metro A,Swaroop Ghanwat,13341931.0,RHB,Slow left-arm orthodox,5.0,30.0,1.0,12.0,1.0,24.0,2.0,0.0,0.0,0.0,2.4
+20,Metro A,Parth Kadam,17042107.0,RHB,Right-arm Off Break,5.0,30.0,0.0,26.0,1.0,22.0,6.0,0.0,0.0,0.0,5.2
+20,Metro A,Pratyush Sandeep Rai,16136726.0,RHB,Right-arm Off Break,4.1,25.0,2.0,7.0,4.0,22.0,1.0,0.0,0.0,0.0,1.68
+20,Metro A,Pratik Nagavi,17973225.0,RHB,Right-arm Leg Break,4.0,24.0,4.0,0.0,1.0,24.0,0.0,0.0,0.0,0.0,0.0
+20,Metro A,--------------------------------------------------,,,,,,,,,,,,,,
+20,MV Team A,Satyajeet Bhumkar,28995986.0,LHB,Right-arm medium,15.0,90.0,2.0,48.0,2.0,70.0,8.0,0.0,0.0,0.0,3.2
+20,MV Team A,Arush Dinde,26143769.0,RHB,Right-arm fast,17.0,102.0,8.0,29.0,4.0,90.0,5.0,0.0,0.0,0.0,1.71
+20,MV Team A,Daksh Khobragade,29187109.0,RHB,Right-arm fast,8.2,50.0,0.0,28.0,1.0,36.0,3.0,0.0,1.0,2.0,3.36
+20,MV Team A,Yugveer,43046148.0,RHB,Right-arm medium,12.0,72.0,3.0,31.0,3.0,57.0,4.0,0.0,0.0,2.0,2.58
+20,MV Team A,Aahan Thanekar,3873563.0,LHB,Slow left-arm orthodox,8.0,48.0,1.0,31.0,0.0,39.0,5.0,0.0,2.0,3.0,3.88
+20,MV Team A,Abir Vaidya,24328201.0,RHB,Slow left-arm chinaman,7.0,42.0,0.0,28.0,0.0,30.0,4.0,0.0,0.0,1.0,4.0
+20,MV Team A,Anargh Jain,11573993.0,RHB,Right-arm fast,2.0,12.0,0.0,15.0,0.0,7.0,3.0,0.0,1.0,0.0,7.5
+20,MV Team A,Sarthak Mane,15877706.0,RHB,Right-arm Leg Break,4.0,24.0,0.0,9.0,0.0,18.0,1.0,0.0,0.0,0.0,2.25
+20,MV Team A,Advit Suhas Wagh,17284581.0,RHB,Right-arm medium,12.0,72.0,3.0,33.0,3.0,53.0,3.0,0.0,0.0,1.0,2.75
+20,MV Team A,Mitesh Nilesh Shinde,26872914.0,RHB,Right-arm medium,7.0,42.0,1.0,26.0,1.0,33.0,4.0,0.0,1.0,2.0,3.71
+21,MV Team A,Satyajeet Bhumkar,28995986.0,LHB,Right-arm medium,8.0,48.0,2.0,26.0,1.0,38.0,5.0,0.0,0.0,0.0,3.25
+21,MV Team A,Omaansh Bora,24235651.0,RHB,Left-arm fast,8.0,48.0,2.0,23.0,0.0,35.0,2.0,0.0,0.0,0.0,2.88
+21,MV Team A,Advay Newase,28106291.0,RHB,Right-arm Off Break,8.0,48.0,1.0,28.0,2.0,36.0,4.0,0.0,0.0,0.0,3.5
+21,MV Team A,Ayaan Singh,19715152.0,RHB,Left-arm fast,5.0,30.0,0.0,17.0,0.0,20.0,2.0,0.0,0.0,1.0,3.4
+21,MV Team A,Mitesh Nilesh Shinde,26872914.0,RHB,Right-arm medium,6.0,36.0,1.0,15.0,3.0,26.0,1.0,0.0,0.0,0.0,2.5
+21,MV Team A,Arnav Rishikesh Gawade,26206374.0,RHB,Right-arm Leg Break,7.0,42.0,1.0,29.0,1.0,31.0,5.0,0.0,1.0,1.0,4.14
+21,MV Team A,Hridaan Joshi,13496084.0,RHB,Right-arm Off Break,5.0,30.0,1.0,20.0,2.0,23.0,4.0,0.0,0.0,1.0,4.0
+21,MV Team A,--------------------------------------------------,,,,,,,,,,,,,,
+21,MV Team B,Arush Dinde,26143769.0,RHB,Right-arm fast,8.0,48.0,4.0,16.0,4.0,42.0,3.0,0.0,0.0,0.0,2.0
+21,MV Team B,Yugveer,43046148.0,RHB,Right-arm medium,9.0,54.0,0.0,38.0,1.0,40.0,8.0,0.0,0.0,0.0,4.22
+21,MV Team B,Rajveer Mehra,14026290.0,RHB,Right-arm medium,7.1,43.0,1.0,27.0,2.0,33.0,5.0,0.0,0.0,0.0,3.77
+21,MV Team B,Daksh Khobragade,29187109.0,RHB,Right-arm fast,9.0,54.0,5.0,14.0,2.0,47.0,2.0,0.0,0.0,0.0,1.56
+21,MV Team B,Aahan Thanekar,3873563.0,LHB,Slow left-arm orthodox,4.0,24.0,1.0,27.0,0.0,15.0,6.0,0.0,0.0,0.0,6.75
+21,MV Team B,Ryan,16296325.0,RHB,Right-arm Off Break,4.0,24.0,0.0,13.0,0.0,17.0,1.0,0.0,0.0,0.0,3.25
+21,MV Team B,Anargh Jain,11573993.0,RHB,Right-arm fast,2.0,12.0,0.0,6.0,0.0,9.0,1.0,0.0,0.0,0.0,3.0
+22,Mavericks Cricket Academy,Omaansh Bora,24235651.0,RHB,Left-arm fast,5.0,0.0,1.0,22.0,2.0,22.0,4.0,0.0,1.0,0.0,4.4
+22,Mavericks Cricket Academy,Daksh Khobragade,29187109.0,RHB,Right-arm fast,5.0,0.0,0.0,30.0,2.0,18.0,4.0,0.0,5.0,0.0,6.0
+22,Mavericks Cricket Academy,Advay Newase,28106291.0,RHB,Right-arm Off Break,5.0,0.0,0.0,30.0,1.0,18.0,5.0,0.0,1.0,1.0,6.0
+22,Mavericks Cricket Academy,Yugveer,43046148.0,RHB,Right-arm medium,6.0,0.0,0.0,43.0,1.0,21.0,2.0,2.0,8.0,2.0,7.17
+22,Mavericks Cricket Academy,Mitesh Nilesh Shinde,26872914.0,RHB,Right-arm medium,5.2,0.0,0.0,21.0,1.0,22.0,1.0,0.0,0.0,7.0,3.94
+22,Mavericks Cricket Academy,Rishabh Jha,31921229.0,RHB,Right-arm medium,7.0,0.0,0.0,25.0,2.0,29.0,2.0,0.0,5.0,0.0,3.57
+22,Mavericks Cricket Academy,Swara Kulkarni,24351502.0,RHB,Right-arm Off Break,3.0,0.0,0.0,35.0,0.0,8.0,4.0,2.0,0.0,1.0,11.67
+22,Mavericks Cricket Academy,Anargh Jain,11573993.0,RHB,Right-arm fast,5.0,0.0,0.0,44.0,0.0,15.0,5.0,1.0,5.0,2.0,8.8
+22,Mavericks Cricket Academy,Hridaan Joshi,13496084.0,RHB,Right-arm Off Break,3.0,0.0,0.0,33.0,0.0,5.0,4.0,1.0,2.0,0.0,11.0
+22,Mavericks Cricket Academy,Ayush Kamble,33108843.0,RHB,Right-arm fast,1.0,0.0,0.0,17.0,0.0,2.0,2.0,1.0,1.0,0.0,17.0
+22,Mavericks Cricket Academy,Ayush Kamble,33145142.0,RHB,Right-arm fast,1.0,0.0,0.0,17.0,0.0,2.0,2.0,1.0,1.0,0.0,17.0
+22,Mavericks Cricket Academy,--------------------------------------------------,,,,,,,,,,,,,,
+22,professional cricket academy (PCA),Aahan Harshad Shrirao,14558592.0,RHB,Right-arm fast,3.0,0.0,0.0,37.0,0.0,5.0,5.0,0.0,4.0,3.0,12.33
+22,professional cricket academy (PCA),Kiaan Shivale,43602133.0,RHB,Right-arm fast,9.0,0.0,0.0,57.0,0.0,28.0,7.0,0.0,4.0,2.0,6.33
+22,professional cricket academy (PCA),Naitik Chaturvedi,,,,5.0,0.0,0.0,49.0,0.0,11.0,8.0,0.0,4.0,0.0,9.8
+22,professional cricket academy (PCA),Advik Pandit,43716811.0,RHB,Right-arm medium,8.0,0.0,0.0,66.0,2.0,20.0,8.0,1.0,3.0,2.0,8.25
+22,professional cricket academy (PCA),Videet Mane,27295145.0,RHB,Right-arm medium,9.0,0.0,0.0,39.0,1.0,32.0,3.0,0.0,5.0,1.0,4.33
+22,professional cricket academy (PCA),Harshal Patil,8619082.0,RHB,Right-arm Leg Break,6.0,0.0,0.0,38.0,2.0,17.0,4.0,0.0,2.0,2.0,6.33
+22,professional cricket academy (PCA),Raman K,,,,2.0,0.0,0.0,10.0,0.0,5.0,1.0,0.0,0.0,0.0,5.0
+22,professional cricket academy (PCA),Shreeansh Dhamal,30973129.0,RHB,Right-arm medium,1.0,0.0,0.0,9.0,0.0,2.0,1.0,0.0,1.0,1.0,9.0
+22,professional cricket academy (PCA),Ambika Prashant Wable,33217468.0,RHB,Right-arm fast,0.2,0.0,0.0,2.0,0.0,1.0,0.0,0.0,0.0,1.0,6.0
+23,MEVRICKS CRICKET ACADEMY,Vihaan Malgi,16903137.0,RHB,Right-arm medium,8.4,0.0,0.0,37.0,2.0,34.0,5.0,0.0,0.0,0.0,4.27
+23,MEVRICKS CRICKET ACADEMY,saiman Shourya,17951219.0,LHB,Left-arm fast,8.0,0.0,1.0,24.0,0.0,37.0,4.0,0.0,0.0,0.0,3.0
+23,MEVRICKS CRICKET ACADEMY,Aarav Thangaokar,6876345.0,LHB,Slow left-arm orthodox,20.0,0.0,3.0,87.0,1.0,86.0,13.0,1.0,0.0,0.0,4.35
+23,MEVRICKS CRICKET ACADEMY,Shourya Birelly,,,,5.0,0.0,0.0,37.0,1.0,14.0,7.0,0.0,0.0,0.0,7.4
+23,MEVRICKS CRICKET ACADEMY,Swaraj Gaikwad,22884048.0,RHB,Right-arm Off Break,6.0,0.0,1.0,35.0,1.0,24.0,7.0,0.0,0.0,0.0,5.83
+23,MEVRICKS CRICKET ACADEMY,Sufiyan Makubhai,33250728.0,RHB,Right-arm medium,2.0,0.0,0.0,22.0,1.0,5.0,5.0,0.0,0.0,0.0,11.0
+23,MEVRICKS CRICKET ACADEMY,Pruthviraj Mundhe,,,,11.0,0.0,2.0,81.0,2.0,41.0,11.0,4.0,0.0,0.0,7.36
+23,MEVRICKS CRICKET ACADEMY,Vihan Yevankar,14154348.0,RHB,Right-arm Off Break,7.0,0.0,1.0,44.0,0.0,24.0,4.0,2.0,0.0,0.0,6.29
+23,MEVRICKS CRICKET ACADEMY,Jiyansh H Shah,15670361.0,RHB,Right-arm medium,7.0,0.0,1.0,27.0,1.0,29.0,4.0,0.0,0.0,0.0,3.86
+23,MEVRICKS CRICKET ACADEMY,--------------------------------------------------,,,,,,,,,,,,,,
+23,PATILS XI KAMSHET,Samarth Snehal Santosh Pawar,4336406.0,RHB,Right-arm medium,4.0,0.0,0.0,38.0,0.0,12.0,8.0,0.0,0.0,0.0,9.5
+23,PATILS XI KAMSHET,KARAN,17973420.0,LHB,Right-arm medium,2.0,0.0,0.0,9.0,0.0,9.0,2.0,0.0,0.0,0.0,4.5
+23,PATILS XI KAMSHET,Sahil Singh,4102851.0,RHB,Right-arm fast,6.0,0.0,1.0,25.0,3.0,27.0,3.0,1.0,0.0,1.0,4.17
+23,PATILS XI KAMSHET,Sarthak Pawar,24156898.0,LHB,Slow left-arm orthodox,7.3,0.0,1.0,32.0,1.0,31.0,4.0,1.0,0.0,0.0,4.27
+23,PATILS XI KAMSHET,Arpit Singh,4940668.0,RHB,Right-arm Off Break,6.0,0.0,0.0,32.0,2.0,22.0,6.0,0.0,0.0,0.0,5.33
+23,PATILS XI KAMSHET,Daksh Bahot,17973405.0,LHB,Right-arm Off Break,6.0,0.0,2.0,29.0,3.0,28.0,5.0,1.0,0.0,0.0,4.83
+23,PATILS XI KAMSHET,Ruturaj Shirtode,11607401.0,RHB,Right-arm Off Break,3.0,0.0,0.0,29.0,0.0,10.0,5.0,1.0,0.0,0.0,9.67
+23,PATILS XI KAMSHET,Swarup Babar,30479829.0,LHB,Right-arm fast,3.0,0.0,1.0,7.0,1.0,13.0,0.0,0.0,0.0,1.0,2.33
+24,Mavericks,Satyajeet Bhumkar,28995986.0,LHB,Right-arm medium,3.0,0.0,0.0,21.0,0.0,14.0,2.0,0.0,6.0,0.0,7.0
+24,Mavericks,Rajveer Mehra,14026290.0,RHB,Right-arm medium,3.0,0.0,2.0,6.0,0.0,16.0,1.0,0.0,0.0,0.0,2.0
+24,Mavericks,Jiyansh H Shah,15670361.0,RHB,Right-arm medium,3.0,0.0,0.0,18.0,0.0,13.0,3.0,0.0,4.0,0.0,6.0
+24,Mavericks,Ayaan Singh,19715152.0,RHB,Left-arm fast,3.0,0.0,0.0,15.0,2.0,13.0,2.0,0.0,3.0,0.0,5.0
+24,Mavericks,Mitesh Nilesh Shinde,26872914.0,RHB,Right-arm medium,3.0,0.0,0.0,9.0,0.0,14.0,0.0,0.0,3.0,0.0,3.0
+24,Mavericks,aryan jadhav,18893223.0,RHB,Left-arm medium,2.0,0.0,0.0,17.0,0.0,5.0,3.0,0.0,0.0,0.0,8.5
+24,Mavericks,Abir Vaidya,24328201.0,RHB,Slow left-arm chinaman,4.0,0.0,0.0,23.0,0.0,20.0,3.0,0.0,5.0,0.0,5.75
+24,Mavericks,Arush Dinde,26143769.0,RHB,Right-arm fast,5.1,0.0,2.0,4.0,6.0,28.0,0.0,0.0,1.0,0.0,0.77
+24,Mavericks,Sanskar Warate,42777267.0,RHB,Slow left-arm orthodox,4.0,0.0,1.0,7.0,1.0,22.0,1.0,0.0,2.0,0.0,1.75
+24,Mavericks,Swarit Gaikwad,30886591.0,RHB,Right-arm medium,1.0,0.0,0.0,1.0,0.0,6.0,0.0,0.0,1.0,0.0,1.0
+24,Mavericks,Naitik Dighe,21928960.0,LHB,Left-arm fast,1.0,0.0,0.0,6.0,1.0,6.0,1.0,0.0,1.0,1.0,6.0
+24,Mavericks,Arnav Rishikesh Gawade,26206374.0,RHB,Right-arm Leg Break,2.0,0.0,1.0,8.0,0.0,10.0,1.0,0.0,1.0,1.0,4.0
+24,Mavericks,Swarm Dhananjay Bhole,40845835.0,RHB,Right-arm Leg Break,2.0,0.0,0.0,17.0,0.0,7.0,2.0,0.0,2.0,0.0,8.5
+24,Mavericks,Sarthak Mane,15877706.0,RHB,Right-arm Leg Break,2.0,0.0,0.0,6.0,0.0,10.0,1.0,0.0,1.0,0.0,3.0
+24,Mavericks,--------------------------------------------------,,,,,,,,,,,,,,
+24,Sachin Zimal Cricket Academy,Aanay Ingale,24155730.0,RHB,Right-arm fast,4.0,0.0,0.0,26.0,0.0,16.0,4.0,0.0,2.0,1.0,6.5
+24,Sachin Zimal Cricket Academy,Samarth Patil,24381672.0,RHB,Right-arm fast,5.0,0.0,1.0,14.0,0.0,23.0,2.0,0.0,1.0,0.0,2.8
+24,Sachin Zimal Cricket Academy,Samved Phapale,19308223.0,LHB,Slow left-arm orthodox,9.1,0.0,2.0,35.0,3.0,40.0,3.0,1.0,2.0,0.0,3.82
+24,Sachin Zimal Cricket Academy,Arjun Chaudhari_33,32593386.0,LHB,Slow left-arm chinaman,3.5,0.0,1.0,7.0,1.0,19.0,1.0,0.0,0.0,0.0,1.83
+24,Sachin Zimal Cricket Academy,Prachit Phapale,,,,2.0,0.0,0.0,9.0,0.0,10.0,1.0,0.0,2.0,1.0,4.5
+24,Sachin Zimal Cricket Academy,SHREYAS KAPANE,,,,9.0,0.0,2.0,24.0,1.0,40.0,3.0,0.0,0.0,0.0,2.67
+24,Sachin Zimal Cricket Academy,VAIDEHI PARESH MAHAJAN,12373866.0,RHB,Right-arm Leg Break,2.0,0.0,0.0,14.0,0.0,7.0,3.0,0.0,0.0,0.0,7.0
+24,Sachin Zimal Cricket Academy,Aditya Swami,18124287.0,LHB,Right-arm Off Break,1.0,0.0,0.0,6.0,0.0,4.0,1.0,0.0,0.0,0.0,6.0
+24,Sachin Zimal Cricket Academy,Shreyas Dhumal,19644614.0,LHB,Right-arm Off Break,2.0,0.0,0.0,16.0,1.0,8.0,3.0,0.0,1.0,0.0,8.0
+24,Sachin Zimal Cricket Academy,Anay Choudhari,,,,0.5,0.0,0.0,9.0,0.0,0.0,1.0,0.0,0.0,0.0,10.8
+25,Special XI Cricket Academy,Raut ANSH Deepak,,,,7.0,0.0,0.0,70.0,2.0,23.0,12.0,0.0,11.0,1.0,10.0
+25,Special XI Cricket Academy,Anand Saudagar,,,,7.2,0.0,1.0,34.0,2.0,33.0,5.0,0.0,6.0,0.0,4.64
+25,Special XI Cricket Academy,Kartik Karande,40128656.0,RHB,Slow left-arm orthodox,7.0,0.0,2.0,30.0,0.0,32.0,5.0,0.0,2.0,0.0,4.29
+25,Special XI Cricket Academy,Samved Phapale,19308223.0,LHB,Slow left-arm orthodox,10.0,0.0,4.0,18.0,2.0,51.0,1.0,1.0,0.0,0.0,1.8
+25,Special XI Cricket Academy,Prachit Phapale,,,,7.0,0.0,0.0,51.0,2.0,17.0,6.0,0.0,4.0,1.0,7.29
+25,Special XI Cricket Academy,Veer Karande,22164037.0,RHB,Right-arm fast,5.0,0.0,0.0,40.0,0.0,12.0,4.0,0.0,2.0,1.0,8.0
+25,Special XI Cricket Academy,--------------------------------------------------,,,,,,,,,,,,,,
+25,Mavericks Cricket Academy,Satyajeet Bhumkar,28995986.0,LHB,Right-arm medium,10.0,0.0,1.0,61.0,2.0,33.0,8.0,0.0,6.0,0.0,6.1
+25,Mavericks Cricket Academy,Yugveer,43046148.0,RHB,Right-arm medium,3.0,0.0,0.0,21.0,0.0,13.0,4.0,0.0,3.0,0.0,7.0
+25,Mavericks Cricket Academy,Rajveer Mehra,14026290.0,RHB,Right-arm medium,10.0,0.0,1.0,28.0,2.0,44.0,3.0,0.0,1.0,0.0,2.8
+25,Mavericks Cricket Academy,Ryan,16296325.0,RHB,Right-arm Off Break,7.0,0.0,1.0,31.0,0.0,29.0,4.0,0.0,3.0,0.0,4.43
+25,Mavericks Cricket Academy,Aahan Thanekar,3873563.0,LHB,Slow left-arm orthodox,7.0,0.0,1.0,34.0,0.0,27.0,6.0,0.0,1.0,0.0,4.86
+25,Mavericks Cricket Academy,Omaansh Bora,24235651.0,RHB,Left-arm fast,2.0,0.0,0.0,17.0,0.0,7.0,4.0,0.0,0.0,0.0,8.5
+25,Mavericks Cricket Academy,Suryansh Baheti,19108075.0,RHB,Right-arm Off Break,8.0,0.0,0.0,45.0,1.0,30.0,6.0,0.0,5.0,1.0,5.62
+25,Mavericks Cricket Academy,Ayush Kamble,33108843.0,RHB,Right-arm fast,0.4,0.0,0.0,7.0,0.0,1.0,1.0,0.0,0.0,0.0,10.5
+25,Mavericks Cricket Academy,Ayush Kamble,33145142.0,RHB,Right-arm fast,0.4,0.0,0.0,7.0,0.0,1.0,1.0,0.0,0.0,0.0,10.5
+26,Siddharth Cricket Academy,Rutvij Kumbhar,,,,10.0,0.0,1.0,27.0,2.0,48.0,3.0,0.0,5.0,0.0,2.7
+26,Siddharth Cricket Academy,Pratyush Sandeep Rai,16136726.0,RHB,Right-arm Off Break,10.0,0.0,2.0,25.0,2.0,48.0,3.0,0.0,3.0,0.0,2.5
+26,Siddharth Cricket Academy,Aarav Somnath Kamble,34833469.0,RHB,Right-arm Off Break,5.2,0.0,0.0,13.0,1.0,27.0,2.0,0.0,2.0,0.0,2.44
+26,Siddharth Cricket Academy,Pratik Nagavi,17973225.0,RHB,Right-arm Leg Break,2.0,0.0,0.0,12.0,0.0,6.0,2.0,0.0,0.0,0.0,6.0
+26,Siddharth Cricket Academy,vighnesh Kate,24919939.0,LHB,Slow left-arm orthodox,10.0,0.0,1.0,29.0,0.0,41.0,2.0,0.0,3.0,0.0,2.9
+26,Siddharth Cricket Academy,NEEL RAJGURU,30566653.0,RHB,Right-arm Leg Break,8.0,0.0,3.0,13.0,1.0,40.0,1.0,0.0,2.0,0.0,1.62
+26,Siddharth Cricket Academy,Amita Arya,19870192.0,RHB,Right-arm medium,1.0,0.0,0.0,2.0,0.0,5.0,0.0,0.0,0.0,0.0,2.0
+26,Siddharth Cricket Academy,--------------------------------------------------,,,,,,,,,,,,,,
+26,Mavericks,Satyajeet Bhumkar,28995986.0,LHB,Right-arm medium,2.0,0.0,0.0,11.0,1.0,9.0,2.0,0.0,2.0,0.0,5.5
+26,Mavericks,Rajveer Mehra,14026290.0,RHB,Right-arm medium,1.5,0.0,0.0,27.0,0.0,4.0,5.0,0.0,2.0,1.0,14.73
+26,Mavericks,aryan jadhav,18893223.0,RHB,Left-arm medium,4.0,0.0,0.0,21.0,1.0,18.0,3.0,0.0,4.0,1.0,5.25
+26,Mavericks,Aahan Thanekar,3873563.0,LHB,Slow left-arm orthodox,3.0,0.0,0.0,8.0,0.0,13.0,1.0,0.0,0.0,0.0,2.67
+26,Mavericks,Arnav Rishikesh Gawade,26206374.0,RHB,Right-arm Leg Break,2.0,0.0,0.0,15.0,0.0,7.0,1.0,0.0,5.0,0.0,7.5
+26,Mavericks,Jiyansh H Shah,15670361.0,RHB,Right-arm medium,2.0,0.0,0.0,13.0,0.0,7.0,2.0,0.0,0.0,1.0,6.5
+26,Mavericks,Arush Dinde,26143769.0,RHB,Right-arm fast,2.0,0.0,0.0,10.0,0.0,6.0,1.0,0.0,0.0,0.0,5.0
+26,Mavericks,Mitesh Nilesh Shinde,26872914.0,RHB,Right-arm medium,2.0,0.0,0.0,15.0,0.0,5.0,1.0,0.0,0.0,1.0,7.5
+26,Mavericks,Ryan,16296325.0,RHB,Right-arm Off Break,1.0,0.0,0.0,3.0,0.0,3.0,0.0,0.0,0.0,0.0,3.0
+27,Mavericks Cricket Academy,Yugveer,43046148.0,RHB,Right-arm medium,3.0,0.0,0.0,40.0,0.0,7.0,6.0,1.0,5.0,0.0,13.33
+27,Mavericks Cricket Academy,Advay Newase,28106291.0,RHB,Right-arm Off Break,3.0,0.0,0.0,26.0,1.0,10.0,3.0,1.0,1.0,2.0,8.67
+27,Mavericks Cricket Academy,Omaansh Bora,24235651.0,RHB,Left-arm fast,3.0,0.0,0.0,20.0,0.0,10.0,3.0,0.0,2.0,0.0,6.67
+27,Mavericks Cricket Academy,Arnav Rishikesh Gawade,26206374.0,RHB,Right-arm Leg Break,2.0,0.0,0.0,27.0,0.0,2.0,3.0,1.0,1.0,2.0,13.5
+27,Mavericks Cricket Academy,Shourya Yogesh Rajguru,12540519.0,LHB,,2.0,0.0,0.0,20.0,0.0,5.0,3.0,0.0,2.0,1.0,10.0
+27,Mavericks Cricket Academy,Sparsh Moon,33618847.0,LHB,Left-arm fast,4.0,0.0,0.0,37.0,0.0,7.0,4.0,0.0,5.0,1.0,9.25
+27,Mavericks Cricket Academy,Anargh Jain,11573993.0,RHB,Right-arm fast,2.0,0.0,0.0,26.0,1.0,4.0,5.0,0.0,2.0,0.0,13.0
+27,Mavericks Cricket Academy,Rohitkrishna Sunilkumar,33505622.0,LHB,Left-arm medium,2.0,0.0,0.0,16.0,1.0,4.0,2.0,0.0,1.0,1.0,8.0
+27,Mavericks Cricket Academy,Nandika Sunilkumar,33505621.0,LHB,Slow left-arm chinaman,2.0,0.0,0.0,17.0,0.0,5.0,2.0,0.0,2.0,2.0,8.5
+27,Mavericks Cricket Academy,Shrey Joshi,24235650.0,RHB,Right-arm Leg Break,2.0,0.0,0.0,13.0,2.0,8.0,1.0,1.0,0.0,1.0,6.5
+27,Mavericks Cricket Academy,--------------------------------------------------,,,,,,,,,,,,,,
+27,Lesalt Cricket Academy,Tejash Mishra,,,,4.0,0.0,0.0,17.0,0.0,15.0,1.0,0.0,2.0,2.0,4.25
+27,Lesalt Cricket Academy,Jyotirmay M Zapugade,46754670.0,RHB,Slow left-arm orthodox,4.0,0.0,1.0,23.0,0.0,15.0,3.0,0.0,1.0,1.0,5.75
+27,Lesalt Cricket Academy,Aditya Kulkarni,,,,3.0,0.0,0.0,21.0,0.0,10.0,4.0,0.0,1.0,0.0,7.0
+27,Lesalt Cricket Academy,Parth Shah,,,,4.0,0.0,0.0,30.0,1.0,9.0,3.0,0.0,2.0,1.0,7.5
+27,Lesalt Cricket Academy,Hruditya Galande,43789985.0,RHB,Right-arm medium,1.0,0.0,0.0,11.0,0.0,0.0,1.0,0.0,1.0,0.0,11.0
+27,Lesalt Cricket Academy,Shreyas Dhumal,19644614.0,LHB,Right-arm Off Break,5.0,0.0,0.0,17.0,3.0,18.0,1.0,0.0,1.0,0.0,3.4
+27,Lesalt Cricket Academy,Saarth Gupta,34531421.0,RHB,Right-arm Off Break,3.0,0.0,0.0,23.0,1.0,9.0,3.0,0.0,1.0,1.0,7.67
+27,Lesalt Cricket Academy,Swaransh Chavan,,,,1.0,0.0,0.0,16.0,0.0,1.0,3.0,0.0,1.0,1.0,16.0
+28,Siddharth Cricket Academy,Pratyush Sandeep Rai,16136726.0,RHB,Right-arm Off Break,6.0,0.0,0.0,20.0,1.0,27.0,2.0,0.0,3.0,1.0,3.33
+28,Siddharth Cricket Academy,Aarav Lad,,,,6.0,0.0,1.0,29.0,2.0,25.0,2.0,1.0,5.0,1.0,4.83
+28,Siddharth Cricket Academy,vighnesh Kate,24919939.0,LHB,Slow left-arm orthodox,7.0,0.0,1.0,40.0,2.0,26.0,6.0,0.0,4.0,0.0,5.71
+28,Siddharth Cricket Academy,NEEL RAJGURU,30566653.0,RHB,Right-arm Leg Break,6.0,0.0,0.0,19.0,0.0,24.0,1.0,0.0,3.0,0.0,3.17
+28,Siddharth Cricket Academy,Arnav Nilesh Jadhav,,,,6.0,0.0,0.0,27.0,0.0,23.0,2.0,0.0,6.0,0.0,4.5
+28,Siddharth Cricket Academy,Shavej Pathan,12421137.0,RHB,Right-arm Leg Break,7.0,0.0,2.0,31.0,4.0,33.0,2.0,3.0,1.0,0.0,4.43
+28,Siddharth Cricket Academy,Sarvesh Sangale,4505173.0,RHB,Right-arm Off Break,6.0,0.0,0.0,15.0,1.0,24.0,1.0,0.0,0.0,0.0,2.5
+28,Siddharth Cricket Academy,--------------------------------------------------,,,,,,,,,,,,,,
+28,Mavericks Cricket Academy,Jiyansh H Shah,15670361.0,RHB,Right-arm medium,6.3,0.0,1.0,34.0,2.0,23.0,5.0,0.0,3.0,0.0,5.23
+28,Mavericks Cricket Academy,Arush Dinde,26143769.0,RHB,Right-arm fast,4.0,0.0,1.0,20.0,0.0,15.0,3.0,0.0,0.0,1.0,5.0
+28,Mavericks Cricket Academy,Sachi Adawade,3328285.0,RHB,Right-arm Leg Break,10.0,0.0,1.0,29.0,1.0,42.0,3.0,0.0,2.0,0.0,2.9
+28,Mavericks Cricket Academy,Rishabh Jha,31921229.0,RHB,Right-arm medium,4.0,0.0,0.0,26.0,0.0,15.0,4.0,0.0,2.0,1.0,6.5
+28,Mavericks Cricket Academy,Shrey Joshi,24235650.0,RHB,Right-arm Leg Break,2.0,0.0,0.0,15.0,0.0,4.0,2.0,0.0,0.0,0.0,7.5
+28,Mavericks Cricket Academy,Aahan Thanekar,3873563.0,LHB,Slow left-arm orthodox,3.0,0.0,0.0,33.0,0.0,5.0,6.0,0.0,0.0,1.0,11.0
+28,Mavericks Cricket Academy,Swara Kulkarni,24351502.0,RHB,Right-arm Off Break,8.0,0.0,1.0,33.0,3.0,28.0,4.0,0.0,1.0,0.0,4.12
+29,Beasport Cricket Academy,Ayaan Singh,19715152.0,RHB,Left-arm fast,4.0,0.0,0.0,26.0,0.0,13.0,4.0,0.0,0.0,0.0,6.5
+29,Beasport Cricket Academy,Arnav Yadav 19,12009010.0,RHB,Right-arm fast,4.0,0.0,0.0,29.0,0.0,10.0,4.0,0.0,0.0,0.0,7.25
+29,Beasport Cricket Academy,aryan jadhav,18893223.0,RHB,Left-arm medium,5.0,0.0,0.0,37.0,0.0,14.0,7.0,0.0,0.0,0.0,7.4
+29,Beasport Cricket Academy,Geetha Paruchuri,20855711.0,RHB,Right-arm medium,13.0,0.0,0.0,94.0,2.0,42.0,16.0,1.0,0.0,0.0,7.23
+29,Beasport Cricket Academy,Raj,25026707.0,RHB,Left-arm medium,16.5,0.0,1.0,56.0,4.0,69.0,7.0,0.0,0.0,0.0,3.33
+29,Beasport Cricket Academy,Dr Dipali,34928630.0,RHB,Left-arm fast,9.0,0.0,4.0,21.0,3.0,42.0,2.0,0.0,0.0,0.0,2.33
+29,Beasport Cricket Academy,Reyansh Mhaske,37073244.0,RHB,Right-arm Off Break,8.0,0.0,0.0,49.0,1.0,27.0,6.0,1.0,0.0,0.0,6.12
+29,Beasport Cricket Academy,Pranil Kandekar,51676749.0,RHB,Right-arm Leg Break,4.0,0.0,0.0,25.0,0.0,14.0,5.0,0.0,0.0,0.0,6.25
+29,Beasport Cricket Academy,Rudhav Rama Shankar,45154718.0,RHB,Right-arm medium,1.0,0.0,0.0,3.0,0.0,4.0,0.0,0.0,0.0,1.0,3.0
+29,Beasport Cricket Academy,--------------------------------------------------,,,,,,,,,,,,,,
+29,Vijay,Satyajeet Bhumkar,28995986.0,LHB,Right-arm medium,11.0,0.0,1.0,57.0,5.0,43.0,11.0,0.0,0.0,0.0,5.18
+29,Vijay,Jiyansh H Shah,15670361.0,RHB,Right-arm medium,5.0,0.0,1.0,15.0,0.0,24.0,2.0,0.0,0.0,0.0,3.0
+29,Vijay,Omaansh Bora,24235651.0,RHB,Left-arm fast,8.0,0.0,4.0,13.0,3.0,39.0,1.0,0.0,0.0,0.0,1.62
+29,Vijay,Arnav Rishikesh Gawade,26206374.0,RHB,Right-arm Leg Break,3.0,0.0,0.0,11.0,0.0,14.0,1.0,0.0,1.0,0.0,3.67
+29,Vijay,Vihan Yevankar,14154348.0,RHB,Right-arm Off Break,0.2,0.0,0.0,0.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0
+30,Vedic Fit CA U14,Arnav Mahajan,12322056.0,RHB,Right-arm fast,7.0,0.0,2.0,16.0,1.0,33.0,2.0,0.0,0.0,0.0,2.29
+30,Vedic Fit CA U14,Atharva Rane,,,,6.0,0.0,1.0,41.0,0.0,21.0,8.0,0.0,1.0,0.0,6.83
+30,Vedic Fit CA U14,Dhritil Patel,13439973.0,RHB,Right-arm medium,3.0,0.0,0.0,20.0,0.0,10.0,4.0,0.0,0.0,0.0,6.67
+30,Vedic Fit CA U14,VIRAJ KHADE,29612682.0,RHB,Right-arm medium,7.0,0.0,0.0,32.0,1.0,20.0,3.0,0.0,0.0,0.0,4.57
+30,Vedic Fit CA U14,Harsh Shivaji Deshmukh,14439644.0,RHB,Right-arm Leg Break,5.0,0.0,0.0,35.0,1.0,19.0,6.0,0.0,2.0,0.0,7.0
+30,Vedic Fit CA U14,JAY GOUR,,,,6.0,0.0,1.0,33.0,1.0,22.0,4.0,1.0,1.0,0.0,5.5
+30,Vedic Fit CA U14,Aarambh Patil,6093204.0,RHB,Right-arm Off Break,5.0,0.0,1.0,33.0,1.0,18.0,6.0,0.0,2.0,0.0,6.6
+30,Vedic Fit CA U14,Sourish Kore,17675138.0,RHB,Right-arm fast,2.0,0.0,0.0,24.0,0.0,3.0,4.0,0.0,2.0,0.0,12.0
+30,Vedic Fit CA U14,Aaditya Kolhe,25608566.0,RHB,Right-arm Leg Break,5.0,0.0,0.0,30.0,0.0,15.0,4.0,0.0,1.0,0.0,6.0
+30,Vedic Fit CA U14,Prathmesh Patil 09,25439911.0,RHB,Right-arm medium,4.0,0.0,0.0,36.0,0.0,10.0,5.0,1.0,2.0,0.0,9.0
+30,Vedic Fit CA U14,--------------------------------------------------,,,,,,,,,,,,,,
+30,Vijay Cricket Club U14,Arush Dinde,26143769.0,RHB,Right-arm fast,4.0,0.0,0.0,16.0,0.0,19.0,3.0,0.0,2.0,0.0,4.0
+30,Vijay Cricket Club U14,aryan jadhav,18893223.0,RHB,Left-arm medium,4.0,0.0,0.0,20.0,2.0,18.0,2.0,0.0,6.0,0.0,5.0
+30,Vijay Cricket Club U14,Jiyansh H Shah,15670361.0,RHB,Right-arm medium,5.0,0.0,2.0,13.0,2.0,25.0,2.0,0.0,0.0,0.0,2.6
+30,Vijay Cricket Club U14,Shrey Joshi,24235650.0,RHB,Right-arm Leg Break,3.3,0.0,0.0,27.0,2.0,10.0,4.0,0.0,2.0,0.0,7.71
+30,Vijay Cricket Club U14,Aahan Thanekar,3873563.0,LHB,Slow left-arm orthodox,5.0,0.0,0.0,27.0,1.0,19.0,5.0,0.0,0.0,0.0,5.4
+30,Vijay Cricket Club U14,Shivraj Sarde,24199085.0,RHB,Right-arm Off Break,5.0,0.0,0.0,13.0,0.0,23.0,2.0,0.0,0.0,0.0,2.6
+30,Vijay Cricket Club U14,Vihan Yevankar,14154348.0,RHB,Right-arm Off Break,8.0,0.0,0.0,28.0,1.0,34.0,3.0,0.0,2.0,0.0,3.5
+31,Mavericks Vijay U14,Omaansh Bora,24235651.0,RHB,Left-arm fast,7.0,42.0,1.0,29.0,1.0,28.0,4.0,0.0,2.0,0.0,4.14
+31,Mavericks Vijay U14,Dhanashree,26587433.0,RHB,Right-arm medium,6.0,36.0,0.0,40.0,1.0,21.0,6.0,1.0,0.0,0.0,6.67
+31,Mavericks Vijay U14,Advay Newase,28106291.0,RHB,Right-arm Off Break,8.0,48.0,1.0,28.0,0.0,35.0,4.0,0.0,0.0,1.0,3.5
+31,Mavericks Vijay U14,Ayaan Singh,19715152.0,RHB,Left-arm fast,8.0,48.0,0.0,44.0,0.0,26.0,5.0,0.0,2.0,1.0,5.5
+31,Mavericks Vijay U14,Advit Suhas Wagh,17284581.0,RHB,Right-arm medium,4.0,24.0,0.0,13.0,1.0,16.0,1.0,0.0,0.0,0.0,3.25
+31,Mavericks Vijay U14,Ryan,16296325.0,RHB,Right-arm Off Break,9.0,54.0,1.0,27.0,1.0,39.0,3.0,0.0,1.0,1.0,3.0
+31,Mavericks Vijay U14,Mitesh Nilesh Shinde,26872914.0,RHB,Right-arm medium,6.0,36.0,1.0,21.0,0.0,25.0,3.0,0.0,0.0,0.0,3.5
+31,Mavericks Vijay U14,Shrey Joshi,24235650.0,RHB,Right-arm Leg Break,20.0,120.0,2.0,64.0,6.0,82.0,6.0,0.0,0.0,2.0,3.2
+31,Mavericks Vijay U14,Abir Vaidya,24328201.0,RHB,Slow left-arm chinaman,13.5,83.0,3.0,42.0,3.0,60.0,5.0,0.0,3.0,1.0,3.04
+31,Mavericks Vijay U14,Ayush Kamble,33108843.0,RHB,Right-arm fast,3.0,18.0,0.0,22.0,0.0,9.0,3.0,0.0,0.0,0.0,7.33
+31,Mavericks Vijay U14,Ayush Kamble,33145142.0,RHB,Right-arm fast,3.0,18.0,0.0,22.0,0.0,9.0,3.0,0.0,0.0,0.0,7.33
+31,Mavericks Vijay U14,--------------------------------------------------,,,,,,,,,,,,,,
+31,Wakad Gymkhana U14,Shreyansh Sharma,14666627.0,RHB,Right-arm fast,10.0,60.0,4.0,23.0,4.0,51.0,3.0,0.0,0.0,0.0,2.3
+31,Wakad Gymkhana U14,Kanishk Sharma,27429917.0,RHB,Right-arm fast,6.0,36.0,2.0,13.0,2.0,32.0,3.0,0.0,0.0,0.0,2.17
+31,Wakad Gymkhana U14,Chinmay Chaudhari,20530107.0,LHB,Right-arm fast,4.0,24.0,0.0,15.0,1.0,15.0,1.0,0.0,0.0,0.0,3.75
+31,Wakad Gymkhana U14,Ansh Chitty,42848935.0,RHB,Right-arm medium,3.0,18.0,0.0,15.0,0.0,12.0,2.0,0.0,0.0,0.0,5.0
+31,Wakad Gymkhana U14,Shlok Balghare,37532107.0,RHB,Right-arm medium,5.0,30.0,0.0,21.0,0.0,20.0,3.0,0.0,0.0,0.0,4.2
+31,Wakad Gymkhana U14,Sashwat Singh,13519636.0,RHB,Right-arm Leg Break,11.1,67.0,7.0,16.0,5.0,61.0,3.0,0.0,0.0,1.0,1.43
+31,Wakad Gymkhana U14,Ayansh Keshwani,13609091.0,RHB,Right-arm fast,2.0,12.0,0.0,15.0,0.0,6.0,2.0,0.0,0.0,1.0,7.5
+31,Wakad Gymkhana U14,Krishna Magar,24512651.0,RHB,Right-arm Off Break,4.0,24.0,1.0,18.0,0.0,15.0,3.0,0.0,0.0,0.0,4.5
+31,Wakad Gymkhana U14,Avneesh Harnawal,36786293.0,RHB,Right-arm medium,4.0,24.0,0.0,19.0,1.0,15.0,3.0,0.0,0.0,1.0,4.75
+31,Wakad Gymkhana U14,Vivek Singh Rajput,16734638.0,RHB,Right-arm fast,2.0,12.0,1.0,1.0,0.0,11.0,0.0,0.0,0.0,0.0,0.5
+31,Wakad Gymkhana U14,Ayansh Tayde,19100775.0,LHB,Left-arm fast,3.0,18.0,1.0,7.0,0.0,13.0,0.0,0.0,1.0,0.0,2.33
+31,Wakad Gymkhana U14,Amey Chapalgoankar,14536066.0,RHB,Right-arm fast,5.0,30.0,1.0,16.0,1.0,22.0,1.0,0.0,0.0,0.0,3.2
+31,Wakad Gymkhana U14,Ansh Raj,22272873.0,RHB,Right-arm Off Break,1.0,6.0,0.0,6.0,0.0,3.0,1.0,0.0,0.0,0.0,6.0
